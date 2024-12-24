@@ -1,0 +1,456 @@
+count,day,month,year,glider,time,takeoff,description
+5,1,4,2007,AvaxSR7,900,Lisca,DpOpen metuljmanija
+1,6,4,2007,AvaxSR7,330,Sorca,Sorca 100km trikotnik stara vrhnika
+1,9,4,2007,AvaxSR7,96,Slivnica,Slivnica  čez ribnico ...
+1,11,4,2007,AvaxSR7,371,Sorca,Sorca gemona julici ratitovec julici bohinj
+1,21,6,2007,AvaxSR7,136,Ratitovec,RATITIOVEC OPEN
+1,23,6,2007,AvaxSR7,131,Ratitovec,RATITIOVEC OPEN
+1,24,6,2007,AvaxSR7,148,Ratitovec,RATITIOVEC OPEN
+1,1,7,2007,AvaxSR7,211,Buzet,ISTRA OPEN
+1,3,7,2007,AvaxSR7,241,Buzet,ISTRA OPEN
+1,5,7,2007,AvaxSR7,190,Buzet,ISTRA OPEN
+1,21,7,2007,AvaxSR7,172,Učka ,Učka Stara vrhnika
+1,15,8,2007,AvaxSR7,199,Sorca,Na bohincih 1400baza triglav 2900
+1,19,9,2007,AvaxSR7,25,Zavrh,Zavrh nevihta na vrhniki pristanek škorpion
+1,20,9,2007,AvaxSR7,85,Zavrh,Zavrh 1600 planina domov
+1,21,9,2007,AvaxSR7,90,Zavrh,Zavrh levo desno pristanek pri avtu
+1,22,9,2007,AvaxSR7,14,Planina,skok iz planine
+1,30,9,2007,AvaxSR7,92,Slivnica,slivnica močan zahodnik
+1,8,10,2007,AvaxSR7,72,Planina,planina jadranje trening wingoverji sat
+1,3,11,2007,AvaxSR7,15,Planina,peš na planino in spust
+1,20,1,2008,AvaxSR7,10,Slivnica,SLIVNICA  peš gor skok dol
+1,26,1,2008,AvaxSR7,60,Lijak,zimska liga jadranje
+1,27,1,2008,AKRO,3,Strmca,akro padalo
+1,29,1,2008,Magus,10,Ulavka,skok do doma
+1,10,2,2008,Magus,90,Gozd,na krvavec in nazaj
+1,11,2,2008,Magus,15,Ulavka,skok do doma
+1,14,2,2008,Magus,10,Ulavka,skok do doma
+1,16,2,2008,Magus,45,Zavrh,zavrh – do doma razmeroma močan vetre potrebno je bilo počakat na štart
+1,17,2,2008,Magus,60,Lijak,veter. nizka baza 1400. domov nisem mogu zato pristanek na colu
+1,23,2,2008,Tandem,15,Gozd,peljal sem matjaža
+1,24,2,2008,Magus,118,Lijak,zimska liga jadranje
+1,26,2,2008,Magus,5,Lijak,zimska liga jadranje
+1,2,3,2008,Magus,79,Vremščica ,Jadranje in nastavitve speeda
+1,15,3,2008,AvaxSR7,15,Slivnica,
+1,18,3,2008,Magus,132,Bassano,Jadranje in nastavitve speeda
+1,19,3,2008,Magus,240,Bassano,Prva tekma velik zajeb z inštrumentom in markerjem
+1,20,3,2008,Magus,20,Bassano,Tekma je odpovedana mal jadramo
+1,21,3,2008,Magus,80,Bassano,Tekma je skenslana nevihte pokrivanje letenje med oblaki in pristanek v močnem vetru
+1,30,3,2008,Domino in DHV 2 Gradient,30,Prebold – Krvavec,Šolski teren Prebold potem pa odlično jadranje na Krvavcu
+1,1,4,2008,Magus,11,Zavrh,skok
+1,3,4,2008,Magus,18,Ulavka,Skok iz ulavke jadranje na stolpu
+1,5,4,2008,Magus,317,Pian kavalo,Let do sorice tako mraz da nisem mogel več
+1,6,4,2008,Magus,99,Lijak,Zimska liga 38km
+1,19,4,2008,Magus,260,Čedad,Čedad do razdrtega 90km
+1,24,4,2008,Magus,90,Zabočevo,Zabočevo jadranje trening pobiranja pristanek rakitna
+1,26,4,2008,Magus,15,Zavrh,Skok močan severo vshodnik
+1,26,4,2008,Magus,15,Ulavka,Skok močan severo vshodnik
+1,27,4,2008,Magus,14,Smuk,Liga cura
+1,27,4,2008,Magus,143,Smuk,Liga oblet discipline. Verjetno najhitrejši speed run.
+1,3,5,2008,Magus,114,Poggio Bustone,PWC tening dan
+1,4,5,2008,Magus,240,Poggio Bustone,PWC prva tekma 8.v cilju. Nastavljen sem bil za zmago. Skupina meujame juri je bil po tem še vedno nastavljen za zmago vendar mu nuspe. Scuri
+1,5,5,2008,Magus,0,Poggio Bustone,Tekma je odpovedana
+1,6,5,2008,Magus,143,Poggio Bustone,PWC druga tekma prvi porinem proti cilju. Nekoliko nizko vendar so vsi ki so bili nižje naredili. Jaz začnem cincat in  izgubim pozicijo. Na koncu 18. v cilju takoj za urbanom
+1,7,5,2008,Magus,93,Poggio Bustone,PWC tekma je v zraku odpovedana
+1,8,5,2008,Magus,244,Poggio Bustone,PWC tekma v ne morem zadržat in letet skupaj z prvo skupino. Problemi povsod. V cilj pridem okoli 70. Mesta
+1,9,5,2008,Magus,270,Poggio Bustone,"PWC tekma, super disciplina litimo špuro 113km, super vreme čez hribe z fenomenalnimi višinami. Zataknem se na enem kurčevem hribu v leesideu. Na kuncu pride 5 pilotov v cilj. Vsi ostali smo v rangu nekaj kilometrov od cilja. Po tem tekmovanju sem na 9.mestu skupno. Urban 1. Podobnik 2. Slovenia team 1.mesto."
+1,11,5,2008,Magus,3,Zavrh,Curaža po peti uri
+1,14,5,2008,AvaxSR7,65,Zabočevo,Jadranje po dolini pristanek na rakitni
+1,25,5,2008,Magus,120,Grindevald,PWC ukurcu tekma 40km
+1,28,5,2008,Magus,120,Grindevald,PWC ukurcu tekma 40km zglanje levo desno po enem grebuenu.. Cel teden v kurcu vreme rez. Urban 40 jaz 80
+1,1,6,2008,AvaxSR7,35,Slivnica,"Letenje proti zabpčevem curaža, erzo je lepo pokazal kako se leti na nizkem in položnem terenu"
+1,3,6,2008,Stream,10,Stolp,Skok dol in en full stall
+1,7,6,2008,Stream,15,Kuk-kobarid,Skok kobartid adrenalin POP TV
+1,8,6,2008,Stream,10,Stolp,Skok  iz hriba po nevihti katero sem pravilno predvideval da gre mimo
+1,9,6,2008,Stream,65,Zavrh,jadranje in akro
+1,11,6,2008,Magus,30,Strmica,Test novega sedeža
+1,13,6,2008,Sonic,5,Stolp,Acro padalo test
+1,13,6,2008,Sonic,5,Stolp,Acro padalo test
+1,14,6,2008,Magus,93,Castehon de sos,PWC trening dan
+1,15,6,2008,Magus,25,Castehon de sos,Cancel bežanje v dolino
+1,17,6,2008,Magus,99,Castehon de sos,Hitra tekma okili doline v cilju okoli 40 vendar 900 točk
+1,18,6,2008,Magus,315,Castehon de sos,Dolga disciplina 140 v špuro
+1,19,6,2008,Magus,316,Castehon de sos,Najbolj zajebana disciplina ki sem jo letel kvadrat 90km zadnji v cilju. Zaveterne točke totalna jeba
+1,20,6,2008,Magus,85,Castehon de sos,Prekinjena disciplina. Task komite je debiln. Gremo domov ker se je prejšnji dan ubil Dimiter
+1,21,6,2008,Sonic,10,Zabočevo ,Skok pa peš po avto 
+1,25,6,2008,Magus,270,Krvavec,2. mesto drugače sem imel 30min za zmago
+1,26,6,2008,Magus,75,Ratitovec,7.mesto
+1,26,6,2008,Sonic,10,Stolp,skok
+1,27,6,2008,Magus,158,Ratitovec,1.mesto
+1,28,6,2008,Magus,127,Ratitovec,2.mesto in skupno drugo mesto
+1,2,7,2008,Sonic,5,Stolp,Peš gor skok dol
+1,8,7,2008,Sonic,5,Stolp,Peš gor skok dol
+1,9,7,2008,Sonic,5,Stolp,Peš gor skok dol
+1,10,7,2008,Magus,101,Zabočevo,letenje okoli doline pristanek na rakitni.. Z erzotom on leti v Notranje gorice
+1,10,7,2008,Sonic,5,Stolp,Peš gor skok dol
+1,11,7,2008,Sonic,30,Strmca,Jadranje v precej močnem vetru
+1,12,7,2008,Sonic,90,Kovk,Jadranje prvič helikopter
+1,3,8,2008,Magus,187,Bolgaria-Shambala-Sopot-Karlovo,PWC TEKMA 71km task ravnina
+1,4,8,2008,Magus,217,Bolgaria-Shambala-Sopot-Karlovo,PWC TEKMA 80km task stopped
+1,5,8,2008,Magus,223,Bolgaria-Shambala-Sopot-Karlovo,PWC TEKMA 77km
+1,7,8,2008,Magus,240,Bolgaria-Shambala-Sopot-Karlovo,PWC TEKMA
+1,8,8,2008,Magus,244,Bolgaria-Shambala-Sopot-Karlovo,PWC TEKMA
+1,9,8,2008,Magus,138,Bolgaria-Shambala-Sopot-Karlovo,PWC TEKMA
+1,21,8,2008,Magus,47,Zavrh,Z erzotom mal jadrava in pristaneva za tarasovo bajto
+1,24,8,2008,Magus,202,Kobariški Stol ,Prva tekma zajebem in delam kazenski krog okoli drežnice in jošk
+1,25,8,2008,Magus,49,Kobariški Stol ,Dirka skenslana dule je dol ubrisal
+1,26,8,2008,Magus,135,Kobariški Stol ,"Letim odlično skoz v prvi grupi, pred ciljem malo zaglibim v grebenu. V cilj priletim 6"
+1,27,8,2008,Magus,148,Kobariški Stol ,
+1,28,8,2008,Magus,183,Kobariški Stol ,Kuk odlična disciplina čez italijio Mija matajur
+1,29,8,2008,Magus,161,Kobariški Stol ,Zafuk na žagi drugače odlično letenje
+1,30,8,2008,Magus,106,Kobariški Stol ,Zmaga jest aljaz urabn
+1,31,8,2008,Sonic,5,Ulavka,Pristanek v Razorski dolini
+1,15,9,2008,Sonic,5,Ulavka,Pristanek na vhodu v Razorsko dolino
+1,16,9,2008,Sonic,5,Ulavka,Pristanek na vhodu v Razorsko dolino
+1,16,9,2008,Sonic,5,Ulavka,Pristanek na vhodu v Razorsko dolino
+1,17,9,2008,Sonic,20,Zabočevo,Jadranje in curaža potem peš na štart
+1,18,9,2008,Sonic,5,Ulavka,Skok z hriba
+1,18,9,2008,Sonic,5,Ulavka,Skok z hriba
+1,18,9,2008,Sonic,5,Ulavka,Skok z hriba
+1,19,9,2008,Sonic,45,Zavrh,"Jadranje pristanek na vrhniki, naredil sem en helikopter in en sat"
+1,20,9,2008,Sonic,75,Zavrh,Jadranje ful veter pa sem komaj ostal gor. Potem en helikopter asimetrija in curaža do škorpiona.
+1,21,9,2008,Sonic,15,Zavrh,Svoh jadranje en slab helikopterček in pristanek
+1,28,9,2008,Magus,65,Brazilija Castelo,Trening dan letkanje
+1,29,9,2008,Magus,150,Brazilija Castelo,Tekma sem na 5 mestu samo me zjebe inštrument imam minimum distance
+1,30,9,2008,Magus,180,Brazilija Castelo,4.mesto
+1,1,10,2008,Magus,180,Brazilija Castelo,ful zafukan letenje po tleh
+1,2,10,2008,Magus,180,Brazilija Castelo,isto sploh zadosti ljudi ni preletelo razdlaje za vlejavnost
+1,3,10,2008,Magus,180,Brazilija Castelo,dobra tekmovalna tekma. Borim se za zmago z simčem se zapeljeva v stene na štartu a potem scuriva pred ciljem
+1,4,10,2008,Magus,180,Brazilija Castelo,ponovno jebena tekma. Scurim z podobnikom na prvi večjih skalah. Prevko se je čudežno pobral. Enako tudi brauner...
+1,5,10,2008,Magus,150,Brazilija Castelo,4.mesto ponovno 
+1,8,10,2008,Magus,10,Brazilija Na vrhu Espirito Santa Peščine,jadranje na plaži
+1,16,10,2008,Magus,330,Brazilija Valadares,Z prevkotom sva odletelea 170km skor je ze zgledal da bo 200
+1,17,10,2008,Magus,30,Brazilija Valadares,Mal jadranje pa skok v dolino
+1,21,10,2008,Magus,90,Brazilija Rio,Jadranje okol štarta poizkušamo na razne načine ampak ne gre do jezusa
+1,24,10,2008,Magus,5,Ulavka,Predno gre erzo v bazil se je treba vržt iz ulavke
+1,17,11,2008,Magus,60,Lijak,"Najprej peš gor potem pa super leteneje. Brez varija nad vse do škabrijela, rampe in pristanek."
+1,19,11,2008,Magus,60,Kovk,Jadranje z marlijem skoraj do predmeje. Drugače pa sem probaval sedež xcmaster za crosscountry...
+1,19,11,2008,Magus,15,Kovk,Drugi let popravek nastavitve sedeža..
+1,7,12,2008,AvaxSR7,15,Lijak,Skok in curaža na pisto
+1,7,12,2008,AvaxSR7,15,Lijak,Peš nazaj z simeonom pa še en panoramc
+1,31,12,2008,Magus,30,Kovk,Na pol kreš na štartu
+1,17,1,2009,Magus,30,Krvavec,Piha sever gremo z zvoha dol in štartamo pri hotelu
+1,26,1,2009,Magus,15,Ulavka,Skok z hriba pol pa tek peš po avto. Letiva z erzotom
+1,31,1,2009,Sonic,30,Zavrh,letkanje okoli po grebenu precej je pihalo mrzlo je bilo ko svinja
+1,14,2,2009,Magus,90,Lijak,Zimska liga 45km zmagal pred hafnerjem in Urabnom.. Kasneje prileti še marli aljaž...
+1,19,2,2009,Magus,30,Zavrh,Let na staro vrhniko z erzotom
+1,20,2,2009,Magus,90,Lijak,Nanosa nisem mogu pobrat ker je bilo vse v temi
+1,25,2,2009,Magus,200,Lijak,"Lijak, Kobilja, Anhovo crknu je dan"
+1,27,2,2009,Magus,52,Vremščica ,Jadranje in letkanje okol vremscice na štartu je pihalo dol
+1,28,2,2009,Magus,91,Lijak,Zimska liga letel sem odlično do ciljnega doleta kjer sem porinil prenizko
+1,8,3,2009,Magus,91,Gozd,Od gozda na krvavc pa notr in nazaj z hafijem sva odletela odlično nedeljsko popoldne
+1,18,3,2009,Magus,60,Ibituruna,Letkanje okoli hriba in potem pobeg v valadares na pristanek zaradi ploh.
+1,19,3,2009,Magus,120,Ibituruna,letenje tekme valadares open. Startal sem zelo pozno tako da sem se vlačil po podnu do zadnje obratne točke kjer sem scuril
+1,21,3,2009,Magus,165,Ibituruna,letenje trening jutri je prva tekma. Letel sem z raulom in mikijem naredil smo 57km. Raul je scuril blo je res kriza vmes.. potem pa super letenje domov.
+1,22,3,2009,Magus,65,Ibituruna,prva tekma praktično vsi smo se ulegli po prvem glajdu od pilona. Ha ha
+1,23,3,2009,Magus,150,Ibituruna,druga tekma totalna tema naredil smo 25km jaz sem za to potreboval dve uri in pol s tem da sem pristal z prvo skupino. Je pa nekdo odletel 40km
+1,24,3,2009,Magus,45,Ibituruna,Tekma je odpovedana
+1,25,3,2009,Magus,61,Ibituruna,Tekma je odpovedana
+1,26,3,2009,Magus,90,Ibituruna,Tekma 37km miki zmaga jaz scurim na 27km ostali se zajebejo ker čakajo
+1,27,3,2009,Magus,205,Ibituruna,Disciplina 51km gre mi zelo dobro dokler ne pridemo do roba teme tukaj se pra skupina zagoni v temo na tla jaz pa na sonce skoraj scurim. Tolk nizko se še nisem pobral. Do pred cilja se pripeljem pod prvo skupino vendar se ne da nič več naredit. Tukaj se zataknemo in čakamo da bi kaj pobrali hrib ne da pobočnika tako da scurimo pod hribom.. 
+1,5,4,2009,Magus,90,Kobala,letkanje z urbanom
+1,5,4,2009,Magus,7,Mrzli Vrh nad Zirmi,skok v ziri
+1,11,4,2009,Magus,38,Kobala,jadranje ful je pihal
+1,12,4,2009,Sonic,11,Kobala,peš na kobalo in skok z akrotom
+1,12,4,2009,Magus,155,Kobala,jadranje na zadnjih hribih do osmih zvečer... noro dobr
+1,25,4,2009,Magus,90,Lisca,tekma jebal me je inštrument na kocu sem štrikal do konca in zato nisem vlekel linije kar me je koštalo par kilometrov
+1,26,4,2009,Magus,178,Lisca,"tekma vodil sem jo do konca, potem pa naredil napako in šel pobirat na področje od koder se ni dalo rešiti. Zmaga je bila ze v rokah. Problem je iil da nisem verjel da na drugi način pridem v cilj in zato ponovno nisem vlekel spure."
+1,8,5,2009,Magus,137,Kobala ,z urbanom sva letela proti mangartu in nazaj
+1,10,5,2009,Magus,217,Levico Terme,češki open.. na prvi tekmi sem bil 5. vendar bi lahko zmagal glede na to da smo tolk cincal na kocu. 
+1,11,5,2009,Magus,207,Levico Terme,druga dirka je bila prekinjena bil sem v precej slabem položaju če ne bi bila preknjena bi bil dober ker je folk pocuril
+1,12,5,2009,Magus,17,Levico Terme,skenslal so tekmo morlani maček
+1,13,5,2009,Magus,120,Levico Terme,tekma v čisti temi kot v braziliji. Na koncu glajdamo po dolini.. meni odleti do kurca... vsi so boljš odglajdal kot jest
+1,14,5,2009,Magus,197,Levico Terme,"tekma zandjna, zmagal sem z leeding pointi.. in pristal iz 10.mesta na drugo mesto.."
+1,17,5,2009,Magus,207,Kobala,Z Urbnom letiva v rezijo in nazaj v kobarid
+1,20,5,2009,Magus,81,Mrzli Vrh na Matajurju,Liga tekma sem tretji prvi drugi in edina v cilju valiča
+1,21,5,2009,Magus,234,Kobariški Stol ,3.mesto
+1,22,5,2009,Magus,89,Kobariški Stol ,4.mesto
+1,23,5,2009,Magus,63,Kobariški Stol ,14. hafi me je prehitil za 3 točke
+1,28,5,2009,Magus,140,Pamukle – Turčija,turčija pred tekmo mal treninga
+1,29,5,2009,Magus,80,Pamukle – Turčija,trening dan letkanje
+1,30,5,2009,Magus,179,Pamukle – Turčija,prva tekma z jurijem in aljazem se ujamemo na ravnini tako da zaklučimo disciplino precej odzadi
+1,1,6,2009,Magus,126,Pamukle – Turčija,druga tekma zajebem in odletim le 44km od 89km 
+1,2,6,2009,Magus,266,Pamukle – Turčija,tretja tekma letim v prvi skupini celo tekmo potem pa zajebem tik pred ciljem in izcurim 2km pred ciljem. Nisem mogu pobrat ker je bilo prešibko in preveč iz strani na greben
+1,5,6,2009,Magus,192,Pamukle – Turčija,"četrta tekma jebal me je inštrument, imel sem prazne baterijev cilj sem prišel okoli 15 mesta"
+1,11,6,2009,Solski,18,Gozd senično,izpit za inšturktorje
+1,11,6,2009,Magus,102,Gozd senično,letkanje na godzu najprej sva z gašperjem naredila izpit za inštruktorja potem pa še odletela 2urci
+1,13,6,2009,Artic niviuk,70,Annecy,"fotkanje z Rwanom, in Banotom"
+1,13,6,2009,Magus,90,Annecy,"fotkanje z Rwanom, in Banotom"
+1,14,6,2009,Magus,90,Annecy,tekma pwc 58km zajebal sem in scuril v cilj
+1,16,6,2009,Magus,182,Annecy,tekma 58km bil sem 12 letel sem dobro na koncu sem scuril na prelazu
+1,17,6,2009,Magus,123,Annecy,tekma kaze kot da sem tretji
+1,18,6,2009,Magus,190,Annecy,Tekma 58km masaker na grebenu nisem mogu pobrat šele tretja skupina se odpeljem in lovim glavnino. Priletim za našimi 12min.
+1,27,6,2009,Magus,20,Dražgose spodaj,"Jutri se začne drzavno, blo je razjeban in ful je kuhal"
+1,29,6,2009,Magus,7,Stari vrh,Pometala smo se dol in scurili...
+1,30,6,2009,Magus,62,Ratitovec,tekma na knap med nevihtami izpeljemo tekmo urban zmaga aljaz drugi jaz pa tretiji za las.
+1,1,7,2009,Magus,96,ratitovec,tekma 30km zajeb tako večina scuri po prvi točki drugi se zapeljemo v drugo dolino kjer jadramo še pol ure nato naredimo kilometerček več...
+1,2,7,2009,Magus,19,ratitovec,tekma je bila odpovedana. Skok v dolino
+1,3,7,2009,Magus,19,ratitovec,prekinjeno
+1,4,7,2009,Magus,10,Stari vrh,prekinjeno
+1,5,7,2009,Magus,43,Zavrh,prvo jadranje z xalps padalom
+1,9,7,2009,Magus,85,Zavrh,jadranje v precej šibkem čudnem vremenu
+1,11,7,2009,Magus,45,Krvavec,fotkanje 
+1,12,7,2009,Magus,35,Gozd,Test novega sedeža
+1,1,9,2009,Magus,60,Poggio Bustone,trening dan letkanje
+1,2,9,2009,Magus,300,Poggio Bustone,Tekma 13
+1,3,9,2009,Magus,210,Poggio Bustone,tekma prekinjena
+1,4,9,2009,Magus,180,norma,Tekm 7
+1,5,9,2009,Magus,120,Poggio Bustone,scurili na ravnini
+1,6,9,2009,Magus,30,Poggio Bustone,prekinjena nimbus
+1,4,10,2009,Sonic,15,Storzic ,pes z ciglo
+1,11,10,2009,Sonic,20,Stol,pes z marlijem
+1,16,10,2009,Magus,120,Kovk,z aljazem sva letkala na okoli potem do rampe in nazaj do njegove bajte
+1,29,10,2009,Sonic,10,Grintavec,
+1,1,11,2009,Sonic,10,Kamniško sedlo,
+1,19,11,2009,Sonic,10,Kepa,
+1,3,12,2009,Sonic,10,Begunščica,
+1,20,12,2009,Sonic,10,Ulavka,
+1,20,12,2009,Sonic,10,Ulavka,
+1,20,12,2009,Sonic,10,Lovrenc polhovgradec,
+1,26,12,2009,Magus novi proto,10,Zavrh,
+1,27,12,2009,Magus novi proto,30,Kovk,
+1,3,1,2010,Magus novi proto,90,Lijak,
+1,19,1,2010,Magus,99,Lijak,
+1,20,1,2010,Magus,80,Lijak,
+1,22,1,2010,Sonic,10,Ulavka,
+1,23,1,2010,Magus,41,Zavrh,
+1,1,2,2010,Magus,105,Lijak,
+1,2,2,2010,Magus,88,Lijak,
+1,8,2,2010,Magus,97,Lijak,
+1,27,2,2010,Magus,118,Lijak,
+1,2,3,2010,Magus,58,Zavrh,
+1,5,3,2010,Magus,45,Zavrh,
+1,6,3,2010,Magus,119,Lijak,
+1,12,3,2010,sonic,8,erzo projekt,
+1,12,3,2010,sonic,5,erzo projekt,
+1,13,3,2010,magus,134,pian kavalo,italjanska liga med 10
+1,14,3,2010,magus,139,pian kavalo,"drugi, urbanj je zmagal oba dneva"
+1,17,3,2010,Tandem,30,krvavec,miha kavčič
+1,18,3,2010,Tandem,20,Gozd,miha kavčič
+1,18,3,2010,Tandem,45,Gozd,Od Mareta šef ki gre v penzijo
+1,24,3,2010,Bommerang,140,Gozd,Gozd pa tja do potoške pol pa v Kranjsko goro stop nazaj z tomijem pa pol naju je pobral jurij franko
+1,27,3,2010,Bommerang,20,Pocos de Caldas Brazil,jadranje
+1,28,3,2010,bommerang,120,Pocos de Caldas Brazil,jadranje
+1,7,4,2010,bommerang,88,Pocos de Caldas Brazil,jadranje
+1,9,4,2010,bommerang,88,Pocos de Caldas Brazil,11. gliding tekm
+1,10,4,2010,bommerang,192,Pocos de Caldas Brazil,12 skupno 9 na PWCju slovenija team1. Gin team 3. najboljsi od gina
+1,16,4,2010,Tandem,45,Kobala,
+1,19,4,2010,bommerang,39,Ambrozar,curjenje z ambrozarja vzhodnik in sever
+1,20,4,2010,bommerang,360,Lijak,"lijak, hrvaška"
+1,23,4,2010,bommerang,78,Lijak,lijak liga 1. 
+1,24,4,2010,bommerang,112,Lijak,lijak liga scuril v cilnem iz čavna zmagal urban drugi aljaž ostali eno uro odzadi
+1,28,4,2010,bommerang,321,Ivanščica,ivanšcica z mariljem sva letela nazaj proti ljubljani pristanek v ljubljani marli je scuril v mirni
+1,29,4,2010,bommerang,350,emberger alm,poizkus 200trk v bistvu bi šlo samo sem zajebal z priklopom v lienc
+1,19,5,2010,Tandem,60,ambroz ,
+1,20,5,2010,bommerang,39,Kuk-kobarid,
+1,20,5,2010,bommerang,37,Kuk-kobarid,
+1,21,5,2010,bommerang,23,Kuk-kobarid,
+1,24,5,2010,bommerang,90,Bishcling,ep trening
+1,25,5,2010,bommerang,180,Bishcling,ep prva in skenslana tekma
+1,29,5,2010,bommerang,15,Nad Abtenavom,ep skenslana tekma
+1,2,6,2010,bommerang,120,Nad Abtenavom,ep scuru v cilnem doletu
+1,4,6,2010,bommerang,164,Bishcling,14. se boril za zmago 90 stopin drugače kot drugi v cilj
+1,5,6,2010,bommerang,270,Bishcling,140km disciplina trikotnik 4.v cilju skupno smo 3. na stopničkah premagali francoze za 1točko
+1,6,6,2010,Tandem,20,Dobrča,
+1,7,6,2010,Tandem,20,Dobrča,
+1,11,6,2010,Tandem,20,Gozd,
+1,15,6,2010,bommerang,120,Niška banja,
+1,16,6,2010,bommerang,180,Kruševo,na poti v grčijo
+1,17,6,2010,bommerang,50,Kruševo,
+1,19,6,2010,bommerang,105,Drama,pwc trening dan
+1,21,6,2010,bommerang,93,Drama,
+1,23,6,2010,bommerang,195,Drama,
+1,24,6,2010,bommerang,121,Drama,
+1,25,6,2010,bommerang,75,Drama,
+1,26,6,2010,bommerang,197,Drama,
+1,3,7,2010,bommerang,99,san potito,
+1,9,7,2010,bommerang,204,san potito,
+1,8,7,2010,bommerang,5,san potito,
+1,8,7,2010,bommerang,25,san potito,
+1,8,7,2010,bommerang,10,san potito,
+1,8,7,2010,bommerang,27,san potito,
+1,8,7,2010,bommerang,13,san potito,
+1,8,7,2010,bommerang,15,san potito,
+1,6,7,2010,bommerang,49,san potito,
+1,12,7,2010,bommerang,105,ambroz ,
+1,15,7,2010,Tandem,18,dobrča,plačan
+1,15,7,2010,bommerang,33,dobrča,
+1,15,7,2010,Tandem,21,ambroz ,tomi
+1,16,7,2010,Tandem,12,vogar,plačan
+1,17,7,2010,Tandem,19,dobrča,plačan
+1,17,7,2010,Tandem,16,dobrča,plačan
+1,17,7,2010,Tandem,24,dobrča,plačan
+1,19,7,2010,eden,67,vogu,
+1,19,7,2010,eden,44,Gozd,
+1,20,7,2010,eden,24,kobala,
+1,20,7,2010,eden,50,kobala,
+1,21,7,2010,eden,141,Kobariški Stol ,
+1,21,7,2010,eden,78,kobala,
+1,22,7,2010,eden,23,Lijak,
+1,22,7,2010,eden,80,Lijak,
+1,23,7,2010,eden,61,kovk,
+1,26,7,2010,Tandem,25,vogu,ni plačan manjka mi še en od prevkota
+1,27,7,2010,bommerang,69,zabočevo,super letenje pred nevihtami pristanek na rakitni
+1,1,8,2010,Tandem,23,dobrča,
+1,1,8,2010,Tandem,19,dobrča,
+1,1,8,2010,Tandem,18,dobrča,
+1,1,8,2010,Tandem,26,dobrča,
+1,1,8,2010,Tandem,31,dobrča,
+1,2,8,2010,Tandem,21,dobrča,
+1,2,8,2010,Tandem,28,dobrča,
+1,2,8,2010,Tandem,15,dobrča,
+1,2,8,2010,Tandem,20,dobrča,
+1,4,8,2010,bommerang,66,zavrh,
+1,7,8,2010,Tandem,8,dobrča,
+1,7,8,2010,Tandem,15,dobrča,
+1,8,8,2010,Tandem,22,dobrča,
+1,8,8,2010,Tandem,18,dobrča,
+1,8,8,2010,Tandem,15,dobrča,
+1,8,8,2010,Tandem,20,dobrča,
+1,10,8,2010,Bommerang,50,zavrh,
+1,11,8,2010,bommerang,103,zabočevo,
+1,12,8,2010,Tandem,20,ambroz spodnja poseka,
+1,12,8,2010,Tandem,20,ambroz spodnja poseka,
+1,21,8,2010,bommerang,30,ambroz,
+1,22,8,2010,bommerang,180,kobala,
+1,23,8,2010,bommerang,138,kobala,
+1,24,8,2010,bommerang,40,kobala,
+1,26,8,2010,bommerang,153,kobala,
+1,27,8,2010,bommerang,30,kobala,
+1,1,9,2010,bommerang,135,Lijak,
+1,3,9,2010,nupce,15,koreno,
+1,22,9,2010,bommerang,179,pamukale,
+1,23,9,2010,bommerang,128,pamukale,
+1,24,9,2010,bommerang,150,pamukale,
+1,25,9,2010,bommerang,150,pamukale,
+1,26,9,2010,bommerang,150,pamukale,
+1,27,9,2010,bommerang,7,pamukale,
+1,27,9,2010,bommerang,10,pamukale,
+1,27,9,2010,bommerang,10,pamukale,
+1,28,9,2010,bommerang,150,pamukale,
+1,29,9,2010,bommerang,150,pamukale,
+1,1,10,2010,bommerang,174,pamukale,
+1,2,10,2010,bommerang,84,pamukale,
+1,9,10,2010,nupce,17,potoška gora,peš na štart
+1,11,10,2010,yeti,40,Lijak,peš na štart
+1,12,10,2010,yeti,12,Zavrh,
+1,13,10,2010,yeti,30,grintovc,
+1,20,10,2010,yeti,7,ulavka,
+1,21,10,2010,yeti,7,ulavka,
+1,29,10,2010,Tandem,30,ambrož zgornja poseka,
+1,30,10,2010,bommerang,68,Lijak,zimska liga zmaga
+1,20,11,2010,nupce,6,ulavka,
+1,27,11,2010,bommerang,120,Lijak,zimska liga zmaga
+1,6,1,2011,bommerang,140,Merida,venezuela
+1,7,1,2011,bommerang,96,Merida,venezuela
+1,18,1,2011,bommerang,197,colombia,
+1,19,1,2011,bommerang,133,colombia,
+1,20,1,2011,bommerang,212,colombia,
+1,5,2,2011,bommerang,90,buzet,
+1,6,2,2011,bommerang,80,buzet,
+1,7,2,2011,bommerang,120,buzet,
+1,8,2,2011,bommerang,100,buzet,
+1,19,2,2011,stream,60,Lijak,
+1,5,3,2011,bommerang,120,Lijak,
+1,8,3,2011,bommerang,65,Ambroz,
+1,9,3,2011,bommerang,87,ambroz,
+1,14,3,2011,bommerang,142,korea,
+1,15,3,2011,bommerang,27,korea,
+1,15,3,2011,bommerang,80,korea,
+1,16,3,2011,bommerang,23,korea,
+1,17,3,2011,bommerang,66,korea,
+1,17,3,2011,bommerang,138,korea,
+1,17,3,2011,bommerang,27,korea,
+1,18,3,2011,bommerang,22,korea,
+1,18,3,2011,bommerang,30,korea,
+1,18,3,2011,bommerang,73,korea,
+1,19,3,2011,bommerang,62,korea,
+1,19,3,2011,bommerang,67,korea,
+1,19,3,2011,bommerang,8,korea,
+1,19,3,2011,bommerang,57,korea,
+1,21,3,2011,bommerang,34,korea,
+13,31,3,2008,Atlas,2,šentviška planota,šolanje
+1,15,7,2008,Tandem zmaj,15,kobala,šolanje
+1,15,7,2008,Atlas,15,kobala,šolanje
+1,5,5,2007,L23,10,lesce,šolanje
+1,5,5,2007,L23,9,lesce,šolanje
+1,6,5,2007,L23,10,lesce,šolanje
+1,6,5,2007,L23,10,lesce,šolanje
+1,6,5,2007,L23,10,lesce,šolanje
+1,6,5,2007,L23,11,lesce,šolanje
+1,6,5,2007,L23,38,lesce,šolanje
+1,6,5,2007,L23,10,lesce,šolanje
+1,6,5,2007,L23,10,lesce,šolanje
+1,7,5,2007,L23,19,lesce,šolanje
+1,7,5,2007,L23,12,lesce,šolanje
+1,7,5,2007,L23,10,lesce,šolanje
+1,7,5,2007,L23,9,lesce,šolanje
+1,8,5,2007,L23,41,lesce,šolanje
+1,9,5,2007,L23,10,lesce,šolanje
+1,9,5,2007,L23,5,lesce,šolanje
+1,9,5,2007,L23,24,lesce,šolanje
+1,10,5,2007,L23,10,lesce,šolanje
+1,10,5,2007,L23,51,lesce,šolanje
+1,10,5,2007,L23,9,lesce,šolanje
+1,11,5,2007,L23,59,lesce,šolanje
+1,11,5,2007,L23,9,lesce,šolanje
+1,12,5,2007,L23,11,lesce,šolanje
+1,12,5,2007,L23,11,lesce,šolanje
+1,12,5,2007,L23,10,lesce,šolanje
+1,12,5,2007,L23,5,lesce,šolanje
+1,12,5,2007,L23,4,lesce,šolanje
+1,12,5,2007,L23,4,lesce,šolanje
+1,13,5,2007,L23,9,lesce,šolanje
+1,13,5,2007,L23,6,lesce,šolanje
+1,13,5,2007,L23,6,lesce,šolanje
+1,13,5,2007,L23,14,lesce,šolanje
+1,13,5,2007,L23,56,lesce,šolanje
+1,14,5,2007,L23,105,lesce,šolanje
+1,17,5,2007,L23,9,lesce,šolanje
+1,17,5,2007,L23,9,lesce,šolanje
+1,17,5,2007,L23,9,lesce,šolanje
+1,18,5,2007,L23,7,lesce,šolanje
+1,18,5,2007,L23,10,lesce,šolanje
+1,18,5,2007,L23,8,lesce,šolanje
+1,19,5,2007,L23,97,lesce,šolanje
+1,19,5,2007,L23,11,lesce,šolanje
+1,19,5,2007,L23,10,lesce,šolanje
+1,19,5,2007,L23,8,lesce,šolanje
+1,20,5,2007,L23,133,lesce,šolanje
+1,20,5,2007,L23,9,lesce,šolanje
+1,20,5,2007,L23,10,lesce,šolanje
+1,20,5,2007,L23,8,lesce,šolanje
+1,20,5,2007,L23,9,lesce,šolanje
+1,20,5,2007,L23,9,lesce,šolanje
+1,10,6,2007,L13,10,lesce,šolanje
+1,10,6,2007,L13,8,lesce,šolanje
+1,10,6,2007,L13,90,lesce,šolanje
+1,10,6,2007,L13,20,lesce,šolanje
+1,10,6,2007,L13,50,lesce,šolanje
+1,20,6,2007,L13,10,lesce,šolanje
+1,20,6,2007,L13,10,lesce,šolanje
+1,20,6,2007,L13,8,lesce,šolanje
+1,20,6,2007,L13,13,lesce,šolanje
+1,20,6,2007,L13,3,lesce,šolanje
+1,20,6,2007,L13,2,lesce,šolanje
+1,20,6,2007,L13,9,lesce,šolanje
+1,8,7,2007,L23,38,lesce,šolanje
+1,8,7,2007,L23,10,lesce,šolanje
+1,8,7,2007,L13,10,lesce,šolanje
+1,14,7,2007,L13,9,lesce,šolanje
+1,14,7,2007,L13,8,lesce,šolanje
+1,14,7,2007,L13,16,lesce,šolanje
+1,14,7,2007,L13,16,lesce,šolanje
+1,14,7,2007,L13,10,lesce,šolanje
+1,14,7,2007,L13,12,lesce,šolanje
+1,19,8,2007,L13,178,lesce,šolanje
+1,26,8,2007,L13,86,lesce,šolanje
+1,26,8,2007,L13,121,lesce,šolanje
+1,27,8,2007,L23,170,lesce,šolanje
+1,9,9,2007,L13,148,lesce,šolanje
+1,13,9,2007,L13,234,lesce,šolanje
+1,14,9,2007,L13,180,lesce,šolanje
+1,15,9,2007,L13,463,lesce,šolanje
+1,16,9,2007,L23,151,lesce,šolanje
+1,16,9,2007,L23,284,lesce,šolanje
+1,24,1,2008,L13,14,lesce,šolanje

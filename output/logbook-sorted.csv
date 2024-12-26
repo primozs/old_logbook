@@ -1,0 +1,1244 @@
+takeoff,takeoff_no,landing,duration,distance,competitors_no,result_place,date,desc,max_alt,max_lift,glider
+Malic,1,"",6,-nan,-nan,-nan,"1996-09-02",Braslovce odpadle,null,null,wind
+Lijak N.G.,1,"",90,-nan,-nan,-nan,"1996-09-05",Lijak zakljucni L skok,null,null,wind
+Ulovka,1,Orel,3,-nan,-nan,-nan,"1996-09-07","",null,null,wind
+Ulovka,1,Orel,3,-nan,-nan,-nan,"1996-09-07","",null,null,wind
+Ulovka,1,Kuren,7,-nan,-nan,-nan,"1996-09-08",Smer Kuren,null,null,wind
+Ulovka,1,Krosl,6,-nan,-nan,-nan,"1996-09-08",Smer kroslov-cez,null,null,wind
+Ulovka,1,Kuren,9,-nan,-nan,-nan,"1996-09-09","",null,null,wind
+Ulovka,1,Podlipa,8,5000,-nan,-nan,"1996-09-09","",null,null,wind
+Ulovka,1,Podlipa,20,5000,-nan,-nan,"1996-10-10",Peglanje pod Ulovko,null,null,wind
+Ulovka,1,Podlipa,30,5000,-nan,-nan,"1996-10-10",Peglanje pod Ulovko,null,null,wind
+Rahtel Sloven G.,1,"",10,-nan,137,23,"1996-10-11",Zadnja tekma za drzavno,null,null,wind
+Rahtel Sloven G.,1,"",15,-nan,137,23,"1996-10-11",Zadnja tekma za drzavno,null,null,wind
+Rahtel Sloven G.,1,"",5,-nan,137,23,"1996-10-11",Zadnja tekma za drzavno,null,null,wind
+Strmca,1,"",20,-nan,-nan,-nan,"1996-10-18",Prvi pristanek na hribu,null,null,wind
+Strmca,1,"",6,-nan,-nan,-nan,"1996-10-18",Prvi pristanek na hribu,null,null,wind
+Strmca,1,"",4,-nan,-nan,-nan,"1996-10-18",Prvi pristanek na hribu,null,null,wind
+Lijak N.G.,1,"",85,-nan,100,21,"1996-10-19",Nagrade do 20 mesta,null,null,wind
+Lijak N.G.,1,"",5,-nan,100,21,"1996-10-19",Nagrade do 20 mesta,null,null,wind
+Ulovka,1,"",4,-nan,-nan,-nan,"1996-10-22",Curjenje v stilu,null,null,wind
+Zavrh,1,"",38,6000,-nan,-nan,"1996-10-23",Prvi start na Zavrhu,null,null,wind
+Zavrh,1,"",6,-nan,-nan,-nan,"1996-10-24",Curjenje v borovnico,null,null,wind
+Strmca,1,"",120,-nan,-nan,-nan,"1996-10-30",Naslonu padal na borovce,null,null,wind
+Strmca,1,"",3,-nan,-nan,-nan,"1996-10-30",Naslonu padal na borovce,null,null,wind
+Strmca,1,"",5,-nan,-nan,-nan,"1996-10-30",Naslonu padal na borovce,null,null,wind
+Strmca,1,"",30,-nan,-nan,-nan,"1996-11-01",Divje,null,null,wind
+Strmca,1,"",4,-nan,-nan,-nan,"1996-11-01",Divje,null,null,wind
+Strmca,1,"",3,-nan,-nan,-nan,"1996-11-01",Divje,null,null,wind
+Racna Gora,1,"",6,-nan,-nan,-nan,"1996-11-02",Usesa solski krog,null,null,wind
+Racna Gora,1,"",5,-nan,-nan,-nan,"1996-11-02",Usesa solski krog,null,null,wind
+Racna Gora,1,"",5,-nan,-nan,-nan,"1996-11-02",Usesa solski krog,null,null,wind
+Zavrh,1,"",5,-nan,-nan,-nan,"1996-11-08",Borovnica vabi,null,null,wind
+Koreno,1,"",4,-nan,-nan,-nan,"1996-11-14",Prvi start na Korenu,null,null,wind
+Lijak N.G.,1,"",5,-nan,-nan,-nan,"1996-12-04",curjenje,null,null,wind
+Kovk AJ.,1,"",22,-nan,-nan,-nan,"1996-12-05",boj-curjenje,null,null,wind
+Lijak N.G.,1,"",40,-nan,-nan,-nan,"1996-12-07",boj-navijanje-uspeh,null,null,wind
+Lijak N.G.,1,"",5,-nan,-nan,-nan,"1996-12-14",boj-navijanje-curjenje 2x,null,null,wind
+Lijak N.G.,1,"",10,-nan,-nan,-nan,"1996-12-14",boj-navijanje-curjenje 2x,null,null,wind
+Lijak N.G.,1,"",31,-nan,-nan,-nan,"1996-12-28",jadranje 3dviganja,null,null,wind
+Slivnica,1,"",8,-nan,-nan,-nan,"1997-01-16",lep dan (doma mgla) - let v dolino,null,null,wind
+Lijak N.G.,1,"",6,-nan,-nan,-nan,"1997-01-17",O p r a v i l   A   i z p i t,null,null,wind
+Lijak N.G.,1,"",75,-nan,-nan,-nan,"1997-01-24",lep dan za jadranje,null,null,wind
+Zavrh,1,"",5,-nan,-nan,-nan,"1997-01-26",mocan veter z leve,null,null,wind
+Lijak N.G.,1,"",60,-nan,-nan,-nan,"1997-01-29",lep dan za jadranje,null,null,wind
+Kovk AJ.,1,"",105,27400,-nan,-nan,"1997-01-30",PRVI PRELET,null,null,wind
+Zavrh,1,"",5,-nan,-nan,-nan,"1997-02-06",Sipka burja,null,null,wind
+Lijak N.G.,1,"",95,11500,-nan,-nan,"1997-02-07",Let prek rampe do cavna,null,null,wind
+Lijak N.G.,1,"",90,-nan,-nan,-nan,"1997-02-08",Navijanje okoli starta,null,null,wind
+Ambroz,2,"",10,-nan,-nan,-nan,"1997-02-14",Ni mi uspelo zriniti cez drajte.,null,null,wind
+Zavrh,1,"",8,-nan,-nan,-nan,"1997-02-15",Sam sem si kriv,null,null,wind
+Zavrh,1,"",57,7400,-nan,-nan,"1997-02-16",Prvi pristanek na VRHNIKI,null,null,wind
+Strmca,1,"",4,-nan,-nan,-nan,"1997-02-21",curjenje,null,null,wind
+Kovk AJ.,1,"",98,21400,-nan,-nan,"1997-02-21",jadranje pristanek na vrhu ponovno jadranje,1130,null,wind
+Kovk AJ.,1,"",60,21400,-nan,-nan,"1997-02-21",jadranje pristanek na vrhu ponovno jadranje,1130,null,wind
+Zabocevo,1,"",92,-nan,-nan,-nan,"1997-02-27",Prvic letel in jadral na Zabocevem (otvoritev),1500,null,wind
+Zabocevo,1,"",6,-nan,-nan,-nan,"1997-02-28",Let v dolino,null,null,wind
+Zavrh,1,"",30,-nan,-nan,-nan,"1997-03-06",Let preko kamnoloma do lj. vrha do dolgih leh,1300,null,wind
+Lijak,1,"",105,11500,-nan,-nan,"1997-03-08",Lijak - zmajarska - lijak - Danijel - Lijak,1500,null,wind
+Ambroz,1,"",60,-nan,-nan,-nan,"1997-03-11",Trenining - zelo sipka termika,null,null,wind
+Zabocevo,1,"",15,-nan,-nan,-nan,"1997-03-13",Sipka termika curjenje Andrej,Grega - obesanje,null,null,wind
+Zabocevo,1,"",12,-nan,-nan,-nan,"1997-03-13",Sipka termika curjenje Andrej,Grega - obesanje,null,null,wind
+Strmca,1,"",35,-nan,-nan,-nan,"1997-03-15",Vecerno jadranje po odhodu drugih.,null,null,wind
+Zabocevo,1,"",32,-nan,-nan,-nan,"1997-03-20",Lepo termicno jadranje okoli starta in krimcka,null,null,wind
+Strmca,1,"",35,-nan,-nan,-nan,"1997-03-20",Visenje v zelo mocnem zahodniku in beg,null,null,wind
+Zavrh,1,"",14,-nan,-nan,-nan,"1997-03-25",Sam sem scuru - Mojca Erzo pa na Vrhniko,null,null,wind
+Zavrh,1,"",25,-nan,-nan,-nan,"1997-03-31",Divje - rotorji in mocan veter,null,null,wind
+Zabocevo,1,"",5,-nan,-nan,-nan,"1997-04-01",Sipka termika - rotor,null,null,wind
+Zavrh,1,"",38,-nan,-nan,-nan,"1997-04-01",Tezave na startu-jadranje-let do avtoceste,null,null,wind
+Lijak N.G.,1,"",45,-nan,-nan,-nan,"1997-04-05",Mocan veter - mnogi smo imeli tezave,null,null,wind
+Ambroz,1,"",15,-nan,-nan,-nan,"1997-04-09",1curjenje-2cudovito jadranje okoli antene na Krvavcu,1850,null,wind
+Ambroz,1,"",80,-nan,-nan,-nan,"1997-04-09",1curjenje-2cudovito jadranje okoli antene na Krvavcu,1850,null,wind
+SV.Lovrenc,1,"",10,-nan,-nan,-nan,"1997-04-11",Velik zanos v stbru curjenje - nov start,null,null,wind
+Zabocevo,1,"",7,-nan,-nan,-nan,"1997-04-11",Zaprtje (oblakov) curjenje-Grega je jadral 25min,null,null,wind
+Lijak N.G.,1,"",80,-nan,-nan,-nan,"1997-04-12",Mocan veter - poberanje s tal - kapljice dezja na 1200m,1200,null,wind
+Zavrh,1,"",15,-nan,-nan,-nan,"1997-04-16",Curjenje -zaprtje-kasneje Mojca na 2100m,null,null,wind
+Zabocevo,1,"",78,-nan,-nan,-nan,"1997-04-16",eno uro prepozni jadranje Jernej na3000m,1200,null,wind
+Gozd pod Krisko,1,"",146,-nan,-nan,-nan,"1997-04-18",Kriska 2700-storzic-kriska-storzic-kriska akrobacije,2700,null,wind
+Zabocev,1,"",10,-nan,-nan,-nan,"1997-04-23",Startal 14.30 in scuru pes na start-let v podpec,1900,null,wind
+Zabocev,1,"",45,-nan,-nan,-nan,"1997-04-23",Startal 14.30 in scuru pes na start-let v podpec,1900,null,wind
+Zabocevo,1,"",121,36130,-nan,-nan,"1997-04-24",Zabocev 2400 - krim 1700m - Ljubljana 800-2500-Moravce1000,2569,4.5,wind
+Racna Gora,1,"",6,-nan,127,-nan,"1997-04-25",Tekma na piko trije starti oblacnost, pred dezjem,null,null,wind
+Racna Gora,1,"",7,-nan,127,-nan,"1997-04-25",Tekma na piko trije starti oblacnost, pred dezjem,null,null,wind
+Racna Gora,1,"",7,-nan,127,-nan,"1997-04-25",Tekma na piko trije starti oblacnost, pred dezjem,null,null,wind
+Zavrh,1,"",5,-nan,-nan,-nan,"1997-04-27",Trening za pristajanje na piko,null,null,wind
+Studor,1,"",5,-nan,140,49,"1997-05-01",Tekma na piko za drzavnga - Vrhnika ni bila prevec uspesna,null,null,wind
+Kobala,1,"",84,-nan,-nan,-nan,"1997-05-01",Liga dirka-Jadranje po dirki ob 6.30 - Prvic na liga tekmi,1350,3.5,wind
+Lijak N.G.,1,"",12,-nan,-nan,-nan,"1997-05-09",Slabo vreme na Lijaku - Trstelj v soncu,null,0.3,wind
+Lijak N.G.,1,"",8,-nan,-nan,-nan,"1997-05-09",Slabo vreme na Lijaku - Trstelj v soncu,null,0.3,wind
+Strmca,1,"",15,-nan,-nan,-nan,"1997-05-09",Z lijaka pa direkt na strmco peglat.,null,2,wind
+Lijak N.G.,1,"",17,36000,-nan,-nan,"1997-05-10",Prvic opravil Kurirckovo transverzalo-Grega Visna Gora,1845,5,wind
+Lijak N.G.,1,"",125,36000,-nan,-nan,"1997-05-10",Prvic opravil Kurirckovo transverzalo-Grega Visna Gora,1845,5,wind
+Zavrh,1,"",35,-nan,-nan,-nan,"1997-05-13",Jadranje na trebevniku let na verd,850,1.5,wind
+Zavrh,1,"",25,-nan,-nan,-nan,"1997-05-14",Petindvajset minutno curjenje Start ob 16:35,null,0.9,wind
+Zavrh,1,"",45,-nan,-nan,-nan,"1997-05-15",Skoraj scuru-batina 9m/s dviga - kos7m visina 1490m,1490,7,wind
+Lijak N.G.,1,"",163,-nan,-nan,-nan,"1997-05-17",Lijkak-Cavn-Kovk-za Nanosom kumulo nimbus,1461,3.8,wind
+Strmca,1,"",25,-nan,-nan,-nan,"1997-05-22",Visenje na strmci precej mocan zahodnik,1050,1.5,wind
+Strmca,1,"",78,-nan,-nan,-nan,"1997-05-22",Visenje na strmci precej mocan zahodnik,1050,1.5,wind
+Ambroz,1,"",19,-nan,-nan,-nan,"1997-05-23",Sipka termika jadranje nad grajskim hribom,null,1,wind
+Zavrh,1,"",6,-nan,-nan,-nan,"1997-05-23",Metanje v nulo,null,0,wind
+Zabocevo,1,"",105,-nan,-nan,-nan,"1997-05-25",Jadranje na Zabocevem in nato let na Vrhniko-stadion-prvic,1780,3.5,wind
+Strmca,1,"",45,-nan,-nan,-nan,"1997-05-26",Jadranje na strmci prvic z Roxom - let na planino,1130,2,rox
+Zabocev,1,"",130,25000,-nan,-nan,"1997-05-28",Let z Roxom na Slivnico in nazaj na Zabocev na Z. sem pobral,2150,3.4,rox
+Strmca,1,"",90,-nan,-nan,-nan,"1997-05-29",Nenavadno jadranje za strmco visina 1700m,1700,5,rox
+Zavrh,1,"",55,10000,-nan,-nan,"1997-05-30",Najvisji potem pa prvic let na ST Vrhniko- Erzo jaz in Dane,1100,3,rox
+Strmca,1,"",40,-nan,-nan,-nan,"1997-06-05",Jadranje na strmci 40minpotem pa na zur-Stolp-Tolmin,1130,1,rox
+Zavrh,1,"",45,-nan,-nan,-nan,"1997-06-06",Iz Tolmina pa na Zavrh jadrat za eno uro,1200,2.4,rox
+Planina-Stolp,1,"",44,-nan,-nan,-nan,"1997-06-08",Prvi start na Planini-Stolp jadranje pod bazo 1313m-44minut,1313,2.7,rox
+Strmca,1,"",120,-nan,-nan,-nan,"1997-06-11",Strmca nekej posebnga termicna- brez obracanja stbrov scuris,1480,3.5,rox
+Zabocev,1,"",60,-nan,-nan,-nan,"1997-06-14",Skoraj scuru takoj po startu potem pa navil na 1890m,1800,4,rox
+Strmca,1,"",50,-nan,-nan,-nan,"1997-06-16",Peglanje na strmci,930,1.3,rox
+Gozd pod Krizko goro,1,"",5,-nan,-nan,-nan,"1997-06-21",Skok pred dezjem,null,0,rox
+Zavrh,1,"",5,-nan,-nan,-nan,"1997-06-22",Nevihta na vidiku -vzlet in bezanje,null,3,rox
+Zavrh,1,"",30,-nan,-nan,-nan,"1997-06-23",Nevihta na Javorcu veliko problemov pristanek pri Malci,1200,5,rox
+Zabocev,1,"",5,-nan,-nan,-nan,"1997-06-23",Trening za piko - merjenje finese pristanek pri gostilni,null,0,rox
+Lepenatka,1,"",5,-nan,-nan,-nan,"1997-06-24",Pika tekma potem pa jadranje -prelep razgled,1855,3.7,rox
+Lepenatka,1,"",75,-nan,-nan,-nan,"1997-06-24",Pika tekma potem pa jadranje -prelep razgled,1855,3.7,rox
+Kovk,1,"",55,-nan,-nan,-nan,"1997-06-26",Zvecer jadranje kot na strmci (Juri jaz inGrega z Tandemom,1190,1.5,rox
+Srednji vrh,1,"",5,-nan,-nan,-nan,"1997-06-27",Prvi start na Sr.vrhu termike pa ni in ni,null,0,rox
+Planina - stolp,1,"",15,-nan,-nan,-nan,"1997-06-28",razrukano posledica tezave pri navijanju stbrov - velik zanos,null,2.5,rox
+Zavrh,1,"",15,-nan,-nan,-nan,"1997-06-28",Poberanje iznad skakalnice velik zanos proti pklu,null,1,rox
+Zabocev,1,"",10,-nan,-nan,-nan,"1997-06-28",Start ob 17:00 - pozn start ceprav sta Erzo in Slavc jadrala,null,1,rox
+Kovk,1,"",101,29000,-nan,-nan,"1997-07-01",Slavc in jaz sva letela v Postojno - 29km obratna Nanos,1697,3.7,rox
+Strmca,1,"",20,-nan,-nan,-nan,"1997-07-01",Peglanje na strmci,null,1,rox
+Strmca,1,"",8,-nan,-nan,-nan,"1997-07-02",Curjenje na strmci,null,0.5,rox
+Gozd pod Krizko,1,"",120,-nan,-nan,-nan,"1997-07-03",Jadranje na Krizki-storzicu-2265mbaza,2265,4,rox
+Strmca,1,"",60,-nan,-nan,-nan,"1997-07-04",Jadranje na strmci test hitosti nimbus-rox rezultat isto,980,1,rox
+Zabocev,1,"",60,-nan,-nan,-nan,"1997-07-05",Jadranje na Krimscku visina dneva 1320m-velik zanos,1320,2,rox
+Smucisce Zabocev,1,"",1,-nan,-nan,-nan,"1997-07-07",Prvic tu s Slavcem se nisva pobrala,null,null,rox
+Zavrh,1,"",7,-nan,-nan,-nan,"1997-07-08",Juri je pobral jaz sem pa scuru (drugic bom opazoval),null,1,rox
+Zabocev,1,"",135,19000,-nan,-nan,"1997-07-08",Poberanje na smuciscu let v Novo Vas,2320,4.5,rox
+Lijak,1,"",10,-nan,-nan,-nan,"1997-07-11",Vse pokrito kasneje ploha kasneje odprtje lijaka,null,0.2,rox
+Kovk,1,"",25,-nan,-nan,-nan,"1997-07-11",Po startu takoj nad vipavo tam pa jadrat. Kovk ni drzav.,null,1,rox
+Ambroz,1,"",255,33460,9,5mesto,"1997-07-12",Start Ambroz Krvavec-Krizka Gora-Ambroz polet je trajal 4ure,2324,4.9,rox
+Zabocev,1,"",10,-nan,-nan,null,"1997-07-15",Curjenje 3krat-tudi Zuna,null,1,rox
+Zabocev,1,"",10,-nan,-nan,null,"1997-07-15",Curjenje 3krat-tudi Zuna,null,1,rox
+Zabocev,1,"",10,-nan,-nan,null,"1997-07-15",Curjenje 3krat-tudi Zuna,null,1,rox
+Strmca,1,"",95,-nan,-nan,null,"1997-07-18",Strmicarsko jadranje - vse je drzal,1050,1,rox
+Lijak,1,"",48,-nan,-nan,null,"1997-07-19",Lepo jadranje samo kasneje je bilo treba bezat pred nevihto,1450,4.5,rox
+Zavrh,1,"",10,-nan,-nan,null,"1997-07-20",Curjenje jaz in Slavc,null,0,rox
+Gaber,1,"",16,-nan,-nan,null,"1997-07-21",vse je bilo pregreto zato smo jadrali na pobocnik in scurili,450,1.2,rox
+Samotorca,1,"",8,-nan,-nan,null,"1997-07-22",Kocevar in jaz - obtekanje zahodnika - rotorji na startu,null,0,rox
+Strmca,1,"",62,-nan,-nan,null,"1997-07-22",peglanje- wingoverji - polovicno zapiranje,955,1.5,rox
+Sr.Vrh,1,"",75,-nan,-nan,null,"1997-07-25",Sreca da smo letel saj je prej padal dz.,1305,2.5,rox
+Zabocev,1,"",202,-nan,-nan,null,"1997-07-26",Jadranje okoli zabocevga-zelo zaneseni stbr-erzo sel na Primoza,1900,3.9,rox
+Slivnica,1,"",190,18000,-nan,null,"1997-07-30",Lep dan za prelet-let slivnica sodrazica-stoti letalni dan,2450,5,rox
+Slivnica,1,"",30,18000,-nan,null,"1997-07-30",Lep dan za prelet-let slivnica sodrazica-stoti letalni dan,2450,5,rox
+Lisca,1,"",30,-nan,-nan,null,"1997-08-01",Peglanje okoli Lisce - mocan sever start ta severni start,null,2,rox
+Lisca,1,"",35,-nan,-nan,null,"1997-08-01",Peglanje okoli Lisce - mocan sever start ta severni start,null,2,rox
+Lisca,1,"",155,36000,-nan,null,"1997-08-02",Liga tekma na lisci - strikanje lisca obratna radece lisca radece,1787,3.5,rox
+Slivnica,1,"",25,-nan,-nan,null,"1997-08-03",Matranje na Slivnici velik zanos z erzotom sva zgolfala 25min,null,1,rox
+Strmca,1,"",30,-nan,-nan,null,"1997-08-04",Strmca za scurit sam sem bil najvisji in sem sel sam dol z vingoverji,978,1,rox
+Zabocevo,1,"",110,-nan,-nan,null,"1997-08-06",Jadranje na zabocevem pobiranje nekoliko nad smuciscem,950,1,rox
+Zavrh,1,"",80,-nan,-nan,null,"1997-08-08",Drzavn prvenstvo odpadu jadranje na zavrhu,1150,2.2,rox
+Zavrh,1,"",120,22500,-nan,null,"1997-08-09",Start Zavrh - Kalce- predjama super!!!,1900,3.5,rox
+Krizka,1,"",120,18200,80,44mesto,"1997-08-10",DP prva tekma v preletih glede na ostale nisem slab,2000,4.5,rox
+Krizka,1,"",120,23000,80,16mesto,"1997-08-11",DP drugi dan -Krizka predvor senicno trstenik,2014,3.4,rox
+Krizka,1,"",300,67700,80,26mesto,"1997-08-12",DP disciplina Krizka-Jakob-senicno-Jakob-Ratece 84km pristal sem v mojstrani,2387,5.3,rox
+Krizka,1,"",95,12200,80,44mesto,"1997-08-13",DP Krizka Predvor Gozd Krvavec Cirku pod storzicem Predvor,2320,3.5,rox
+Kovk,1,"",105,-nan,80,null,"1997-08-14",DP Tekma odpadla zaradi nevihtnega oblaka nad ajdovsno Disciplina kovk-nanos-lijak-ajdovscina,2503,2.9,rox
+Strmca,1,"",30,-nan,-nan,null,"1997-08-14",Tekma na piko osvojil sem prvo mesto,null,1,rox
+Krvavec,1,"",113,28000,80,25mesto,"1997-08-15",DP disciplina Krvavec-Begunje disciplino sem opravil,1841,3.9,rox
+Samotorca,1,"",10,-nan,-nan,null,"1997-08-16",Grega je hotel napraviti XC trikotnik nazadnje sva oba scurla,null,0.6,rox
+Zavrh,1,"",46,9000,-nan,null,"1997-08-19",Let iz Zavrha na Staro Vrhniko,1233,2.6,rox
+Zavrh,1,"",45,7000,-nan,null,"1997-08-20",Let na Vrhniko visina 1401m,1401,3.5,rox
+Zavrh,1,"",8,7000,-nan,null,"1997-08-20",Let na Vrhniko visina 1401m,1401,3.5,rox
+Zavrh,1,"",105,18000,-nan,null,"1997-08-21",Let Zavrh Logatec 1500 Ravnik pred Hotedrsco,1720,3.5,rox
+Ambroz,1,"",275,46560,-nan,null,"1997-08-22",Napovedan XC Ambroz Ratece  pristal sem pred mojstrano,2070,3.5,rox
+Lijak,1,"",75,18500,-nan,null,"1997-08-23",Napovedan XC Lijak Kozina pristal pa sem Smarje pri Braniku,1920,5.1,rox
+Lijak,1,"",35,18500,-nan,null,"1997-08-23",Napovedan XC Lijak Kozina pristal pa sem Smarje pri Braniku,1920,5.1,rox
+Samotorca,1,"",5,-nan,-nan,null,"1997-08-24",Curjenje na Samotorci-Jaz,Grega,Miha,null,0.5,rox
+Strmca,1,"",55,-nan,-nan,null,"1997-08-24",Najvisji na Strmci - usesa-wingoverji-wingoverji,1160,1,rox
+Krvavec,1,"",90,-nan,-nan,null,"1997-08-25",PWC prvi dan sam sem letelzraven -tekmovala sta Slavc in Erzo,1690,4.1,rox
+Lijak,1,"",215,34690,-nan,null,"1997-08-29",XC napoved Ilirska bistrica -poizkus vrhnika let do Razdrtga,1870,3.5,rox
+Zabocevo,1,"",31,-nan,-nan,null,"1997-08-30",Matranje pod krimsckom -erzoGrega Salavc so startali za mano in pristali pred mano,null,1.3,rox
+Ambroz,1,"",45,-nan,-nan,null,"1997-08-30",Cudovit razgled skoraj do Ratec Grega in jaz sva jadrala na 2040m,2040,3,rox
+Zabocevo,1,"",165,31300,-nan,null,"1997-08-31",XC napoved Ilirska B. Start Zabocevo pristal sem v Pivki,1770,2.5,rox
+Slivnica,1,"",111,18610,-nan,null,"1997-09-01",Prosti prelet Slivnica Zelimlje,2014,3.5,rox
+Zavrh,1,"",35,-nan,-nan,null,"1997-09-02",Jadranje na Zavrhu najvisji,1490,2.5,rox
+Srednji Vrh,1,"",95,16640,-nan,null,"1997-09-03",Srednji Vrh 2020m smer Postojna-v postojni vzhodnik -pristanek v Pivki,2260,3,rox
+Slivnica,1,"",115,13050,-nan,null,"1997-09-04",Slivnica trikrat navit potem pa let na Zabocevo. Ta dan sem bil edini,2130,2.5,rox
+Lijak N.G.,1,"",128,32220,-nan,null,"1997-09-05",Napoved Lijak Vrhnika -pristanek Hotedsica prvic na kovku cez,1702,3.5,rox
+Lijak N.G.,1,"",95,10000,-nan,null,"1997-09-06",Tega dne je kurirckova zahtevala veliko zrtev. Z 1300m pri cavnu sem scuril direkt v ajdovscino.,1525,3.5,rox
+Strmca,1,"",60,-nan,-nan,null,"1997-09-06",Strmicarjenje-wingoverji ,frontalci...,1024,1.5,rox
+Zabocevo,1,"",97,-nan,-nan,null,"1997-09-07",Jadranje na Zabocevem - termika in splosni iz desne-ozki in raztrgani stbri baza 1626m,1626,4.9,rox
+Zavrh,1,"",8,-nan,-nan,null,"1997-09-09",Cel dan mocan vzhodnik zvecer pa smo se pometali v nulo,null,0.3,rox
+Kovk,1,"",20,-nan,-nan,null,"1997-09-10",Bilo je zelo svoh zato smo po dolocenem casu scurili,840,1,rox
+Strmca,1,"",20,-nan,-nan,null,"1997-09-11",Zelo nizka baza jadranje pred strmco in pristanek na strmci -Erzo je scuru,950,1,rox
+SV. Ana,1,"",4,-nan,-nan,null,"1997-09-15",Prvic poletel z Svete Ane pri podpeci cel dan je bilo premocno za letet zvecer pa sva z Erzotom odletela,null,0,rox
+Srednji Vrh,1,"",115,-nan,-nan,null,"1997-09-17",Jadranje na suho termiko spet posteno jadranje po nekem casu STO ur z RoXom,1567,3,rox
+Srednji Vrh,1,"",100,-nan,-nan,null,"1997-09-18",Suha termika jadranje na 2200m super za ta obdobje,2201,2.9,rox
+Sveta Ana,1,"",33,-nan,-nan,null,"1997-09-19",Prvi Vrhnican ki je vzletel in jadral na Sv Ani,633,1.1,rox
+Braslovce,1,"",8,-nan,-nan,null,"1997-09-20",Slaba uvrstitev na tekmi pa zato bolsi trening za jadranje,1370,2.9,rox
+Braslovce,1,"",113,-nan,-nan,null,"1997-09-20",Slaba uvrstitev na tekmi pa zato bolsi trening za jadranje,1370,2.9,rox
+Srednji Vrh,1,"",86,18500,-nan,null,"1997-09-22",Testiranje Jurijevga Parateha P6C mal hitrejsi mal bol planira pa mal bol navarn,2101,3.4,P6C
+Ulovka,1,"",3,-nan,100,14mesto,"1997-09-26",Tekma za drzavno prvenstvo pokla Orel na Ulovki,null,0,rox
+Ulovka,1,"",5,-nan,100,14mesto,"1997-09-26",Tekma za drzavno prvenstvo pokla Orel na Ulovki,null,0,rox
+Zabocevo,1,"",8,-nan,-nan,null,"1997-09-26",Mogoce letos zadnji start na zabocevem,null,0.5,rox
+Srednji Vrh,1,"",159,-nan,-nan,null,"1997-09-27",Super jadranje do 1946m,1946,3.2,rox
+Zabocevo,1,"",59,-nan,-nan,null,"1997-09-28",Jadranje na Zabocevem testiranje Aireje tension najprej super opcutki potem pa se je pokazala ena velika slabost lahko ti ostane med striki in ga ne resis do tal,1350,3.5,rox
+Strmca,2,"",63,-nan,-nan,null,"1997-09-29",Jadranje na na Strmci z Airejo tension testiranje,null,1.5,airea tension
+Zavrh,1,"",8,-nan,-nan,null,"1997-09-30",Testni let z Neonom-sektorjem,null,0.5,Neon sector
+Zavrh,1,"",90,-nan,-nan,null,"1997-10-02",Letenje na Staro Vrhniko poslikal sem vse,1027,1.8,rox
+Srednji Vrh,1,"",87,-nan,-nan,null,"1997-10-03",Jadranje kljub vsemu,1030,2.5,rox
+Gaber,2,"",15,-nan,-nan,null,"1997-10-04",Para safari na Ospovski Gaber,450,1,rox
+Lijak N.G.,1,"",5,-nan,-nan,null,"1997-10-10",Polet z lijaka na startu je vecinoma pihalo dol,null,null,rox
+Zabocevo,1,"",61,13000,-nan,null,"1997-10-12",Jaz podrem Slavc odleti v postojno jaz podrem erzo scuri jez podrem 2X in koncno odletim sredi dolin pod 100m do podna pa stebr potem pa na 1650 od tu pa domov polet je trajal eno uro,1650,2.8,rox
+Strmca,1,"",74,-nan,-nan,null,"1997-10-14",Strmicarjenje in trening wingowerjev,1085,2.3,rox
+Rahtel,1,"",5,-nan,-nan,16mesto,"1997-10-17",Tekma na piko 3skupno,tretji skupno skupno, Tomaz 2. jaz16.,700,1,rox
+Rahtel,1,"",10,-nan,-nan,16mesto,"1997-10-17",Tekma na piko 3skupno,tretji skupno skupno, Tomaz 2. jaz16.,700,1,rox
+Rahtel,1,"",31,-nan,-nan,16mesto,"1997-10-17",Tekma na piko 3skupno,tretji skupno skupno, Tomaz 2. jaz16.,700,1,rox
+Ulovka,1,"",3,-nan,-nan,null,"1997-10-18",Testiranje Devine-a spust do brunarce,null,null,Divine
+Lijak,1,"",131,-nan,-nan,null,"1997-10-18",Jadranje Lijak -caven - lijak - rampa - lijak Testiranje Devine-a,1090,2.5,Divine
+Strmca,1,"",31,-nan,-nan,null,"1997-10-19",Strmicarjenje(rezerva),1080,2,Divine
+Planina-Stolp,1,"",6,-nan,-nan,null,"1997-10-21",Brezveterje -let ob Kurenu -kar cez sredino doline domov,null,null,rox
+Koreno,1,"",5,-nan,-nan,null,"1997-10-22",Testiranje in primerjanje Neona in Devinea,null,null,Neon/Divine
+Koreno,1,"",5,-nan,-nan,null,"1997-10-22",Testiranje in primerjanje Neona in Devinea,null,null,Neon/Divine
+Sv.Ana,1,"",5,-nan,-nan,null,"1997-10-23",Obtekanje grebena -bingale bongale do tal odletel sem samo jaz,null,1,rox
+Planina-Stolp,1,"",62,-nan,-nan,null,"1997-10-23",Jadranje okoli Stolpa Erzo,Jaz,Andrej,Jernej,Slavc pelov sem devinea let preko kurena lahko bi letel preko cele vasi,960,1.9,rox
+Lijak,1,"",65,8000,7tekmovalci,7mesto_int,"1997-10-24",Tekma Lijak Sv Marija nasledn gric od Danijela rampa Lijak -Jernej je zmagal erzo Grega Juri Andrej Jaz sem scuru ker sem pretiraval,1300,2.5,rox
+Lijak,1,"",28,8000,7tekmovalci,7mesto_int,"1997-10-24",Tekma Lijak Sv Marija nasledn gric od Danijela rampa Lijak -Jernej je zmagal erzo Grega Juri Andrej Jaz sem scuru ker sem pretiraval,1300,2.5,rox
+Lijak,1,"",173,28000,4tekmovalci,1mesto_int,"1997-10-25",Tekma Lijak,Skabrijel,Lijak,Zm.Rampa,kolikor gre dalec-pristanek Picerija Anja,1233,2.9,rox
+Planina-Stolp,1,"",16,-nan,null,null,"1997-10-30",Pes na Planino potem pa let domov,850,1,rox
+Razpadalica HR,1,"",162,-nan,null,null,"1997-10-31",Super jadranje na Buzetu termika po celem grebenu,1150,3.5,rox
+SV.Jelena HR,1,"",5,-nan,null,null,"1997-11-01",Prosti met z policastega hriba start na eni od polic,null,null,rox
+Razpadalica HR,1,"",68,-nan,6tekmovalcev,5mesto_int,"1997-11-01",Prvi obrnil obratno tocko in imel pred drugimi na drugi veliko prednost a scuru ker sem soliral in napravil napako,1075,4,rox
+Razpadalica HR,1,"",64,-nan,6tekmovalcev,5mesto_int,"1997-11-01",Prvi obrnil obratno tocko in imel pred drugimi na drugi veliko prednost a scuru ker sem soliral in napravil napako,1075,4,rox
+Strmca,1,"",5,-nan,null,null,"1997-11-09",Korenov Tension Zvecer ko se niti obtdzat ni vec dal na grebenu s-total mir sem se odpeljal v dolito nad dolino pa mi ga je samo zaprlo vec kot polovica Takoj sem ga kontriral ko sem ga pogledal sploh ni nic skocil v smeri zaprte smeri pa tudi obratno ne nekaj sekund za tem pa je skocil v negativo po nekaj obratih je stvar spet normalno spelala-Hvaljen bodi bog na visavah.,null,null,airea tension
+Strmca,1,"",5,-nan,null,null,"1997-11-13",Merjenje finese Tamoj, Neon, Rox,null,null,Tamoj
+Lijak N.G.,1,"",123,28500,7tekmovalcev,2mesto_int,"1997-11-14",Tekma Rampa-KrizisceSkabrijel-SV.Marija-Vijadukt Jezero-Uradni Pristanek cilj,2065,4.5,rox
+Zbevnica HR,1,"",7,-nan,null,null,"1997-11-15",Let z Zbevnice v dezju Nov start Para safari v ujmi,null,null,rox
+Planina Stolp,1,"",71,-nan,null,null,"1997-11-16",Jadranje na Planini na veter -zima prihaja,830,1,rox
+Zavrh,1,"",51,-nan,null,null,"1997-11-18",Jadranje na Zavrhu visina 1200 in2m/s dviganja v prste me pa je zebl za stran past,1200,2.5,rox
+Planina Stolp,1,"",27,-nan,null,null,"1997-11-19",Jadranje na Planini Erzo ni mogel odletet ko sem pristal je tudi on odletel,820,1.5,rox
+Kovk,1,"",7,-nan,null,null,"1997-11-20",Let z kovka,null,null,rox
+Planina Stolp,1,"",5,-nan,null,null,"1997-12-03",Pes na planino potempa v nulci let v dolino,null,null,rox
+Zavrh,1,"",70,-nan,null,null,"1997-12-04",Jadranje okoli Zavrha -Slavc Erzo Jaz pristali smo pri Andreju za bajto,850,1.5,rox
+Lijak,1,"",104,-nan,null,null,"1997-12-06",Jadranje na Lijaku in skoraj na rampi kjer sem bil zelo nizek kasneje sem bil skoraj ves cas najvisji letel sem z gregatovim nimbusom on pa s tamojem on je nazalost scuru,1090,2.5,nimbus
+Planina Stolp,1,"",5,-nan,null,null,"1997-12-13",Letenje s Planine Erzo jaz Andrej pa ni uspel startati,null,null,rox
+Lijak,1,"",120,22000,6tekmovalcev,2mesto-int,"1997-12-13",Disciplina Pilon Lijak - Kucl na Cavnu - Vrh Danijaela -Cilj Start Lijaka Bil sem drugi z nekoliko nesrece namrec nek Igor se je zaletel v mene in sva strmodlavla pod start.,1420,2.5,rox
+Srednji Vrh,1,"",30,-nan,null,null,"1997-12-20",Jadranje na vetr okoli srednjega vrha nakarse je naredila baza in sem moral jadrati zunaj in pod njo,null,1,rox
+Lijak,1,"",115,-nan,null,null,"1997-12-27",Letenje iz Lijaka na Kucl nazaj na Lijak. Rahu vzhodnik.,1650,2.5,rox
+Lijak,1,"",26,-nan,null,null,"1997-12-28",Matranje pod startom pobiranje 30 metrov iznad bajte. Pobral sem petsto metrov potem pa spet u podn.,null,1,rox
+Lijak,1,"",45,-nan,null,null,"1997-12-28",Matranje pod startom pobiranje 30 metrov iznad bajte. Pobral sem petsto metrov potem pa spet u podn.,null,1,rox
+Kovk,1,"",30,-nan,null,null,"1997-12-29",Start v megli jadrali pa smo zunaj in ob grebenu proti predmeji.,null,null,rox
+Gozd,2,"",12,-nan,null,null,"1997-12-31",Merjenje finese na gozdu Andrejev padal je dvakrat zmagal-dvakrat sem najdlje letel Po meritvi izracunana finesa 1:7,null,null,rox
+Kovk,1,"",75,-nan,null,null,"1998-01-03",Megla jadranje ob grebenu letenje do predmeje in nazaj Letel sem z lezecim zicom in se mi je zdel super. Kva bi blo v termiki je pa drug vprasanje.,900,1,rox
+Slivnica,1,"",5,-nan,null,null,"1998-01-09",Rahu vzgornik let v dolino 11. 1.98 smo sli na mrzlico odletel je le Grega kasneje je mocno pojacal splosni veter,null,null,rox
+Lijak,1,"",120,-nan,null,null,"1998-01-13",Super termika mocna -Let na kucel in nazaj veliko zapiranj zelo zelo razbito- pomladansko-Andrej je na zalost imel nesreco poskodoval se je po tem ko mu je zaprlo padalo in je slo do tal,1450,4,rox
+Lijak,1,"",130,-nan,null,null,"1998-01-23",Tekma zimske lige pilon na rampi-danijel-rampa-lijak Disciplino je opravil le Juri jaz in Jernjej sva pristala na pristanku. Tekma je neregularna ker smo pilon obrnili le trije. Na rampi je pihala burja in je bilo precej divje. Jernej je pravi divjak - v turbolenci tisci gas do konca.,1386,4.3,rox
+Zavrh,1,"",83,-nan,null,null,"1998-01-24",Slavc Erzo in jaz smo jadrali na veter z termiko. Slavc je pristal pri vojasnici, jaz in Erzo pa doma.,965,3.5,rox
+Sekirca,1,"",1,-nan,null,null,"1998-01-25",Jadranje nad pobocjem- na pristanku vingoverji zafrkancija z Atlasom,550,1.7,rox
+Zavrh,1,"",46,-nan,null,null,"1998-01-26",Tone je obesu, Slavc in jaz sva jadrala na grebenu in pristala na Vrhniki.,980,2.2,rox
+Zabocevo,2,"",15,-nan,null,null,"1998-01-27",Testiranje in ucenje uporablanja varija in GPSa. Curjenje.,null,null,rox
+Zabocevo,1,"",15,-nan,null,null,"1998-01-28",Zabocev ze skoraj dela jadranje izkljucno na termiko.,766,1.7,rox
+Kovk,1,"",47,-nan,null,null,"1998-01-29",Letenje na veter brez pobiranja. Samo vozil smo se. Z mrakom smo vsi Jaz, Grega, Erzo, Jernej pristali na startu.,1143,1.5,rox
+Grmada-DobroP,1,"",51,-nan,null,null,"1998-01-31",Smotan start k svina. Mice je potrgal 1/3 komand. Jadranje na grebenu. Prvi polet z Orange Nimbusom RC.,1096,3.6,nimbus
+Gozd,1,"",50,-nan,null,null,"1998-02-01",Termicno jadranje super za trening. Precej zajeban + neuletenost novega padala.Treba bo uletet motanje s tem padalom.,1177,2.9,nimbus
+Strmca,1,"",5,-nan,null,null,"1998-02-02",Vzlet in pristanek na strmci rahu veter-za scurt.,null,1,nimbus
+Gozd,1,"",86,-nan,null,null,"1998-02-04",Prvi sem vzletel z Mihatom sva letela proti predvoru. V tretjem poizkusu sem pobral v tolstem inse odpeljal pod storzic kjer sem jadral dokler je bilo kaj termike. Se nekateri so poizkusali vendar ni nihce pobral v tolstem nobenga ni blo za mano. Pocas pridobivam obcutek za letenje s tem padalom.,1297,3.6,nimbus
+Gozd,1,"",74,-nan,null,null,"1998-02-05",Jadranje -diagonalno zaprtje- treba bo uletet to padalo.Diagonalno zaprtje-odprt je ostal samo uhelj.,1250,3.6,nimbus
+Lijak,2,"",151,44500,null,null,"1998-02-06",Drugi v zraku-curjenje. Drugic Nanos Heronim-Anja -Ajdovscina.Slab obcutek.,1352,5.3,nimbus
+Zavrh,2,"",13,-nan,null,null,"1998-02-07",Merjenje polare ; Spiralce ; letenje v dolino; skoraj dotikz uhlom po tleh.Spet nekoliko bolsi obcutek.,null,0.4,nimbus
+Planina-Stolp,1,"",5,-nan,null,null,"1998-02-08",Let z Stolpa start iz prve, Erzo pa ni startal.,null,null,nimbus
+Strmca,2,"",108,-nan,null,null,"1998-02-10",Strmicarjenje :Juri, Grega, Erzo,jaz in drugi.Ko me ruka imam zelo slab obcutek.,950,1,nimbus
+Strmca,2,"",40,-nan,null,null,"1998-02-11",Strmicarjenje. Ce ni druzga!?,950,1.5,nimbus
+Gozd,2,"",123,-nan,null,null,"1998-02-13",Prvic je precej shejkal tako da sva imela po eni uri zadost. Z Gregatom sva pristala na vrhu in sla na pir. Potem sva sla ponovno u zrak. Jaz sem pobral do grebena krizke in se odpeljal v dobrco . Tu sem pobral nad zmajarsko rampo in se odpravil nazaj Nad Krizami pa me je navpicno odplaknil na tla. Super filing glede padala. Pocas ga bom uletel.,1330,4.1,nimbus
+Gaber,1,"",10,-nan,null,null,"1998-02-14",Curjenje samo Slavc je jadral eno uro.Se en dokaz da se moram uletet.,null,0.5,nimbus
+Ambroz1,1,"",10,-nan,null,null,"1998-02-15",Zelo mocan zahodnik potem pa je spustilo tako da smo odleteli nekoliko celo pojadrali in pristali pod Grajcem.,null,1,nimbus
+Zabocevo,1,"",110,-nan,null,null,"1998-02-17",Super jadranje termika - odprtje starta za leto 1998. V zraku smo bili Juri, Jaz, Grega, Erzo, Jernej, Slavc, Simeon.Dober obcutek na padalu - zapiranja. Samo v premetavanju se moram sprostit.,1040,3.3,nimbus
+Kovk,1,"",55,-nan,null,null,"1998-02-18",Z starta do predmeje in nazaj. Slavc je peljal Aljaza. Pristal sem na startu.Problemi z gasom. Spet sem sproscen na padalu.,1088,4.1,nimbus
+Zabocevo,1,"",84,-nan,null,null,"1998-02-19",Super jadranje :Bostjan, Slavc,Jaz, Erzo, Tomaz, Jernej, Grega.Super obcutek-gas je v redu-samose instrumente montirat in polarao posnet.,1360,3.5,nimbus
+Gaber,3,"",102,-nan,null,null,"1998-02-20",Super jadranje -pobiranje iz tal -pristajanje na startu. Slavc,Erzo Jernej,Mojca, Jaz,Sterovc,Dusan...-Ozki stbri, treba je blo delat.Uredu obcutek glede pobiranja,zapiranja, rukanje- tudi wingoverji so bili pravi.,522,2.9,nimbus
+Lesno brdo,2,"",10,-nan,null,null,"1998-02-21",Jugo zahodnik Grega in Jaz sva nekej jadrala.,null,1,nimbus
+Lijak,1,"",7,-nan,null,null,"1998-02-21",Grega Miha in jaz smo se vrgl dol.,null,null,nimbus
+Zavrh,1,"",75,-nan,null,null,"1998-02-24",Super termika. Jadranje na grebenu Trebevnik-Javorc. Erzo Slavc Jaz,Tiln, Bostjan pa je scuru v kosu.,1270,4.6,nimbus
+Samotorca,1,"",7,-nan,null,null,"1998-02-25",Erzo in Grega sta jadrala pol ure in scurla tocno takrat ko sem sej tudi jaz v zrak. Skupaj smo scurli. Po startu me je precej zvijalo veter z leve.,null,null,nimbus
+Ambroz,1,"",109,-nan,null,null,"1998-02-26",Juri Miha Jaz. Start 14:00 Juri Suster in Miha ter drugi so scurili tako da sem nekaj casa edini bil v zraku. Odpeljal sem se do roba kalskega grebena vendar sem se vrnil ker nisem imel pospesevalca.,1937,4.6,nimbus
+Kovk,1,"",45,-nan,null,null,"1998-02-27",Pika tekma pristal sem v notranji krog. Skupno smo zasedli 3.mesto,null,null,nimbus
+Gozd,1,"",110,-nan,null,null,"1998-03-05",Prvic letos na 2000 -1900 nad Zadrago na ravnini. Storzic pa nisem pobral nad njega. stbri so bili sipki in ozki.Super samo izhod iz Bstalla je bil slab. Padalo mi je ostalo v prevlecenem letu.,2044,4.8,nimbus
+Gozd,3,"",75,-nan,null,null,"1998-03-06",Lijak mocno na Gozd smo prisli ob pol stirih. Startali smo na gozdu pobrali na krizko odleteli do Storzicain nazaj, pristali na Krizki. Potem pa sli ponovno v zrak in pristajali tuch and go med Krizko in Tolstim. Potem smo odleteli na Gozd.Gas moram postimat. Super razgled Storzic v snegu z padalci.,2035,4.6,nimbus
+Zabocevo,1,"",65,-nan,null,null,"1998-03-10",Rotorji - Slavc je pred 1no uro odletu v Hrusevje.Premetavanje klofanje uglavnem dober trening. Erzo 11m/s dviganja.Zelo pestro.,1700,6.2,nimbus
+Zabocevo,1,"",90,15000,null,null,"1998-03-12",Po enournem jadranju smo odplanirali iz 2500 v Ljubljano k Juriju domov. Na zabocevem smo bili Grega, Erzo, Juri,Jaz. Z Ilirske bistrice pa so prileteli Mega in Herman. Pristala sta na Pokojiscu.Koncno mam filing na tem padalu.,2580,5,nimbus
+Gozd,1,"",80,-nan,null,null,"1998-03-13",S slavcem sva sla do potoske in nazaj. S Slavcem sva pristala na Krizki.,1935,4.4,nimbus
+Krizka,1,"",30,-nan,null,null,"1998-03-13",Vzlet s krizke fajtanjeza  visino -uspeh in pristanekna Senicnem po tekmi za Svoletovga prasca. Zmaga Simeon, drugi je bil Bostjan, Skupno smo zmagali.,1477,2.4,nimbus
+Zabocevo,1,"",150,-nan,null,null,"1998-03-16",Jadranje po celi dolini vojasnica-planinca. Nad greben se ni dalo vsaj za dlje casa ne. Slavc, jaz,Erzo,Dusana,Logacani.,1000,3.2,nimbus
+Zabocevo,1,"",110,-nan,null,null,"1998-03-17",Zelo svoh inpa ozki stbri. Prvi sem pobral na na 1400 in se odpeljal do konca doline. Ker se nisem pobral semse vrnil do krimsckain se zapeljal v njegovo zavetrno stran. Pihal je Seveozahod. Tu sem dobil batino do 2000m ze drugic sem vse nabil.Po tem sva s slavcem odletela. Jaz sem letel proti kocevju s hitrostjo 50 kmH in proti bazam. Nad Blokami pa je baz zmanjkalo in vrnil sem se za slivnico kjer sem se pobiral potem pa sem pristal pri Jerneju. Jimmi je pristal v Rakeku.,1990,4.9,nimbus
+Lijak,1,"",45,-nan,null,null,"1998-03-21",Italjanska tekma slavc sedmi. Jaz pa sem bezal izpod oblaka.Z gregatom sva zajebala mogoce najlepso moznost za odletet na buzet.,1943,8.2,nimbus
+Zavrh,1,"",61,-nan,null,null,"1998-03-25",Precej mocan veter je ob3h nekoliko pojenjal in z erzotom sva letela na Zavrhu pristala sva na stari vrhniki.,1214,2.8,nimbus
+Ambroz,1,"",205,49430,null,null,"1998-03-26",Erzo je napovedal KGora jaz pa Ratece. Erzo je pristal v Begunjah jaz pa v Dovjem.,1810,4.8,nimbus
+Ambroz,1,"",188,40000,null,null,"1998-03-27",Napoved Ratece Obrnu sem Valvazorja in pristal v Begunjah. Dones sem bil plazilec z jurijem sva se plazil po tleh in dirkala. Nekajkrat je malo manjkalo da bi scurla.Rabmo samo malo lepsi dan pa ratece padejo za salo.,1832,5.1,nimbus
+Ambroz,1,"",194,57300,null,null,"1998-03-28",Poizkus trikotnika. Precej razbito ozracje in zato sva z gregatom letela proti Ratecem Grega je pristal v jesenicaj jaz pa Vgozdu mrtuljek kjer me je rikvercal.Gorenske imam za nekej casa zadost. Vtreh dneh sem naletel devet ur.,1933,5.7,nimbus
+Ambroz,1,"",65,-nan,null,null,"1998-03-31",Matranje poed startom.,1000,2,nimbus
+Strmca,1,"",71,-nan,null,null,"1998-04-08",Strmicarjenje z termiko. Zapiranja pri polnemgasu.Zapiranja pri polnemgasu zadeva se je lepo obnasaloa.,1200,3.2,nimbus
+Gaber,1,"",37,-nan,null,null,"1998-04-10",Plohe nevihte v notranjosti tu pa veliko stbrov precej mocan veter veliki oblaki tako da smo sli vsi namenoma pristat ker so bile cudne razmere.,500,3.5,nimbus
+Lijak,1,"",176,35000,68,12,"1998-04-18",Prva liga tekma skoz sem bil v vodilni skupini napaka na cavnu tu sem zaostal in sel slikat Ravne problem pa je bil potem pobrat. Obratna288 jaz pa sem se pobral iz 300m teren zelo polozen tako da sem imel obilo problemov. Od raven nazaj sem skoz pomalem tiscal gas in ujev Mihata. Zmagal je Jocif drugi Suster tretji Novak. Vcil nas je prislo 16 jaz sem dvanajsti vendar pa jih je ogromno zajebalo slikanje tako da bo rezultat zanimiv.,1368,7,nimbus
+Zavrh,2,"",70,-nan,null,null,"1998-04-21",Hladna fronta vse je drzal cetudi je bilo vse pod oblaki.,1200,3.5,nimbus
+Zavrh,1,"",105,-nan,null,null,"1998-04-22",Peglanje na trebevniku.,900,1.5,nimbus
+Buzet,1,"",96,-nan,null,null,"1998-04-24",Jerry je sel do ucke. Sma sem se vozil zunaj in sem pobral tako da sem pristal na startu. Bilo je zelo veliko zapiranj (oblakov) tako da ce si hotel biti visoko si moral imeti sreco da si namotal pod crno bazo potem pa je drzalo kljub zapiranjem. Erzo 2100m.,1386,4.8,nimbus
+Buzet,1,"",111,-nan,null,null,"1998-04-25",Erzo v pazin Grega na ucko jaz pa na lupoglav. Super dviganja super letenje lepe baze na1800m. Erzo izkoristu en grd oblak katerega sem jaz zajebal potem pa tako mocan pis da je slo komaj naprej. Karlo je imel neko pizdarijo v okolici starta z cultom.,1822,4.5,nimbus
+LicMali,1,"",19,-nan,null,null,"1998-04-30",Jadranje na Licu.,953,1.9,nimbus
+LicVeliki,1,"",45,-nan,null,null,"1998-04-30",Jadranje na zgornjrm licu precej mocan veter in grdi oblaki.,1182,2,nimbus
+LicMali,1,"",15,-nan,null,null,"1998-05-01",Pes na mali lic grdi oblaki zgori zauga odspodi je bilo razrukan.,918,2.6,nimbus
+Gozd K.G.,1,"",117,36310,null,null,"1998-05-02",Na ambrozu mocan veter ni bilo za it v zrak. Na krizki pa super Jaz sem sel se z nekaterimi do Jakoba na Potoski potem pa na Drazgosko goro in nazaj vGovice. Grega v zeleznike, Miha v Bohinjsko Belo.Ker je bil na 1900m mocan veter in je imel grega v najsirsem delu doline tezave nisem odletel proti tolminu ker bi imel v grapah velike tezave. Mocan veter.,1960,5.8,nimbus
+Zavrh,1,"",65,-nan,null,null,"1998-05-04",Slavc je scuru erzo je scuri JJaz sem jadral eno uro na termiko potem pa je scuru pred mano se Logacan.,1202,2.6,nimbus
+Zabocev,2,"",15,-nan,null,null,"1998-05-05",Prekrivanja sranje ce si nizek. Bostjan je bil visoko in ga prekritja niso motila.,null,null,nimbus
+Golte,1,"",174,-nan,null,null,"1998-05-07",Trening za dirko,2576,5,nimbus
+Golte,1,"",91,-nan,70,39,"1998-05-08",Dirka nazacetku mi ni slo potem sem ujel vodilne in el med prvimmi cez golte pobral eden redkih v neki zaajedi potem pa so se kar vozil cez mene.Disciplina: Golte, Sv Kriz, Marker, Crnivc, Malic, Mozirje,2058,5.3,nimbus
+Golte,1,"",36,-nan,70,0,"1998-05-09",Cist zajebal dirko erzo je bil petiDisciplina: Golte,svKriz, marker,topolscica,okanina,sv kriz,Mozirje.,1991,4.3,nimbus
+Ambroz,1,"",222,68000,null,null,"1998-05-10",Start ob treh v eni uri na stolu potem pa je kazalo precej slabo vse do ratec srecal padalca in zmajarja, zmajar je priletel z lisce, jaz in zmajar ta dan edina v Ratecah.Prvi uresnicen od zastavljenih.,2453,6.1,nimbus
+Priznica,1,"",50,-nan,null,null,"1998-05-11",Cudn veter cez greben slabo prebijanje termike. Nad startom sem navil na 1570 in odletel na zavrh.,1570,5.4,nimbus
+Ambroz,1,"",77,-nan,null,null,"1998-05-14",Oblake je mocno neslo s sevea vendar se ga ni cutilo Juri prvi potem jaz nato pa se ostali.,2237,5.2,nimbus
+Zavrh,1,"",59,-nan,null,null,"1998-05-15",Mocan veter od spodi tud mal razrukan, Bostjan Dusan in mojca so kmalu pristali jaz in slavc pa sva ga zmotala na in sva skoraj potegnila v logatec.,1545,3.7,nimbus
+Lijak,1,"",30,-nan,null,null,"1998-05-16",Burja cez lijak se je4 umirila termika je prebila in grega in jaz sva odletela. Ker se je blizala ploha sva sla pristat.,900,2,nimbus
+Lijak,1,"",150,35000,null,null,"1998-05-20",Ujel nas je zahodnik lahko bi odletel na nanosu cez vendar so me ostrasili napovedali pa smo pivko. Vendar pa smo od nanosa tako hitro zgubili visino da smo pristali v hrusevju.Mega je sel na Nanosu cez tako kot sem jaz mislu in je naredil 51km,2140,5.5,nimbus
+Marela Kisovc,1,"",35,-nan,null,null,"1998-05-22",Vsi so curili sele jaz sem dobil dviganje potem smo pa vsi zaceli jadrati.,1066,2.9,nimbus
+GEos nad Litijo,1,"",8,-nan,null,null,"1998-05-22",Se en nov start.,null,null,nimbus
+Zabocevo,1,"",151,31080,null,null,"1998-05-25",Jaz erzo sva odlezela v pivko za nama pa je priletel se grega. Nad pivko sem jadral se pol ure in pobral 500m nato pa se odpeljal proti veru par vasi naprej.Pri polnem gasu mi ga je parkrat sesulo vendar nisem imel pri temu nobenih tezav. Sedaj imam cez sto toc v XCju.,2317,5.2,nimbus
+Gozd,1,"",8,-nan,null,null,"1998-05-28",Z Jurijem sva sla na gozd a so bila velika prekrivanja.,null,null,nimbus
+Vremscica,2,"",220,-nan,null,null,"1998-05-29",Supr jadranje voznja skozi baze, gas do konca, testiranje sektor protoja,1268,4.9,Sektor
+Gozd,1,"",156,38440,70,10,"1998-05-30",Tekma za ligo na Gozdu. Vidu sem se na petem mestu vendar so me nekateri prehiteli v cilnem doletu. isciplina:Gozd- Kalisce-GozdMarker-Godic pod velko planino. Od Markerja smo tiscali proti godicu in v mes nismo nic motali. Bila je zelo hitra dirka.Dobri so bili tisti ki se ga upajo bolj tiscat. Nimbus je pocasen.,2022,4.8,nimbus
+Lijak,1,"",50,-nan,null,null,"1998-06-03","",1283,4.3,nimbus
+Lijak,1,"",153,74200,null,null,"1998-06-03",Na lijaku smo napovedal sodrazico potem pa sva z jurijem odletela dovasi cez grosuple. Miha je tudi pristal tam nekje erzo pa na postojni.,1984,5,nimbus
+Kobala,1,"",180,49600,null,null,"1998-06-04",Poizkus trikotnika slikal sem samo prvo obratno potem pa mi je crknu fotlc. Juri in jernej sta sla na svinak in imela tezave jaz pa sem sel na polovnik in nazaj pristal sem na kobali.,2000,4,nimbus
+Kob.stol,1,"",260,82000,70,9,"1998-06-05",Od 24 sem prisel v cilj 9. od 70tih tekmovalcev. Disciplina:Kstol-Kuk-Kostnica-Krob-Dreznica-Volarje-Cilj.,1600,5.1,nimbus
+Kob.Stol,1,"",60,-nan,70,okol25,"1998-06-06",Z malo srece bi lahko zmagal vsi v prvi skupini smo od prve obrane samo se planirali ker je bilo vse pokrito. kasneje se jih je pripeljalo cezme se veliko.Disciplina:Start Kstol- Most na soci tolmin- trd-dreznica-kobala pristanek.,1600,3,nimbus
+Zabocevo,1,"",51,-nan,null,null,"1998-06-08",Jaz sem odletel prvi na priznci in sem na tem koncu danes edini jadral. Erzo je scuru. Grega in Miha pa nist mogla startat.,1250,2.9,nimbus
+Lijak,1,"",144,-nan,null,null,"1998-06-09",Napoved Lijak Trebnje. Jaz Erzo in Miha smo leteli do vipave tam pa je bil mocan jugo-jugovzhod tako da smo cisto nisko komaj zrinl za greben potem pa se je pokazalo sonce in spet smo pobrali nazaj na visino grebena. Zrinla sva se do table potem pa sva se odpeljala na sredo doline in zacela vrtet mocne stbre. Od tu sem odletel nazaj proti kovku in pobral tako da bi lahko odletel naprej. Vendar pa sem imel dovol zato semsel pristat k Anji.,1599,5.2,nimbus
+Strmca,1,"",5,-nan,null,null,"1998-06-11",Polara ,neugodne razmere.,null,null,nimbus
+Sr.Vrh,1,"",5,-nan,null,null,"1998-06-12",12. 6. koncert potem 13. 6. letenje v Il.Bistrci.,null,null,nimbus
+Kovk,1,"",69,-nan,null,null,"1998-06-14",Erzo Juri sta scurla na razdrtem. Jaz in Miha pa sva nizko komaj pobrala da sva prisla do Hrasc pred postojno. Grega  se je od odzad pripeljal na Strmco. Iz strmce je Erzo odletel v Rakitno.,1690,5.9,nimbus
+Strmca,1,"",20,-nan,null,null,"1998-06-14",Miha in jaz sva snemala padal z borovcev. Erzo pa je odletel v Rakitno.,null,2,nimbus
+Zabocevo,1,"",77,-nan,null,null,"1998-06-17",Jadranje okoli zabocevga. Razo Erzo Jaz Andrej je bil po dplgem casu na startu Rus Bostjan.,1375,4.5,nimbus
+Drazgose,1,"",145,-nan,null,null,"1998-06-19",Napoved zaga s povratkom. Zaradi zahodnika nemogoce smo pa prileteli v ratitovec.,1895,4.6,nimbus
+Zabocevo,1,"",96,-nan,null,null,"1998-06-23",Jadrali smo po bazah v logatcu se naredi nimbus. Pristali smo v rakitni vingoverji!!,1780,4.7,nimbus
+Gozd,1,"",20,-nan,null,null,"1998-06-24",Scurl smo erzo grega in jaz ter ostali.,920,2,nimbus
+Ambroz,1,"",47,-nan,null,null,"1998-06-24",Jadal smo okoli ambroza dvakratt sem bil v bazi potem pa sem pristal na jezercih.,1718,3.5,nimbus
+Priznca,1,"",116,-nan,null,null,"1998-06-25",Priznca jadranje planina - vojasnica. Let v podpec.,1869,4.6,nimbus
+Krizka,1,"",108,-nan,70,24,"1998-06-26",Zelo cudni stbri po vecini svoh tezko nabrat visino. Zqapiranja nekateri so scurili iz1700.,1495,3.7,nimbus
+Krizka,1,"",66,-nan,70,null,"1998-06-27",Kljub slabim pogojem se nam je uspelo obdrzati in sem imel tudi se kar lepo izhodisce vendar je bila tekma odpovedana zaradi nevihte ki se je blizala.,1421,3.2,nimbus
+Strmca,1,"",20,-nan,null,null,"1998-06-30",Do skarajnega desnega hriba in nazaj pristat na vrhu.,null,null,nimbus
+Gaber,1,"",49,-nan,null,null,"1998-07-01",Jadranje v zacetku celo termika. Samo jaz sem pobral na 920m,923,2.5,nimbus
+RacnaGora,1,"",54,-nan,null,null,"1998-07-03",Prvic curjenje v navidez dobrih pogojih scurili smo vsi tudi Juri. Drugic pa je slo na 2200.,2211,5.3,nimbus
+Zabocev,1,"",62,-nan,null,null,"1998-07-04",Jadranje okoli krimscka.,null,2,nimbus
+PenaNegra,1,"",153,-nan,null,null,"1998-07-06",Prvi dan v spaniji ravninsko jadranje precej mocan veter pogosti stbri. Obratna tocka bazen od kampa. Letenje proti vetru.,2524,4.7,nimbus
+PenaNegra,1,"",268,47000,null,null,"1998-07-07",Drugi dan v spaniji. Letenje proti Avili v veter poizkus out and return. Zelo nizko pobiranje iz podna.,2666,6.1,nimbus
+PenaNEgra,1,"",300,95000,null,null,"1998-07-08",Mocan celni veter do krizisca pred avilo in nazaj proti vetru 4ure nazaj 1ura.,3247,5.1,nimbus
+PenaNegra,1,"",161,-nan,null,null,"1998-07-09",Izte razmere malinjene okoli starta in nad ravnino.,3503,5.9,nimbus
+PenaNegra,1,"",183,50000,null,null,"1998-07-10",Dirka z reprezentanco bil sem cetrti od 11 tih Prisel v cilj. Med letom imel hudo zapiranje ko sem padalo sestavu sem imel strganega.,3416,5,nimbus
+PenaNegra,1,"",33,-nan,null,null,"1998-07-12",Letel s cultom vse me je motilo. Mocan veter. Prejsni dan FN Flig Niht ker je Jerry skril kluc od kombija. Za nagrado je zvecer letel v vodo oblecen.,2214,4.1,Cult
+PenaNegra,1,"",214,-nan,null,null,"1998-07-13",Letenje levo od starta nazaj na 04 potem do elbarko de avilja in nazaj proti piedrahiti. Nazaj s slavcem nisva sla ceprav bi slo. Sli smo na izlet.,2521,5.6,nimbus
+PenaNEgra,1,"",210,55000,null,null,"1998-07-14",Do pred avilje samo Jernej je letel cez mene.,3012,4.6,nimbus
+PenaNegra,1,"",212,59000,null,null,"1998-07-15",Ep disciplina Avila in nazaj isto sem pozkusil sam scuru pred avilo. Marko malovrh imel nesreco. Scuka Peter preletel v MAdrid.,3275,5.6,nimbus
+PenaNegra,1,"",180,52000,null,null,"1998-07-16",Dirka odpovedana zaradi Markove smrti. rvic baze in se na 4000m super pogoji ki jih jaz nisem izkoristu. Pristanek Avila Erzo do vila kastin.,4005,5.1,nimbus
+PenaNegra,1,"",15,-nan,null,null,"1998-07-17",Let v dolino zaradi nevihte dirka odpovedana. Suso scuru a imel sreco da je dirka odpadla. Od tega dne sta bila se dva slaba dneva v katerih nismo nic leteli. Pac pa sem na zakljucni dan spoznal punco Gabrijelo Gabi iz Avstrije.,null,2.1,nimbus
+Zavrh,1,"",90,-nan,null,null,"1998-07-23",Z Slavcem sva jadrala na zavrhu in na dolu ni slo visoko bila je svoh termika in zanesena.,1100,2,nimbus
+Zavrh,1,"",45,-nan,null,null,"1998-07-23",Po pristanku na vrhniki pa se enkrat z zalaznikom jaz in Slavc sva pristala na vrhu.,1200,2,nimbus
+Zavrh,1,"",115,-nan,null,null,"1998-07-24",Jaz in Grega sva sla v zrak ob treh in sva ze eno uro jadrala ko sta prisla zalaznik in tone. Jaz sem se vozil na drugi strani doline. Grega je enkrat pristal na startu, na koncu pa smo vsi odleteli na vrhniko.,1300,2,nimbus
+SrVrh,1,"",110,-nan,null,null,"1998-07-25",Grega Erzo Slavc Mojca Jaz smo jadrali na Srednjem vrhu. Prvi sem sel v zrak in pobral do baze ko drugi niso mogli. Potem sem odletel do zabic in nazaj. Ker razmere niso bile dovolj dobre sem pristal na startu. Erzo in grega sta letela do sembij.la,1730,3.7,nimbus
+Priznica,1,"",7,-nan,null,null,"1998-07-26",Skok s priznice visoko mocan zahodnik odspodaj pa nic vetra.,null,null,nimbus
+Zavrh,1,"",68,-nan,null,null,"1998-07-28",Nic vetra samo termika slavc franci in se dva scurila +se dva zmajarja. Samo jaz sem pobral nekoliko nad start potem na 1400 iz tu pa sem se odpeljal na planinco kjer sem z visine grebena pobral na 2000m baza. Iz tu bi lahko samo kam zaplaniral.Ker z 2000m ni bilo prespektivno kam odletet tako da bi spet pobral sem odletel na zavrh vas in tam pristal.,2000,4,nimbus
+Gozd,1,"",105,-nan,null,null,"1998-07-29",Jaz sem startal in pobral edini od tiszih ki smo bili na tleh. Odletel sem do potoske in nazaj. Andrej je bil na startu in cakal ker je pihalo dol. Pristal sem na Gozdu.,1830,5.2,nimbus
+Priznica,1,"",45,-nan,null,null,"1998-07-30",Zahodnik samo jurij je dobil stbr ki je sel visoko a takrat me se ni bilo v zraku.,null,2,nimbus
+Vogar,1,"",47,-nan,null,null,"1998-07-31",Prvic na vogarju pes smo sli na start Juri Grega in Jaz. Zahodnik. Nic z Triglavom.,1400,3,nimbus
+Vogar,1,"",30,-nan,null,null,"1998-08-01",Na start smo sli Juri Grega Mico in jaz z namenom triglav ceprav smo vedeli za zahodnik Nekateri smo se nekaj jadrali medtem ko so nekateri skocili v lukno v kateri sem sel dol tudi jaz. Boril sem se do konca. V studorju sem skoraj pobral.,1300,3,nimbus
+Zabocev,1,"",5,-nan,null,null,"1998-08-03",Curjenje Erzo jaz Andrej,null,null,nimbus
+Ambroz,1,"",173,35100,null,null,"1998-08-06",Z Jurijem sva letela z ambroza na krisko in nazaj jaz prvic z novim nimbusom. Erzo v Trsteniku z Ambroza pa smo sli direkt v bohin.,1924,4.2,nimbus
+Vogar,1,"",177,-nan,null,null,"1998-08-07",Jaz prvi v toscu Juri prvi v triglavu. Cel dan sem letel po hribih a nisem mogel na triglav. Na koncu smo pristali na Planiki:Novak, Kurnik,Erzen..Spoznal smo veliko prijetnih deklet.,2510,5.6,nimbus
+Vogar,1,"",162,-nan,null,null,"1998-08-08",Z Jernejem sva porinla v notranjost z manj kot dveh jurjev. Jaz sem sel v voje on pa direkt. Srecala sva se spet na toscu. Iz tu sva se v sprenstvu se nekoga zapelala v triglav od tu pa smo pobrali levo od planike v razfukanem stbru cez triglav.Nad triglavom sva si pozirala. Nato pa planiranje na Vogu do konca grebena. Za namecek sem za foro pobral iz pristanka v visino vogarja potem pa sem sel dol ker sem imel zadost.,3436,4.5,nimbus
+SMucisce ZAbocev,1,"",96,-nan,null,null,"1998-08-10",S Slavcem sva pobrala s smucisca iz podna potem pa smo se vozili po vsej dolini na koncu sem se zapeljal iz planince v zavrh in v dolino pristal sem pri mostu.,1330,4,nimbus
+Zavrh,1,"",68,-nan,null,null,"1998-08-11",Veter,1000,2,nimbus
+Priznica,1,"",21,-nan,null,null,"1998-08-12",Matranje okoli smucisca vsi smo scurili,null,1,nimbus
+Krvavc,1,"",124,-nan,90,13mest,"1998-08-14",Disciplina Sv Lovrenc Psata senicno cerkev Stefanja Gozd zavetisce cilj Disciplino ni nihce koncal zmagal Kriznar janez Sam sem bil prvi z marcem as se jih je peljalo preko naju se 12.,1835,4.1,nimbus
+Krvavc,1,"",153,48000,90,16mesto,"1998-08-15",Disciplina: Senicno cerkev predvor hotel borgozd zavetisce kalisce koca cilj Zmagal Slana Sam nisem letel tako kot treba prisel v cilj 16. Vrhnika na tretjem mestu. Najbolsi vrhnican.,1812,4.4,nimbus
+Krvavc,1,"",121,30000,90,prekinjena,"1998-08-16",Disciplina: Gozd koca jakob valvazor cilj. Tekma odpovedana zaradi grozecih nimbusov. Zjernejem sva bila ze na dobrci 1 in 2 pozicija proti valvazorju pa je bila tekma odpovedana.,1950,5.1,nimbus
+Krvavc,1,"",196,-nan,90,8mesto,"1998-08-17",Disciplina: Gozd marker Sredna bela stefanja gora gozd za v cil je zmankalo sonca cudezno sem pobral potosko in pristal v trsteniku zmagal je Marko Novak.,2010,5.1,nimbus
+AbrozSmuc,1,"",20,-nan,null,null,"1998-08-19",Tekma DP na Krvavcu odpadla Trenutno sem 7. Jadrali smo na grajcu.,null,2,nimbus
+Krvavec,1,"",130,47000,90,32mesto,"1998-08-20",35 minut pred zasledovalci scurili smo na dobrci Jaz Slana Novak Lotric... Zmagal Jernej Erzo tretji. Disciplina:Krvavc-gozd-mozjanca-valvazor-dobrca-peter-senicno.Drzavno prvenstvo zakljuceno sem na 11.mestu mogoce v rezervni reprezentanci.,2100,3,nimbus
+Stolp,1,"",22,-nan,null,null,"1998-08-24",Pes na planino let v dolino.,null,null,nimbus
+Zabocevo,1,"",82,-nan,null,null,"1998-08-25",Trikotnik start vojasnica fbrka start pristanek v rakitni.,1240,3.9,nimbus
+Ambroz,1,"",120,30000,null,null,"1998-08-29",Ambroz Kriska Ambroz super samo za pelat- mocna termika - pristal na jezercih.,2100,5.3,nimbus
+Strmca,1,"",45,-nan,null,null,"1998-08-31",Zanimivo jadranje ne prevec mocan vetr letenje nad ravnino na drugi strani doline..,1100,2,nimbus
+Strmca,1,"",30,-nan,null,null,"1998-09-01","",null,null,nimbus
+Ambroz,1,"",129,-nan,null,null,"1998-09-05",Jadranje okoli ambroza,1870,4.3,nimbus
+Zavrh,1,"",15,-nan,null,null,"1998-09-08","",null,null,nimbus
+Kovk,1,"",110,-nan,null,null,"1998-09-10",Dirka Juri Jaz in Erzo Kovk Predmeja Heronimo in nazaj do anje jaz sem prisel iz heronima nazaj do podnanosa Juri je v podnanosu erzo v Vipavi.,1350,4,nimbus
+Gabr,1,"",6,-nan,null,null,"1998-09-12",Letenje v dolino,null,null,nimbus
+Strmca,1,"",45,-nan,null,null,"1998-09-13",Strmca z Ezoto sva v Logacu Mega v zraku letiva greva domov sva v Logatcu mega je se v zraku.,null,null,nimbus
+Gaber,1,"",105,-nan,null,null,"1998-09-15",Mocan veter na nekaterih delih tudi mocna termika ki jo niso vs imeli moznost dobit. Letel sem od stolpa naprej do platoja tam pa nisem mogel pobrat, zato sem se vrnil . Iz lukne sem pobral na start pristal potem pa sem odletel in pristal ob cesti.,1050,4.5,nimbus
+Zavrh,1,"",40,-nan,null,null,"1998-09-19",Veter pristal na startu.,null,1.6,nimbus
+Kamniski Vrh,1,"",75,-nan,null,null,"1998-09-21",Z Mihatom Gorazdom, Jakatom smo sli pes na vrh. Rabil smo eno uro. Jaz sem napovedal jesenice vendar pa sem se na poti proti kokri obrnil in odletel nazaj na k.vrhv ker je bilo vse pokrito. Najverjetneje bi pristal pod potosko. Nazaj z Ambroza sem se odpravil nekoliko nad srednjim startom priplaniral sem nekoliko nad pristanek ta cas pa je spustilo tako da so se mi pridruzili tudi ostali, od katerih pa sem samo jaz ponovno pobral nad K.vrh. Ko sem v hrib pihalo je dol.,1350,5,nimbus
+Ambroz,1,"",5,-nan,null,null,"1998-09-22",Vse pokrit vrgu sem se v prazno. Na zavrhu so dobr jadral.,null,null,nimbus
+Buzet,1,"",197,50000,null,null,"1998-09-23",Jaz in Mare sva letela na ucko priucki je mare tudi kasneje pristal sam sem se vrnil na buzet.,1500,5,nimbus
+Gaber,1,"",7,-nan,null,null,"1998-09-25",Veliki met,null,null,nimbus
+Osp,1,"",5,-nan,null,null,"1998-09-25",Se en met s vetrom v hrbet,null,null,nimbus
+Kovk,1,"",145,-nan,null,null,"1998-09-28",Letenje start predmeja start - potem se z Jurijem nato pa v Hrusevje. Okoli nas so se delale nevihte. Na Vrhniki je bil Sodni dan- sodre da so jo z lopatami kidali.,1395,4.3,nimbus
+Kovk,1,"",135,-nan,null,null,"1998-10-01",Letenje nad ravnino veliko baz in termike skoraj priklopu caven potem pa odletela s slavcem v Postojno.,1500,4.8,nimbus
+Rahtel,1,"",15,-nan,null,null,"1998-10-09",Zadna pika tekma zelo mocan zahodnik.,null,null,nimbus
+Zmajarska Rampa,1,"",105,-nan,null,null,"1998-10-10",Start na zmajarski rampi na primorskem let na kovk in do anje mocan zahodnik testiranje dolinskovega fasta in od tjase zica.,null,4.3,nimbus
+Zavrh,1,"",26,-nan,null,null,"1998-10-12",Jadranje nulce kdo dalj.,null,2,nimbus
+Kovk,1,"",105,-nan,null,null,"1998-10-14",Tjasin zic dvakrat skoraj do predmeje in nazaj.,null,3,nimbus
+Planina Stolp,1,"",8,-nan,null,null,"1998-10-19",Scuru s planone,null,null,nimbus
+Buzet,1,"",75,10000,24,"2mesto ZL","1998-10-23",1 dirka Zimske lige :disciplina pilon cerkev start cerkev start cilj. dolzina:23km zaradi vremenskih neprilik sem naredu 10km pristal na drugem mestu od 24.,null,3,nimbus
+Buzet,1,"",80,-nan,null,null,"1998-10-30",Neuradno neuradna dirka spica polet klv start - tunel cerkev nazaj Z jurrijem sva zmagala. Super termicno jadranje,1678,4.2,nimbus
+Lukovc,1,"",65,-nan,null,null,"1998-11-06",ZL odpadla zaradi mocne burje sli smo na naprotno stran doline in jadrali v precej razsuti atmosferi,null,3.2,nimbus
+Lijak,1,"",112,-nan,32,4mestoZL,"1998-11-07",2 ZL DIsciplina: Start Rampa Marker Marija Pista Sekret Kromberg cilj Rezultat bi bil lahko bolsi pomankanje strpnosti,1008,3.4,nimbus
+Zavrh,1,"",35,-nan,null,null,"1998-11-11",Brez padala na startu termika Erzo Juri Joze so jadral. Potem pristane Juri na staru mi posodi opremo da sem sel se jaz mal motat. Termika povsod zelo mraz v visini. Testiral Susotov sedez ugotovitev da je eden bolsih.,1400,3,nimbus
+Kovk,1,"",65,-nan,null,null,"1998-11-13",Vetr-vse je drzal,null,1,nimbus
+Lijak,1,"",116,40000,null,null,"1998-11-18",Z razotom sva dirkala disciplino:lijak -rampa-danijel-svmarija-modelarska pista- sekret na cavnu- kromberg- cilj Disciplina je dolga 40km koncal sem jo v 1uri56min. Povprecna hitrost 20km /h. Bilo je zelo mrzlo, nekateri so bili na 1800m.,1200,5.2,nimbus
+Lijak,1,"",40,-nan,null,null,"1998-12-06",Vsi na Lijaku. Ko smo prisli na start se je vsa oblačnost razpadla. Čez 45 minut smo poleteli. Grega je hitro pobral. Nekateri pa smo se fajtali 40min v skalah dokler nismo pristali. Sam sem slabo slišal vario, termika pa je bila tako ozka da nisi ostal v stbru več kot pol kroga.,null,1.5,nimbus
+Lijak,1,"",29,-nan,null,null,"1998-12-12",Zimska liga propadla. Malo premalo termike.,null,1.5,nimbus
+Kovk,1,"",35,-nan,null,null,"1998-12-13",Vetr-vse je drzal,null,1.5,nimbus
+Kovk,1,"",65,-nan,null,null,"1998-12-26",Termika pobral sem iz melisca. Ajo mi je posodu Culta.,null,2,Cult
+Kovk,1,"",55,-nan,null,null,"1998-12-29",Veter vse je drzal.,null,1.5,nimbus
+Vz.rob Vremščice,1,"",2,-nan,null,null,"1999-01-03",Rus in Jernej sta bila z Popularji jaz pa z Cryzijem. Spodila nas je huda familija, poklicali naj bi policaje.,null,null,Ventus2
+Tabor,1,"",3,-nan,null,null,"1999-01-15",Erzo, Slavc in Jaz smo se vrgl v zrak in pristal na platoju.,null,null,Nimbus
+Buzet,2,"",60,-nan,29,7,"1999-01-17",Zimska liga na 3 obratni vsi scurl razen dveh Novaka in Lotriča.,null,3,Cirrus
+Buzet,2,"",75,-nan,29,2,"1999-01-23",Zimska liga na Start, Krizisce, Marker, Crnica, Cimos, Kapelca, SvToma, Cilj. Zaradi vetra in poz nega popoldneva smo obrnili cimos, Samo lotric je obnil Cimos in se pobral. Odletel je z vetom stran od smeri in  visoko priklopu greben. Tako se je lahko vrnil se na Kapelco. Bil sem vso dirko v ospredju.,null,3,Nimbus
+Buzet,2,"",55,-nan,30,null,"1999-01-24",Zimska liga prva runda scuru vendar smo ta dan imeli moznost ponovnega starta Na crnici rotor negdo je imel nesreco. Dve napaki ki jih ne smem nikoli ponovit: Prvic semscuru ker ko sem odletel nisem  Zbral podatkov o siteuaciji. Veter, Stbri sirina jakost visina. Drugic: Pri crnici bi moral it iz tam kjer sem pobiral direkt na obratno tocko, namesto da sem sel bol v rotor in potem vecjo pot po njem.,null,3,Nimbus
+Lijak,2,"",38,-nan,null,null,"1999-02-19",Juri ucil neke nemce, potem se je odprlo in nekoliko smo lahko pojadrali.,null,1.5,Soul
+Kovk,1,"",30,-nan,null,null,"1999-02-20",Z gregatom sva letela v ravnopravsnjem laminarnem vetru- vse je drzal. Kasneje se je zaprlo pricelo je rositi.,null,1,stratus
+Planina Stolp,1,"",49,-nan,null,null,"1999-02-25",Na planino sem se odpravil peš ob 12:00. Na start sem prisopihal ob13:15, na rami fa sem vlekel kompletno opremo z balastom vred. Na srečo je v intervalih pihalo tako da sem mislil da bom za šalo štartal in da mi bo padalo takoj prijelo. Dvakrat sem poizkusil a vsakič že po prvem koraku padel. Med poizkusom sem spet čakal da je pihnilo. Končno sem dočakal naslednji interval in štartal naprej na mestu. Ura je 13:50 jadram. Bilo je nekaj termike,(dviganje 2.7m/s) od kod nevem, a bila je termika. Po 49 minutah ni bilo več toliko stebrov, vlačil sem se samo še na grebenu. Tako da sem prvi stebr izkoristu in se zapeljal proti Podlipi in po grebenu čez Kuren domov.,890,2.7,stratus
+Lijak,1,"",111,30000,null,null,"1999-02-26",Letenje z lijaka do razdrtega.,1374,5,stratus
+Lijak,1,"",130,-nan,29,0,"1999-02-27",Problem z križem na kuclju. Super letenje, ostro, pobiranje iz podna.,1200,5,stratus
+Kovk,1,"",90,-nan,29,11,"1999-02-28",Precej smo tiščali. Veter če si nekoliko zaostal si zelo težko pridobil razliko. Na Cerkev pod kovkom smo se zapelali v nedelujočem intervalu tako da smo vsi razen Novakarce scurili. Zmagal Aleš. Dirka je bila dolga 51km.,null,5.3,stratus
+Lijak,1,"",140,-nan,null,null,"1999-03-14",Pihala je šipka burja nekatri so leteli do vipave, sam pa sem na vshodnem robu čavna napravil odločitev da nas bo če ne prej odplaknilo na vipavi. Letel sem nazaj in obrnil Sveto goro ter pristal na štartu. Bilo je ludo I nezaboravno.,1430,4.7,stratus
+Lijak,1,"",81,-nan,null,null,"1999-03-20",Sever Leteli smo na kras velike visine Mico na 2800,2150,4.6,stratus
+Lijak,1,"",115,-nan,null,null,"1999-03-21",Stratus letenje start danijel, rampa, danijel, marija, viadukt, pristank,1470,4.7,stratus
+Zavrh,1,"",77,-nan,null,null,"1999-03-23",Na startu je ni nic pihalo oz. Rahu hrbet. Na planinci so se delale vina bazice tu pa nic oblake je neslo z vzhodnikom na startu pa nic vetra. Na startui smo bili Erzo Zalaznik Bostjan in jaz. Prvi sem se pripravil in se odločil da startam takoj ko rahlo pihne gor. Takoj ko je potegnilo navzgor sem startal in se odpeljal naravnost cez dolino. Kazalo je zelo slabo tudi oni na startu so si morali misliti kako bo scuru kot kanta. Na drugi starani sem dobil neka nestanovitna rahla dviganja. Ko sem zgubil dviganje je vse kazalo da je konec. Peljal sem se ven iz dolinein dobil steber ki sem ga s popravki zvrtil do baze 1200m. od Tu sem se z gasom odpeljal proti naslednji bazi na barje. Tu sem pobral iz 900 na 1100 nad Blatno brezovico. Tu sem vstavil film v fotoaparat. Nad vojasnico sem spet popraviol visino in nad St Vrhniko sem ze bil na 1300m v bazi. Potem sem sel pogledat na Planinino od tu pa prek Ulavke v podlipo. Da ne bo v podlipi nic sem videl ze nad Planino.,1307,4,stratus
+Zabocevo,1,"",158,-nan,null,null,"1999-03-24",Na startu je pihalo v intervalih in prvi je potegnu Jeri z stratusom. Takoj za njim sem startal sam. Jaz sem se obdrzal in pobral vozu sem se na 2300m vbazo nad gozdovui za rakitno. Odletel sem pod bazo pri sv Ani od tu pa cez gozdove pod bazami nazaj proti Planinci in na Zavrh. Od tu nazaj na zabocevo kjer je Jeri ze pobral na 1400m. Pobrala sva se nekaj visine potem pa sva se odpeljala na sv ano tu sva z 1000 pobrala na 1500 Jernej je odletel naprej jaz pa nazaj spet sem letel cez hoste in nevem ce nisem jadral na valovih brez da bi obracal ker je prevec pihalo sem se peljal cez hoste in glajdal na pogostih dviganjih. Ko sem priletel na Zabocevo je tako pihalo da z polnim gasom nisem prebijal. Nekako je le spustilo in pristal sem ob vasi. Jernej je z sv ane odletel v Smartno pri litiji.,2350,4.8,stratus
+Zavrh,1,"",30,-nan,null,null,"1999-03-28",Veter z vrhnike obtekanje zunej sem sicer nekej zvrtil ampak scuru.,null,2,stratus
+Zavrh,1,"",77,-nan,null,null,"1999-03-31",Termicno letenj, veter je pihal v dolino, pristal sem pri Tarasu.,1100,3.1,stratus
+Ambroz,1,"",181,-nan,null,null,"1999-04-01",Z mihatom sva letela trikotnik letela sva v kmaniskih alpah vendar zaradi severnega vetra nisva mogla obrnt kocbekovga doma. Super res lepo sneg v hribih, samo nekoliko neugoden obcutek v zaveterni straneh hribov.,2322,4.8,stratus
+Ambroz,1,"",57,-nan,null,null,"1999-04-02",Erzo in jaz sva startala na smuciscu. Severni veter precej razbutan vendar sem se pocutil odlicno. Najbolsi stber letosd 6.8m/s Slikal smartno in nameraval letet trikotniok. Preprecil severni veter. Kasneje so leteli na velikih visinah baza se je dvignila. 3000m Pristal sem v zupanjih njivah. Napake na 1350 sem imel moznost letet na vplanino ali pa nazaj zapeljal pa sem v kamniski vrh. v zavetrni strani sem se pobral in imel kasneje nekoliko tezav. Ko v vzhodni strani ambroza ni prijelo bi se moral zapeljat nazaj v rotorjere oz nazaj v kamnisjki greben.,2230,6.8,stratus
+Lijak,1,"",40,-nan,null,null,"1999-04-03",Sever najpej lepo prvi stbr nad startom potem pa tako razfukan kot se nikoli. Dozivel nisem nic extremnega razen turbolernce tako da sem imel res polne roke dela. Nekaj minut po mojem opozorilu da je hudo je Mojca porocala da je Tita strmoglavla vrgla je rezervo. Strizni vetrovi ko sem pobral naprimer iz nizjega sloja v visji je zacelo tako razmetavat da se ni dalo poberat.,1300,4.8,stratus
+Bassano,1,"",120,-nan,null,null,"1999-04-04",Letenje v italiji z novim padalom letenje cez dolino in primerjanje padal super.,2000,5,stratus
+Ambroz,1,"",35,-nan,null,null,"1999-04-05",Precej razbit in nevarn start poletovcem je propadu trening novakarci in men XC. Delal sem b, fron stall, zapiranja,null,2,stratus
+Priznica,1,"",150,53000,null,null,"1999-04-06",Letenje skoraj do novega mesta Erzo cez novo mesto letela sva drugacne spure. Meni je zmankalo baz in sem moral letet popolnoma drugo smer. Nad zuzemberkom sva se spet srecala le da je bil on pod baza jaz pa na grebenu na 700m tu sem se potem matral 45minut in mi se je uspelo pobrat na 1200m od tu sem pristal na Strazi pred NM,2650,5,stratus
+Sv.LovrencP.G.,1,"",140,23000,null,null,"1999-04-10",Na startu je lepo kazalo(oblacki) Prvi je potegnu Slavc, potem pa jaz. Bila je prava odprava na ta hrib (rakicani vrhnicani, domacini) Zelo hitro sem pobral na 2000m medtem ko drugi niso mogli. Potem sem se odpeljal na Grmado in na Tosc. Od tu nazaj in na 2200. Ta cas pa je mojca odletela proti zirem zelo nizko. Sam sem se odpeljal proti vrhniki. Nad podlipsko dolino sem imel se 1100. Na planini je bilo nestanovitno. Ko pa se peljem proti BJju zagledam ptica kako vrti. Se je upanje poberem na 1300 se odpeljem proti notranjosti ker zagledam nov oblak. Tu popravim na 1500 in naravnost cez Pivkovo bajto. Od tu napreje je bilo vse pokrito koprena in nekaksni nestanovitni kumulusi. Zacuda sem se kar dobival sem in tja lep stbrcek, ki pa nobeden ni sel cez 1500. Nad kalcamui sem imel 1200m premalo za cez hoste proti primotrski. Pihalo je iz smeri Planinskega polja in brez naslednjega stbra sem pristal kar na Kalcah.,2222,4.8,stratus
+Priznica,1,"",61,-nan,null,null,"1999-04-20",Erzo in jaz in Bostjan smo leteli okoli zabocevga bili so zelo veliki in visoko razviti oblaki dviganje je bilo zelo mocno, pihal je zahodnik vse okoli nas so bile zavese in nimbusi tako da nas je bilo kar malo strah. Imel sem mokre noge tako da me je zelo zeblo, na startu in v rakitni je bil se sneg. Ce bi imel suhe noge , bolso obleko in me ne bi bilo tskop strah bi mogoce lahko odletel proti novem mestu.,1700,6.2,stratus
+Šemprimožnik,1,"",15,-nan,null,null,"1999-04-24",Gornji grad pika tekma Rus Bostjan v nuli sam na crto kroga.,null,1,stratus
+Bezovnik,1,"",5,-nan,null,null,"1999-04-24",Na drugo stran jadrat ampa kvreme se nas ni usmillo.,null,null,stratus
+Lijak,1,"",38,-nan,null,null,"1999-04-25",Lijak jadranje plohe konc s KLVjem,null,1,stratus
+Priznica,1,"",40,-nan,null,null,"1999-04-26",Razotov rojstni dan zaradi grdih oblakov nisem odletel do razota. Na Visoko prikurescku.,null,4,stratus
+Gozd,1,"",120,50000,null,null,"1999-04-29",Mare Tomi smo strikal gozd potoska dobrca mozjanca pristank pod gozdom od dobrce do mozjance in do pristanka brez vrtenja.zelo pozn smo startal pristal ob sestih.,null,3,stratus
+Gozd,1,"",100,-nan,null,null,"1999-05-02",Matranje na gozdu. Startal smo precej zgodaj. Do kalisca potem sem izpod lovrenca pobral nazaj in sel na krizko. Dober trening.,null,5.8,stratus
+Krizka,1,"",30,-nan,null,null,"1999-05-02","",null,2.2,stratus
+Zabocevo,1,"",10,-nan,null,null,"1999-05-03",Jernej Scuru z priznice, jaz scuru z Zabocevga, Erzo kasneje odletel z priznice v Ljubljano.,null,null,stratus
+Gozd,1,"",100,-nan,null,null,"1999-05-08",srednji vzhodnik precej pokrit in svoh termika precej je blo spihan vse skupaj trije lepi stbri Vozu sem se precej nizko, pelal velik z gasom nism se cist uleten glede odlocanja,null,4,stratus
+Krizka,1,"",25,-nan,null,null,"1999-05-08",Po tem smo z Gregatom in Mihatom sli na pristat na Krizko na en caj.,null,2,stratus
+Lijak,1,"",45,-nan,null,null,"1999-05-16",Zelo slabo vreme ko pa se je malo odprlo smo odsli na start prisli smo prepozno spet se je zaprlo malo je padal dez malo je dol pihal in Taras je startal. Ker se mi ni dal pelat v dolino z avtom sem sel letit z gregatovim padalom. Ko pa sem pobral so sli se ostali v luft. Letel smo skoraj eno uro ko je spet pokril in smo scurl.,null,2.6,stratus
+Sv.Primoz,1,"",100,-nan,null,null,"1999-05-17",Jurij jaz in Mare smo startal okoli dveh pihalo je tako da smo startali  v zaveterju.  Na zacetku je bil samo veter in mare je ze skoraj scuru. Pol pa je zacela delat se termika. Mare je iz podna pridrvel gor z sedmico skupaj smo zvrteli ta stbr potem pa se je zacelo uzivanje termika. Letel smo po ravnini proti vetru in se vozil po celi dolini. Mene je sesul z polnim gasom in se zdi kar v redu.,1500,4.8,stratus
+Zabocevo,1,"",80,-nan,null,null,"1999-05-18",Z Jurijem sva startala na zabocevem pihal je dost mocan vzhodnik tako da je mene ki sem takoj pobral odneslo cez dolino medtem ko je Jurij imel vec problemov z pobiranjem. Letel sem proti vinjemu vrhu in tam pobral a je bilo se bolj razbito. Z gasom sem sel tudi 46proti vetru.Z antene nad pokojiscem 1500 sem letel na planinco od tam pa nazaj in sem se enkrat pobral nato pa sel pristat.,1500,4.8,stratus
+Lijak,1,"",40,-nan,null,null,"1999-05-22",z gregatom sva letela pred ploho pol se je nardil,null,3,stratus
+Krizka,1,"",30,-nan,null,null,"1999-05-23",Gabling dirka zelo veliko nas je scuril v temi kasneje krasni pogoji Jurij je zmagal,null,2,stratus
+Priznica,1,"",95,-nan,null,null,"1999-05-24",Jadranje precej razbit mocan vzhodnik, tud na 2000m, na koncu sem sel pogledat kaj se dogaja med planinco in podpecjo kjer velikokrat dela a je bilo precej svoh.,2000,5.1,stratus
+Gozd,1,"",170,32000,null,null,"1999-05-25",Napoved trikotnika a so se razmere presenetlivo pokazale za precej slabe tako da smo leteli na ambroza in nazaj.,2200,5,stratus
+Gozd,1,"",133,32000,null,null,"1999-05-27",Na ambroza pa nazaj jaz sem se ujel na ambrozu dobra sola,2140,5.5,stratus
+Gozd,1,"",40,-nan,null,null,"1999-05-28","",965,2.1,stratus
+Stol Tekma,1,"",35,-nan,null,null,"1999-05-29","",1318,3.8,stratus
+Stol Tekma,1,"",152,-nan,null,null,"1999-05-30","",1249,4.7,stratus
+Stol Tekma,1,"",237,50000,null,null,"1999-05-31","",1748,4.8,stratus
+Stol Tekma,1,"",88,-nan,null,null,"1999-06-01","",1600,5,stratus
+Kobariški stol,1,"",45,-nan,null,null,"1999-06-02","",1311,3.5,stratus
+Kobariški stol,1,"",263,91000,null,null,"1999-06-03",90km disciplina iz ene doline v drugo super,1746,6.9,stratus
+Kobariški stol,1,"",265,80000,null,null,"1999-06-04",Slavc imel nesreco- dokler bomo leteli mi ki nas je on navdušil in učil, ter navduševali še druge bo Slavc vedno živel,2183,6,stratus
+Kobariški stol,1,"",9,-nan,null,null,"1999-06-09",Po Slavcovem pogrebu sem odsel pes na planino in v sončnem zahodu odletel v dolino.,null,null,stratus
+Kobariški stol,1,"",179,45000,null,null,"1999-06-10",Svetovni pokal v Kobaridu, letel sem z njimi,1874,5.3,stratus
+Kobariški stol,1,"",25,-nan,null,null,"1999-06-12",Svetovni pokal v Kobaridu dirka zaradi nevihte odpovedana,null,0.7,stratus
+Kobariški stol,1,"",61,-nan,null,null,"1999-06-17","",1626,4.8,stratus
+Priznica,1,"",19,-nan,null,null,"1999-06-24",Napoved XC propadla Erzo odletu na kolpo veter dol mal rotorcka,850,3.7,stratus
+Zabocevo,1,"",93,-nan,null,null,"1999-06-24",Kasneje na zabočevem pobral a je bila ura ze 5pm Erzo ze nad Čabrom,2338,4.1,stratus
+Ambroz,1,"",121,-nan,null,null,"1999-06-25",Napoved 80km trikotnika a je bil sever premocan pihal je čez ze na ambrozu,1833,4.8,stratus
+Priznica,1,"",191,45000,null,null,"1999-06-26",Napoved Novga Mesta Prelet v cabar Super dan zgledal je za stotko a smo precej rinil v veter,2779,5.1,stratus
+Ratitovc,1,"",121,-nan,null,null,"1999-06-27",Liga dirka na Ratitovcu super organizacija Krokarjev nekaj zahodnika a lepa dirkica. Bil sem sproscen in zato sem dobr letu. Bil sem 4.,2127,5.5,stratus
+Zabocevo,1,"",61,-nan,null,null,"1999-06-29",Start na Zabočevem. Bostjan je odletu na primoza. Sam sem letu na podpeč in nazaj ter pristal na rakitni.,1900,4,stratus
+Zavrh,1,"",45,-nan,null,null,"1999-07-01",Erzo taras in jaz smo letel z zavrha. Prvi sem startal jaz in pobral desnio nad start. Odleteli smo na vrhniko. Kasneje je lčetel se Uroš.,900,2,stratus
+VildKogel,1,"",120,70000,null,null,"1999-07-03",Svetovno prvenstvo trening.Z Repovzem sva letela 70km z povratkom v dveh urah povprecje 35km/h. Najbolši pogoji v katerih sem kdaj letel. Sli smo pocivat, ker bomo kao cel teden leteli stotke.,3238,7.5,stratus
+VildKogel,1,"",338,85000,null,null,"1999-07-04",Prva dirka za sp morala bi biti prekinjana nevihtna oblaka bezanje na tla.,3650,6.9,stratus
+VildKogel,1,"",54,-nan,null,null,"1999-07-13",Poizkus dirke po tednu dni dezja dirka je bila prekinjena zaradi nevihte.,2100,3.6,stratus
+VildKogel,1,"",28,-nan,null,null,"1999-07-16","",2233,3.2,stratus
+Hollersbach,1,"",15,-nan,null,null,"1999-07-17",Let v dolino derke ni,1000,null,stratus
+VildKogel,1,"",28,-nan,null,null,"1999-07-18",Zadnja dirka ki je bila prekinjena naslednjui dan smo sli domov.,null,null,stratus
+Zabocevo,1,"",124,-nan,null,null,"1999-07-19",Zabocev trikotnik mocan vshodnik ki nas je nazadnje vseeno spihal na tla.,1750,4.7,stratus
+Ambroz Smucvisce,1,"",106,-nan,null,null,"1999-07-20",Trikotnik ojstrica pristal sem v Kamniski bistrici,2047,4.4,stratus
+Ambrož,1,"",23,-nan,null,null,"1999-07-27","",null,3,stratus
+Ambrož,1,"",48,-nan,null,null,"1999-07-27","",null,2.6,stratus
+Zavrh,1,"",22,-nan,null,null,"1999-07-30","",null,0.9,stratus
+Abrož,1,"",53,-nan,null,null,"1999-07-31","",null,3.4,stratus
+Zabočevo,1,"",13,-nan,null,null,"1999-08-01","",null,1.4,stratus
+Zabočevo,1,"",7,-nan,null,null,"1999-08-01","",null,1,stratus
+Prižnica,1,"",135,-nan,null,null,"1999-08-02","",1925,5.7,stratus
+Prižnica,1,"",38,-nan,null,null,"1999-08-03","",1181,2.4,stratus
+Ambrož,1,"",104,-nan,null,null,"1999-08-04","",1705,3.8,stratus
+Zavrh,1,"",7,-nan,null,null,"1999-08-08","",1019,0.6,stratus
+Zavrh,1,"",90,-nan,null,null,"1999-08-11",Super jadranje,1562,4.8,stratus
+Zavrh,1,"",78,-nan,null,null,"1999-08-13","",946,2.4,stratus
+Ambrož,1,"",137,30000,null,null,"1999-08-14",Super Letenje pihal je zahodnik. Sam sem letel po kalskem grebenu do Kmetije bilo je nekoliko neugodno zato sem se vrnil potem sem preckal na Potosko. Bilo je kar zajebano zaradi prevcejsnje jakosti vetra. Ko sem jo pobral pa sta zamano prisla Jurij in Jocif. Drugi niso sli. Leteli smo do krizke in naza. nazaj se nam je vse pokrilo tako da smo preckali mozjanco nizko. Tu je spet posijalo sonce in z Jurijem sva pobrala dvesto metrov. Priletela sva skoraj do cerkelj.,2008,4.4,stratus
+Zavrh,1,"",84,-nan,null,null,"1999-08-22",Z jernejom smo se peljal na staret se Nina in Uros ZA nami pa so prišli se Joze Juri Tereza, Luka Dusan Bostjan kasneje se Marjeta in Herman. Super letenje nekoliko mocan veter. Mislil sem ze odletet na primorsk a se mi je zdelo da bo tam premočno lepe baze 1800. Bil sem v bazi. Kasne je smo pristajali na startu potem pa se enkrat.,1829,3.7,stratus
+Zavrh,1,"",57,-nan,null,null,"1999-08-22",Tereza ze drugic nehote pristajala na startu.,null,3,stratus
+Priznica,1,"",148,30000,null,null,"1999-08-23",Startal smo ob pol dveh Jaz Miha Grega  skupaj smo pobrali do baze in mal notr. Bilo je super ko sem se vozil po robu oblaka. Ko sem pogledal nazaj sem videl glorijo in svojo senco. Nazalost sem imel poslikan film. Od tu sva z Mihatom odletela na zavrh pod druge baze ki pa so nama razpadle. Vrnila sva se vsak po svoje Miha je sel proti planinci pa cez Zabocevo, sam pa sem sel proti Vinjemu vrhu. Iz nekje sredine pa sem se zapeljal cez v krimcek. Tu sva  z Bostjanom zvrtila 6mski stbr. Grega je ze prej odletel in pristal med cerknico in rakekom. Z bostjanom sva se zapeljala do vinjega a je kazalo zelo slabo nato pa je bostjan napravil super potezo. Odpeljal se je kar cez plafon na drugi strani pa stbr. Kar je logicno tu piha cez in prozi stbr na drugi strani kjer je biulo sonce in veika ravnina. Delalo je z druge strani tu sva pobrala fdo baze z 900m 100m nad podnom. Miha nama je sledil in ravnotako pobral. Na unc sem prisel nekoliko za Bodstjanom in ujel sonce pobral na 1600 se odpeljal do Ravbar komande pobral na 1800 do baze nato pa sem se odlocil za smer col. Proti pivki ni bilo baz proti razdrtem tudi ne. Pod bazami sem sicer dobil neko dviganje a jih je filalo iz strmce. Tu sem mogoce napravil napako saj sem se peljal naravnost proti razdrtem namesto da bi letel proti prvim grebenom. Pristal sem na mitnici Razdrto.,1909,6,stratus
+Kovk,1,"",20,-nan,null,null,"1999-08-24",Z erzotom in Gregatom smo sli na kovk bolj na izlet bilo je namrec vse pokrito in pri avtih in na startu je pihalo celo nekoliko dol. Najprej je sel Dane a je kazalo da je ze scuru ko se je spet poksazal v visini starta. Za njim sem startal jaz in takoj pobral na 1395. Nato sem se sel mal pelat in ko sem se vrnil nisem okoli starta dobil nobenega dviganja zato sem pristal in spravil v luft Erzota ki je precej prekljinjal saj ni mogel startat. Kasneje sta prisla na start Damjan in Ajo a je veter ze tako pihal dol da jeajo dvigoval padalo proti grebenu. Grega je se zmeraj jadral.,1395,3,stratus
+Zabocevo,1,"",48,-nan,null,null,"1999-08-25",Drugi so ze prej jadrali sam pa sem prisel kasneje da malo pojadram nato sem se sel ucit. Jadrl sem pobazah, pristal na rakitni in sel pes do avta.,1670,4,stratus
+Priznica,1,"",80,-nan,null,null,"1999-08-26",Ko je Erzo podrl start in zaklel sem jaz startal. Naj prej je bilo vredu zdelo se je pac da je precej vetra in manj termike. Pred nami je prisel na start Grega in ze odletel. KO smo bili vsi v zraku smo lokalno jadral saj visine nismo mogli nabrat bilo pa je precej razbutan. Sam sem imel kar precejsne tezave.,1160,3,stratus
+Grmada,1,"",9,-nan,null,null,"1999-08-29",Sli smo pes na grmado z namenom da odletimo. Erzo Grega Rajko jaz Milena in,null,null,stratus
+Zavrh,1,"",10,-nan,null,null,"1999-08-31",Zavrh ni a je bostjan reku da zabocevo ne bo. Kasneje ko smo pocurl smo sli vsi v zabocevo.,null,null,stratus
+Zabocevo,1,"",82,-nan,null,null,"1999-08-31",Tako j ko sem pristal sta prisibala Jurij in Tereza in sta me pobrala. Sli smo na zabocevo in sel sem prvi v zrak. Takoj ko sem nekoliko pobral je postalo precej razbutanao . Nikakor nisem mogel cez visino 1200 tu pa je bilo precej neugodno. Startala je tereza in sla z grebenon v dolino potem se Bostjan. V tem trenutku sem dobil lep stbr levo od starta ki pa je sel do baze na 1900. sedaj je startal se grega in se nekako zadrzeval v zraku. Čerček je za njim cakal na veter in v koncni fazi samo scuru. Grtega in jaz sva se se vozila po celi dolini nakar sem jaz pristal na Zavrhu in peljal gregatu avto.  Jurij in Tereza sta testirala padal in kaze kot da gre pri polni brzini 25kmh ni cudno da jo spiha.,1900,4,stratus
+Javorniki,1,"",62,-nan,null,null,"1999-09-06",Nov start z Erzotom sva startala na javornikih nad crnium vrhom. Prvi sem sartal jaz in skoraj scuru  v dolino. Veter je kasneje nekoliko pojacal zacela pa sva tudi vrtit termiko ki naju je pripeljala do baze 1600m. Letela sva po celi dolini do cola. In nazadnje scurla.,1577,4,stratus
+Skirca,1,"",0,-nan,null,null,"1999-09-08",Po sihtu sva sla z erzoptom na skrco a ni pihalo zadfost da bi jadrala jaz sem skocu enkrat erzo pa dvakrat,null,null,stratus
+Zabocevo,1,"",50,-nan,null,null,"1999-09-09",Uros Erzo in jaz smo sli na zabocevo ker sem jih jaz shecal in odločitev je bila prava saj smo fino jadrali kasneje je prisel se jernej,1350,3.5,stratus
+Sv.LovrencP.G.,1,"",80,-nan,null,null,"1999-09-11",V polhovem Gradcu smo se dobili jaz Grega in Juri ter odšli na lovrenc z sedla smo sli pes do starta kar po grebenu. Na začetku je bilo jadranje na veter in je bilo precej bz potem pa so se začeli prožiti stebri in poberalismo se lepo tudi zunaj. Bil je kar mocan v3eter severo vzhodne smeri. Poberali smo se neverjetno nizko. Lahko bi odleteli proti vrhniki, a se za to nismo odločili. Kasneje nas je Rajko pogostil pogovarjali smo se glede plezanja in letenja z zmajem. Odločili smo se da poizkusimo z zmajem in da ga skupaj kupimo od rajkota. Zjurijem sva dobr motala stbre in sva se vozila zelo blizu skupaj bilo je res uzivansko jadranje.,1200,4.5,stratus
+Zavrh,1,"",91,-nan,null,null,"1999-09-12",Dobili smo se pri lovcih in odsli na zavrh ker naj bi Jurij peljal Galjo z tandemom izkazalo se je da je bil zavrh prava odločitev. Prvi je startal Ezo takoj za njim pa jaz. On je odletel na dol jaz pa desno in sem komaj vzdrzeval visino. Tudi Erzo bi skoraj scuru. Potem sem se zapeljal v trebevnik in zvrtil na 1100 ta čas se je tudi Erzo že zmazal iz težav. Sedaj sem nabral na 1370 in se odpeljal na planinco. Hotel sem pobrat planinco in odletet v zabočevo. A na planinci nisem dobil nobenega dviganja saj termika ni bila dovolj močna. Reševal sem se čisto nizko in dobil stber čisto nad hišami. na začetku je bil zelo razbit a močan potem pa se je ustalil namotal sem navpično gor do erzota ki se je spet vračal iz dola bil pa je na 1480m.  Ta čas so prišli še rakitčani Boštjan je scuru na prižnci. Jurij in Galja sta že nekaj časa jadralapotem pa smo se jaz erzo in tandem odpeljali na staro vrhniko. Drugi so se lepo peljali jaz pa sem bil na javorču 710m in ne bi prišel če nebi na trojici dobil stbra in pobral še 100m. Od tu sem odletel čez staro vrhniko napravil asimetrijo letel čez našo hišo in pristal na uradnem pristanku Stara vrhnika poleg Jurija in Erzota. Jurij je bil prvi ki je priletel na Staro vrhniko z tandemom. Na 1400 je bila inverzija.,1370,4.1,stratus
+Ulovka,3,"",10,-nan,null,null,"1999-09-17",Agring pika tekma za litr snopca. V prvo sem trofnu piko na to dva metra in v tretje piko z ritjo.,null,null,stratus
+Ulovka,1,"",10,-nan,null,null,"1999-09-18",lez v dolino z Erzotom sva bila v visini kurena al nisva mogla letet domov pristala sva pri skupnk.,null,null,stratus
+Lijak,2,"",40,-nan,null,null,"1999-09-19",z gregatom sva sla na lijak kjer sta se pridruzila se tina in peter bilo je zelo plohnsato. Veliko je pokrivalo in prvič smo samo skočili kasneje se je začela kazari neka jasnina tako da smo sli se enkrat na start. Sedaj smo zajadrali. Zanimivo da smo pristali le minuto pred pravim nalivom.,null,null,stratus
+Kovk,1,"",35,-nan,null,null,"1999-09-22",Po terenu sva z Etzotom sla na kovk pihalo je kar precej a baze so bile bozanske nekoliko nizke a zelo pogoste. Nabrala sva do baze nekoliko zunaj. In ker sva videla planino in domaco vrhniko sva kar porinla v javornike kjer pa ni bilo baz oz so razpadle pihalo je zelo mocno tako da sva bila namestu in nekoliko rikverc. pristala sva na polju pod javorniki.,null,null,stratus
+Kovk,1,"",69,-nan,null,null,"1999-09-24",Z erzotom sva letela trikotnik ki se nama ni ravno posrecil baza je bila na 1400 in tako visoko sva tudi sla na col vnila sva se zelo nizko rezo je odletel na vipavo jaz pa sem sel na to da poberem pod kovkom oba sva scurla. Je pa bila moznost da bi se iz cola takoj odpeljala na nanos kar bi nama mogoče uspelo potem bi tudi napravila trikotnik.,1400,null,stratus
+Buzet,1,"",120,-nan,null,null,"1999-09-25",Miha Grega in jaz smo sli na buzet in se dobro odlocili saj smo kar dobro jadrali kar drugje najbrz ne bi. Nevi je se povecal start,1299,3,stratus
+Kovk,1,"",59,-nan,null,null,"1999-09-29",Jurij in Bostjan so sli na Priznico jaz in Erzo pa na kovk jer sva takoj pobrala do baze 1800 potem pa se kar mal not. Do crnega vrha sva imela super baze potem pa jih je zmankal erzo je porinu naprej jaz pa sem cakal da bi cim več pobral nazadnje je se to razpadlo. tudi sam sem se odpeljal proti hotedrsci in na mestu kjer je prej erzo poberal nekaj zgolfal. od tu sem se peljal proti kalcam in vmes nekaj pobral tako da sem se odpeljal čez do logaskega kamnoloma od tu pa sem vrttil nulco do konec logaskega polja.,1900,4,stratus
+Kovk,1,"",45,-nan,null,null,"1999-09-29",Se mal na veter pojadrat.,1020,2.6,stratus
+Zabocevo,1,"",87,-nan,null,null,"1999-10-01","",1270,4.4,stratus
+Ilirska bistrica,1,"",30,-nan,null,null,"1999-10-02",Po startu zviz na 1600 in zviz z vetro proti javornikom. Veliko prepesacil in odstopal v bistrico kjer se je grega posteno aletel.,1618,4.1,stratus
+Zavrh,1,"",10,-nan,null,null,"1999-10-06","",771,1.4,stratus
+Zabocevo,1,"",79,-nan,null,null,"1999-10-07",Po faxu takoj na Zabocevo kjer je ravno sartal Jurij. Supr pogoji zelo je zeblo izgubil sem rokavico a smo bili najbr zadnjic v letu 99 na cez 2000m erzo je odleztel na staro vrhniko jaz sem sel na rakitno ker sem mislil da bom umru od mraza juri pa je namotal na 2400 in tudi pristal na rakitni.,2110,5.4,stratus
+Priznica,1,"",10,-nan,null,null,"1999-10-08",Inverzija,1264,3.3,stratus
+Ilirska bistrica,1,"",57,-nan,null,null,"1999-10-09",S tarasom sva sla na st vrh kjer so ze leteli grega in jeri in drugi fino letenje,1412,3.8,stratus
+Ilirska bistrica,1,"",36,-nan,null,null,"1999-10-09",po pristanku na startu,1332,4.2,stratus
+Kovk,1,"",62,-nan,null,null,"1999-10-10","",995,3.5,stratus
+Slivnca,1,"",69,-nan,null,null,"1999-10-12",Super letenje na Slivnici Erzo Juri Tereza jaz termika.,1559,3.8,stratus
+Zabočevo,1,"",28,-nan,null,null,"1999-10-15",Scuru,858,2.9,stratus
+Lovrenc,1,"",131,-nan,null,null,"1999-10-16",Z gregitom super letenje najprej do 1000m 1400 na Koreno in nazaj.,1400,5,stratus
+Zavrh,1,"",112,-nan,null,null,"1999-10-17",Super letenje na zavrhu najprej sva z Erzotom dobr zmotala pol pa sva ze vozila pod oblaki kasneje nas je spustil veter pa je pojacal tako da bi kmalu visu na drevesu kasneje sem komaj dobil en stbr sa sem ga zmotal tako kot erzo grega in joze cez javorc na d staro vrhniko sem bil na 800m potem pa sem odletel skoraj do ligojne in nazaj na poidcelu sem imel se super dviganja.,1503,4.5,stratus
+Crni Kal,1,"",88,-nan,null,null,"1999-10-24",Precej mocan veter a zaradi mocne termike vzdrznmo in zanimivo jadranje.,910,5.1,stratus
+Zbevnica,3,"",15,-nan,null,null,"1999-10-30",Para safari metali smo se z hriba enkratsemsel se pes na zbevnico.,null,null,stratus
+Buzet,1,"",10,-nan,null,null,"1999-10-30",Pet minut jadranja in let v dolino sam sem letel xxxa.,null,null,xxx
+Buzet,1,"",10,-nan,null,null,"1999-10-31",petminutno jadranje in pristanek na hribu nazalost sem moral domov svece zažigat medtem ko so ostali naslednji dan lepo leteli.,null,null,stratus
+Zavrh,1,"",60,-nan,null,null,"1999-11-08",Super jadranje sicer brez kaksnih višin. Na koncu sva z erzotom jadrala še na Javorču od kodre sva odletela čez bajer do tarasa. Lahkobi odletela domov.,null,null,stratus
+Zavrh,2,"",15,-nan,null,null,"1999-11-12",Ničvetra. Treniranje podnšpirale.,null,null,stratus
+Javorniki,3,"",45,-nan,null,null,"1999-11-13",Mickan presvoh kasneje se je naredilo. Jernej inerzo sta dobr pobrala.,null,null,stratus
+Kovk,2,"",105,10217,null,null,"1999-11-13",Vino jadranje nekajtermike Jurij je tandemiral kasnjese prisla se Jernejin Erzo kinista sla do konca v kot kot mi. Aleš probavalpadal.,null,null,stratus
+Lijak,1,"",58,-nan,null,null,"1999-11-20",Bostjan je napovedal super dan da gremo na 2000. Ko smo prisli na start je Aleš ravno štartal. Hitro sem štartal in dobil tako dviganje da sem kar vriskal. Višje sta bila Aleš In Raul. Sam sem odletel na sveto goro in nazaj a sem komaj preletel škabrijel.,null,5,stratus
+Lijak,1,"",90,-nan,null,null,"1999-11-25",Danes sva z Razingerjem letela na lijaku. Bili so naravnost super pogoji. Pihala je rahla burica + termika v zraku je bilo cist mirno razen termike - ni bilo turbolentno. Dosegali smo višine do 1550m. Letela pa sva v pasu kucl(čavn) - škabrijel. Na koncu sva namotala na rampi na 1500m in se zmenila da dirkava na hanger pred lijakom in v start pobrat.Kar me je presenetlo je bilo to da me je Razo na spidu suvereno dol poču. Ko sva startala sva bila do metra na isti višini in v razmaku nekaj metrov(vzporedno). Jaz nisem od rampe do hangerja niti za trenutek spustil polnega gasa. Miha je baje minimalno spustil trime in minimalno pohodil gas(tastar sektor). Njegov komentar je bil kasneje sem bil prepričan da se ti je strgal gas.(brez heca) Nekako podobno me je zadnjič Juri vendar sem si mislil on ga je pač pohodil preko mere. Poleg tega sem opazil še nekaj drugega pri teh timih nisem imel prigasu nobenega resnega zapiranja zelo rad pa dela ušeska in tudi v pogojih kot so bili danes. Opazoval sem zakaj.Tretja vrvica A(zunanja) je čisto brez pritiska stabila je pri polnem gasu čisto losana. Pritisk v kupoli na ušesih je ravno tako zelo majhen, tako majhen da se hočejo narediti ušesa (blago na celicah na prednjem robu se kar usloči to samo na ušeskih kot da bi bilo premalo zraka - pritiska)  Za povrhu pa sem danes opazil večjo tendenco zgoraj opisanega na levem ušesku(do sedaj nisem opazil) preveril sem kako tiščim gas in ugotovil da ga simetrično na obeh gurtnah do konca. Kar štima.  Sedaj moram preveriti simetičnost dolžin vrvic upam da se niso kaj deformirale.(Razotove vrvice so tudi že bol preživele) Kake nesimetričnosti pri trim speedu nisem opazil. (letos imam na strausu točno 128ur, kar je malo)Za hitrost bom probal še z balastom na karabinih, drugače pa bi mogče raje dal gor stare gurtne. Ali bi bilo možno da, če si gurtne že poslal nazaj, da bi ko bo Jurij vračal padal prešrafali gurtne??,null,3.8,stratus
+Lijak,1,"",60,-nan,null,null,"1999-11-26",Z Erzotom sva imela kar uredu pogoje.,null,3,stratus
+Lijak,1,"",150,-nan,null,null,"1999-11-27",Cela klapa je letela na lijaku z jurijem sva odletela na nanos in nazaj do anje priklopili smo kovk samo da jaz nisem več pobral.,null,4,stratus
+Lijak,1,"",30,-nan,null,null,"1999-11-28",Lijak malo bol kritičen zmajarji so vsi prileteli na lijak. Napravil napako.,null,2,stratus
+Kovk,1,"",60,-nan,null,null,"1999-12-21",Z erzotom prišli so še Domn in Križnar Lajovc super letenje motov sm z enim orlom,null,null,stratus
+Zavrh,1,"",10,-nan,null,null,"1999-12-22",Jaz Uroš in Erzo smo skočil z erzotom sva dobla mal stbrčka,null,null,stratus
+Lijak,1,"",65,5500,null,null,"1999-12-23",Super jadranje letel sem z up sedežom,null,3,stratus
+Lijak,1,"",115,-nan,null,null,"1999-12-30",Erzu Juri Dominik sli smo na dva 2150 na čavn,2190,5,stratus
+Lijak,1,"",80,-nan,null,null,"1999-12-31",Sam sem sel na lijak kjer je celo pihalo malo dol. A takoj ko sem startal sem ga namotal naravnost na 1650m potem pa na seveto goro . Do škabrijela je dobr pelal in nisem izgubil dosti potem pa kar precej do cerkve. Z svete gore sem letel na sabotina kjer sem z 800 spet pobral na 1300m in nazaj sedaj je pod lijakom ze tako tumbalo da sem sel v dolino.,1650,5.6,stratus
+Lijak,1,"",95,-nan,null,null,"2000-01-01",Vsi smo leteli na Lijaku Nina Jery Juri Tereza Uroš Erzo Boštjan Simon Grega Alenka Startal sem prvi a je bilo zelo mejno ravno da nisem scuru nekajkrat. Potem sem odletel na Danijela in pobral čez greben. Kasneje se mi pridruži erzo. Jaz sem šel na lijak ko pa sem se vrnil sva z Erzotom odletela še na škabrijela.,700,3.2,stratus
+Lijak,1,"",88,25700,11,1,"2000-01-08",Prva Zimska liga 99/2000. Organizasao Jernej in Nina. Od kar nekaj obiskovalcev lijaka jih je tekmovalo samo 11. Glavni favoriti smo bili Lotrič, Erzo in Jaz. Tudi leteli smo tako. Bili smo daleč pred vsemi. Največja fora ki sem jo hotel izvest a mi ni v popolnosti uspela. Na Danijelu sta bila Lotrič in Erzo zelo nizka in če nebi pobrala bi jih sploh nabil. Jaz sem namreč pobral na lijaku in letel direktivca na kromberk. Tu smo prišli skupaj le da stase ona dva odpeljala nazaj v greben jaz pa direktivca na križišče in v cilj. Ko sem bil nad uradnim pristankom sem že videl da sem zmagal in da bom lepo preletel cilj. Kljub temu da sem zmagal sem napravilkar nekaj napak. Prvomoram bolj idealnoodletet obratne točk. Pilon sem šel absolutno prehitrven in sem izgubil velikovišine in kasneje časa ker sem se zunaj vozil in čakal na pilon. Ko sva se z erzotom pobrala nekoliko čez greben lijaka sem jez kar porinu naprej čeprav sem vedel da bo kriza tu sem spet izgubil kar nekakaj časa saj se je erzo lepo zapeljal čez mene. Marijo sem spetobrnil neprecizno. Proti rampi si moral jiti vsaj po višini grebena nazaj pa si lahko kar nisko priklopu saj si letel z vetro in si že dobival stbre. Na marijo lahko nižje porinu. Moja prva zmaga a lepa z lepo samostojno odločitvijo.,null,4.5,stratus
+Lijak,1,"",48,-nan,null,null,"2000-01-15",Inverzija tako da smo jadral v višini grebena na danijelu ni bilo preveč prepričljivo.,null,2.3,stratus
+Zavrh,1,"",63,-nan,null,null,"2000-01-16",Miha Grega in Mateja so sli na lijak Jurij Erzo jaz Jože simon Tereza in Natalija pa na zavrh prav začudujoče bilo je odlično super dviganja bilo je sicer nekoliko razrukan odletel sem na staro vrhniko. Termika pa povsod sneg neverjetno.,995,5.1,stratus
+Lijak,1,"",30,-nan,null,null,"2000-01-25",Z anžurjem sva letela na lijaku bilo je zelo mraz. Startal sem prvi in z 5.7 dviganja navrtil na 1300m. Potem pa jetako zahladilo da nisem več zdržal bilo je zelo razrukan v normalnem letu sem imel 6m spuščanja pristajal sem ob cesti kjer puščamo avtomobile.,1300,5.7,stratus
+Lijak,1,"",105,-nan,null,null,"2000-01-26",Spet expedicija napad na kurirčka samo da nas je zjebala inverzija. Bilo je se kar razrukan in pihal je kar dobro vzhodnik. Takoj po štartu nisem dobil nobenega dviganja tako da se je zazdelo da je kriza potem pa sem namotal desno od štarta dokončno pa sem popravil na tarasovem robu. odletel sem proti rampi pihl je vzhodnik a ne čez. Na rampi nisem mogel pobrat nakar priletita erzo in anžur. Sam sem odletel na marijo kjer sem dobil še en stbr od tu pa direkt v čaven. Erzo ki je bilše nižji je scuru sam pa sem dobil pod skalami neko dviganje in sem se skobacal nazaj na 850. Višje nisem mogel tako da sem potem odletel do Ajdovščine.,909,3.2,stratus
+Kovk,2,"",34,-nan,null,null,"2000-01-28",Reševanje ponesrečenca.,null,2.7,stratus
+Vremščica,2,"",15,-nan,null,null,"2000-01-30",Tandemiranje prvič v življej.,null,null,stratus
+Ženček,1,"",0,-nan,null,null,"2000-02-01","",null,null,stratus
+Lijak,1,"",60,-nan,null,null,"2000-02-03",Lijak lokalno jadranje do kucla.Repovž pa spet skozi oblak na 3300m.,1100,null,stratus
+Zavrh,1,"",9,-nan,null,null,"2000-02-04",Skok v dolino cac 1800 na lijaku.,null,null,stratus
+Lijak,1,"",120,32000,null,null,"2000-02-05",Letos prvič kurirčka brez vetra zelo plazilsko.,null,null,stratus
+kovk,1,"",20,-nan,null,null,"2000-02-06",Inverzija je postala gnojnica. Skok v dolino.,null,null,stratus
+Strmca,1,"",51,-nan,null,null,"2000-02-06",Prelet na Planino.,null,null,stratus
+Amrožar,1,"",90,-nan,null,null,"2000-02-10",Ambrož višina zvoha.,null,null,stratus
+Lijak,1,"",109,-nan,null,null,"2000-02-12",Lijak super se je nardil z malo sonca smo letel na sveto goro nekateri še na sabotin in nazaj.,null,null,stratus
+Razpadalica,1,"",120,30000,null,null,"2000-02-13",Zimska liga dost poučno.,null,null,stratus
+Lukovc,2,"",45,-nan,null,null,"2000-02-20",Obtekajoč veter nič za naučit. Enkrat namota Jurij potem pa še jaz  tu pa tam kak balon.,null,4.1,stratus
+Ambroz,1,"",122,-nan,null,null,"2000-02-23",Abrož zgledalo je super potem pa vsa stvar ni bila tako preprosta ker sva  z Razingerjem startala na srednji poseki pod inverzijo tako da sem se celo uro in pol matrov pobrat skoz inverzijo na njo pa so bile baze višje kot 2500 do njih nisem mogel tudi potem ko sem že bil nad iverzijo odletel sem do roba Zvoha vendar naprej zaradi malo višine mraza nisem šel.,1850,4.1,stratus
+Samotorca,1,"",16,-nan,null,null,"2000-02-24",Kratko jadranje je pa bilo to prvič da sem tu jadral z Gregitom sva prov fino zvrtela en stbr.,null,null,stratus
+Lijak,1,"",10,-nan,null,null,"2000-02-26",Peš na lijak in skok v dolino.,null,null,stratus
+Lijak,1,"",75,-nan,null,null,"2000-02-27",Super dirka Lijak Tabla Nanos Lijak. Super letenje na 2000m vshodni vetr na Vipavi nas odplakne z grebena potem pa vsi poberajo kjer hočejo. Na vipavi sem naredu napako mogu bi se odpelat ven in bi mogoče pobral. Neredu sem še napako da sem se vedno peljal bol zunaj kjer se zrak ze bolj spušča namesto odzadaj na grebenu kjer se se ne. Zmagal Matre Novak.,null,6.3,stratus
+Lijak,1,"",200,50000,null,null,"2000-02-28",Z Erzotom sva Napovedala Zabiče. Sam sem bil že prej skeptičen da pa bi letela proti vrhniki pa sploh nisem verjel. Prej sem imel v mislih Tolmin. Ko sem startal sem takoj lepo pobral in čakal Erzota in Uroša ki sta se pobirala na štartu. Erzo bi skoraj scuru. Ta čas sem zvrtel na 1480 in je bilo tako razrukan da me je bilo kar strah. Bil sem v višini inverzije. Ta se je kasneje očitno dvignila  saj smo že na Čavnu namotal na 1800 ven pa sva se z Erzotom odpeljala na 1500. Zunaj ni bilo videt baz je pa res da se tudi ni videlo kaj daleč saj je bilo zelo zamazan. Na začetku je bilo videt zelo kriza. Na Šmartnem sva se poberala z 600 700 metrov nazaj na 1900. Situacija za naprej je bila zelo slaba. Proti zabičam ni šans vetr. Tu sem imel v glavi še idejo povratek antena in nazaj na Lijak. Tu pa je veter zelo pojačal in zdelo se je že kriza zrin nazaj na Vipavo. Moral sem letet z gasom saj sicer ni šlo nikamor. Tu sem že dobil idejo da grem na vipavo in proti vrhniki sa sem videl super baze po dolini proti colu. Nakar to potrdi se jedrilica nad colom. Ezotu sem to v tem trenutku tudi rekel a se na moj poziv ni odzval. Njegove besede:\"Letel je kot Gluha svinja.\" Na vipavi poberem na 1900 in me nekoliko zanese odzad. Nekaj puhkov je bilo proti strmci vendar se tja nisem upal saj prevoza ne bi imel. Tu sem se moral odločit ali letim nazaj na razdrto in z erzotom domov ali pa grem in kekako naštopam. Odletel sem proti colu kjer sem bil še na 1500m. Nad javorniki pa sem pobral iz 1300 na 1600 več pa nisem mogel saj so mi baze že razpadale poleg tega je bil tu še zelo močan zahodnik. Na hotedrsci se znajdem v zelo znanem položaju na podobni višini z podobnimi razmerami. Na Ravniku uspem nekaj zgolfat in se odpeljem v smeri Vrhnike na desni pa gleam Logatec. Sem zelo nizko. Če nad Log Žibršmi v bližini vojašnice ne bi še enkrat pobral bi spet pristal  na koncu log. polj.  Ko sem dobil dviganje in sem naredil nekaj zavojev sem že videl da sem na Vrhniki. Ze nekaj casa nisem občutil tega občutka. Na zadnje sem na veter pobiral na Javorču na zelo zanimivi strani in ker višje ni šlo termike ni bilo sem se  odpeljal proti Pakem čeprav sem vedel da je konec.,1950,5.1,stratus
+Buzet,1,"",166,39000,null,null,"2000-03-12",Zanimiva dirka zelo velike višine in veliko pokrivan tako da je bilo kar zajeban.,2173,5.5,stratus
+Samotorca,1,"",55,-nan,null,null,"2000-03-21",Prvič res zmotal na samotorci oz na Korenu na 1700 in odletel proti borovnici Prišel le do Trojice pa kev kev domov.,1750,3.5,stratus
+Ambrož ZG,1,"",218,61000,null,null,"2000-03-22",Dolinšku:  Zakaj nisi šel za nami? Na dobrči sva se z Lotričem ločila. Sam sem šel zad proti Begunšici, Lotrič pa na Petra. ko sem se sam pobiral v Begunšici je bil on že v stolu. Samo da sva se oba kar nekaj časa pobirala. Jaz  v begunšici on pa na petru. Na stolu je bilo bomba 2100m slo je tako gor da si včasih kar nism upal obrnt.  Golica je bila svoh. Kepa pa tudi pod kepo sem se matral 45MINUT pa nism mogu pobrat da bi lahko odplaniral v Rateče. Tako da sem se potem iz obupa kar odpeljal z 1750m in scuru v Kranjski gori. Za Lotriča sicer ne vem ga potem nisem več videl. Mi je pa srečal Raul ko sem štopal v Martuljku in je rekel da je videl Lotriča kilometer pred Martulkom.  In da je še zlagal padal, tako da mi ni čist jasn kje je bil.,2100,4.8,stratus
+Gozd,1,"",41,-nan,null,null,"2000-04-02",Tandemiranje z Heleno sva jadrala na gozdu.,null,3,stratus
+KorenoSever,1,"",8,-nan,null,null,"2000-04-07",Sever pa skočmo namesto z samotorce kar z korena na sever.,null,1,stratus
+Kovk,1,"",180,43000,"60+",15,"2000-04-08",Dirka Liga1  Kovk-Hubl-heronim-slap -podnanos vipava cilj,1625,6.9,stratus
+Kovk,1,"",218,50000,"60+",9,"2000-04-09",Zelo zanimiva dirka močan vetr. Kovk-Hubl-heronim-hubl-podnanos-log-vipava.,2196,7,stratus
+Ambrož,1,"",68,-nan,null,null,"2000-04-16",Pobral sem z zgornjega štarta in odletel proti zvohu od tu pa čez možjanco na potoško kjer je blo zelo dobr. 5+ proti julicem je bilo vse zaprto kasneje zelo močan vetr.,2000,5.3,stratus
+Gozd,1,"",98,30600,null,null,"2000-04-17",Prvič z novim padalom. Zelo dobro vreme. Super občutki. Z gozda  na Krvavc in nazaj.,2587,7.8,Stratus 2
+Ambrož,1,"",150,56740,null,null,"2000-04-20",Precej močan sever zelo nekonvecionalčno letenje. Letela sva z Anžurjem ki sem ga peljal kot otroka na izlet. Na koncu je on dosegel rateče jaz pa ne.,2950,7,Stratus 2
+Golte Keber,1,"",360,1.165e+05,null,null,"2000-04-21",Dvojni državni rekord. Leteli smo od Golt na Martulk za državni rekord na cilj potem sem nadaljeval plet do rateč kejr sem poizkusil prečkati Vršič a mi ni uspelo nato sem pobral na 2900 in letel ob mangartu v italijo v kuk cucco  115km,3177,6.6,Stratus 2
+Kobala,1,"",150,40000,null,null,"2000-04-22",Napoved trikotnika ustavl se mi je na zadnji stranici ko sem letel iz kluž na javorščka. Z gregatom sva prišla kampirat v tolmin za dva dni. On je odletel v italijo 62km.,2774,6.3,Stratus 2
+Kobala,1,"",195,60000,null,null,"2000-04-23",poizkus iztega trikotnika vreme je slabše svoh stbri zelo razrukani močan zahodnik in zelo majhne višine glede na prejšni dan. Zato se na kobaruškem stolu odločim da grem naprej v italijo in nazaj z povratkom. Zaradi zahodnika ne morem preskočit mt Majjoreta in se vrnem na kobalo kjer sem tudi pristal. Nenapovedan povratek 60km,2134,6.1,Stratus 2
+Zabočevo,1,"",150,35000,null,null,"2000-04-25",Z Erzotom sva startala zelo pozn a sva se kljub temu odpeljala proti dolenski meni je zmankalo 20km do novega mesta. Pristal sem v neki vasi kjer nisem vedel kje sem ne nič tako da je neka punca razložila erzotu kako naj me pride pobrat.,2250,4.5,Stratus 2
+Abrož,1,"",60,-nan,null,null,"2000-04-26",Z Maretom in Domnom smo misll it v Avstrijo pa so bile zelo nizke baze. Z maretom sva startala ze ob 11:00 in jadrala eno uro ter pristala nazaj pri ambrožarju.,null,3,Stratus 2
+Ambrož,1,"",90,-nan,null,null,"2000-04-27",Z gregatom sva napovedala trikotnik sam sem letel v ojstrico a ni bilko kakih posebnih višin.,1900,4.6,Stratus 2
+Golte,1,"",30,-nan,null,null,"2000-05-01",Dirka na Golteh je odpadla zaradi velike nevarnosti neviht. Nekateri smo mal letel.,null,3.8,Stratus 2
+Zavrh,1,"",30,-nan,null,null,"2000-05-02",Po peti uri smo šli na zavrh ker smo bli tečni cel dan je bilo zelo nevihtno.,null,2,Stratus 2
+Ambroz,1,"",90,-nan,null,null,"2000-05-05",Z grega tom sva sla na Krisko pa nazaj zelose je pokrival tako da sem jest pristal ko sem obrnu krisko v predvoru greag pa  v trsteniku.,null,null,Stratus 2
+Gozd,1,"",120,-nan,null,null,"2000-05-06",Z jurijem sva testirala gas super sva letela na Ambroza in nazaj zelo velik razvoj oblakov odlično letenje.,null,4,Stratus 2
+Zavrh,1,"",60,-nan,null,null,"2000-05-07",Z erzotom pozno popoldne saj je prej padal dež bil je veter tako da sva se na veter odpeljala domov.,null,null,Stratus 2
+Krizka,1,"",180,80000,80,(2-28),"2000-05-14",Super dirka DisciplinaStart krizka Možjanca Marker hotel bor- valvazor - cilj. Bil sem skoz v vodilni skupini veliko časa celo sam. V cilj sem priletel drugi s tem da sem pristal 2m od cilja. Odlično sem letu.,2200,5,Stratus 2
+Sorca,1,"",240,92100,null,null,"2000-05-15",Jest Roman Razo Tomi Erzo Pavlič Smo letel z povratkom. Sorca Marija S Sorca. Roman in tomi Mali verh. Vreme precej turbolentno.,null,null,Stratus 2
+Kobala,1,"",197,68800,"80+",2,"2000-05-21",dp,2125,6,Stratus 2
+Kobala,1,"",299,78500,"80+",7,"2000-05-23",dp,2602,5.7,Stratus 2
+Kobala,1,"",340,83500,"80+",5,"2000-05-24",dp,2069,6.9,Stratus 2
+Kobala,1,"",202,69000,"80+",9,"2000-05-25",dp skupno drugi,1849,5.6,Stratus 2
+Kobala,1,"",293,78100,"80+",4,"2000-05-26",dp skupno prvi,2005,6.1,Stratus 2
+Kobala,1,"",209,55200,"80+",30,"2000-05-27",dp  skupno 2 open skupno tretji,1885,6,Stratus 2
+Zavrh,1,"",40,-nan,null,null,"2000-05-28","",null,1,Stratus 2
+Ambrož,2,"",40,-nan,null,null,"2000-06-03",Foto sesion,1700,3,Stratus 2
+Sorca,1,"",20,-nan,null,null,"2000-06-04",Bi šli u prelet pa smo preveč zmaztran,1700,3,Stratus 2
+Kobala,1,"",296,97370,null,null,"2000-06-10",Za tristo pik Kobala - Mali verh - kobala Polet sem nadaljeval proti sorci. Na sorci pa me je ujela ploha tako da sem moral pobegnt dol.,2486,5,Stratus 2
+Ambroz,1,"",120,-nan,null,null,"2000-06-17",Dirrka je bila skenslana,null,null,Stratus 2
+Ambroz,1,"",160,-nan,null,slab,"2000-06-18",na tej dirki sem zajebal vse,null,null,Stratus 2
+Sorca,1,"",327,1.1e+05,null,null,"2000-06-19",Z Razotom in Pavličem smo letel Sorca Italija Sorca, sorca lajnar mali vrh vremenarska postaja, sorca lajnar pristanek vas,2420,6.3,Stratus 2
+Lukini,1,"",60,-nan,null,null,"2000-06-19","",null,null,Stratus 2
+Kobala,1,"",320,50000,null,null,"2000-06-20",z ERZOTOM SVA LETELA TRIKOTNIK . Krn vas - marija snežna - Kluže -vas kern. Pihal je zahodni veter baze pa so bile zelo nizke. Max višina 1860m. Erzo je na Klužah scuru jest sem se pa rešu na svinaku odkoder sem se komej vrnil na rombon.,1860,5.4,Stratus 2
+Zabočevo,1,"",81,-nan,null,null,"2000-06-26",Super jadranje na zabočevem,2540,5.5,Stratus 2
+Barje,1,"",103,-nan,null,null,"2000-06-27",paramotor,2229,5.8,Stratus 2
+Barje,1,"",60,-nan,null,null,"2000-06-28",paramotor,null,null,Stratus 2
+MurskaSobota,1,"",60,-nan,null,null,"2000-06-29",paramotor,null,null,Stratus 2
+Maribor,1,"",60,-nan,null,null,"2000-06-30",paramotor,null,null,Stratus 2
+Kriška,1,"",149,-nan,83,29,"2000-07-01",Češko prvenstvo. Zjurijem prvi na markerju in najvišji.Zelo dobro letel. Na kriški se odločil da grem v hribe. Pobral kofce a zaradi zelo močnega zahodnika nisem uspel stišat begunšice.,2133,6.2,Stratus 2
+Kriška,1,"",127,43000,83,5,"2000-07-02",Vodli celotno dirko. Na dobrči pa je pobralo poleg prve še celi drugi in tretji skupini. Šele uro za nami so začeli spet nekateri letet v cilj.,1843,5.8,Stratus 2
+Kriška,1,"",207,49000,83,4,"2000-07-03",Zelo močan veter ful gas precej pomaga.,2200,5.7,Stratus 2
+Kriška,1,"",250,84000,83,4,"2000-07-06",Super dirka z jurijem sv sla na prvi marker od štirih in pristala 23min pred naslednjim med nama je bilo 4sekunde razlike. Kriska- jakob- Dovje- senično.,2200,6.8,Stratus 2
+Kriška,1,"",60,44000,83,4,"2000-07-07",Zadnja dirka na Češkem Openu. Super sem letel klub slabosti. Skoraj bi zmagal saj sem imel na Ambrožu vsaj 15min prednosti.,null,null,Stratus 2
+Hom,1,"",5,-nan,null,null,"2000-07-15",Liga odpadla pa smo sli na hom nad Murkijovo vasjo.,null,null,Stratus 2
+Priznica,1,"",120,-nan,null,null,"2000-07-20",Super jadranje prevrtal sem bazo. Ven sem se odpeljal na 2912m ko mi je začel zurljat po gurtnah. Potem me je zadel  čudovit pogled, oblakov in pokrajine pod menoj,. Tako sem se vozil nad oblaki in med oblaki  vsaj uro in pol. To je bila ena boljših dogodivščin letos.,2900,null,Stratus 2
+Kobala,1,"",30,-nan,null,null,"2000-07-22",Scuru pod vodjem vrhom ker se je zaprlo. Nato sem šel od jonsona peš na mrzli vrh in dol. Odspodaj sem se še kopal pod slapom.,null,null,Stratus 2
+Ambroz,1,"",10,-nan,null,null,"2000-07-23","",null,null,Stratus 2
+Wang,1,"",60,-nan,null,null,"2000-08-01","",null,null,Stratus 2
+Wang,1,"",60,-nan,null,null,"2000-08-02","",null,null,Stratus 2
+Wang,1,"",60,-nan,null,null,"2000-08-03","",null,null,Stratus 2
+Wang,1,"",60,-nan,null,null,"2000-08-04","",null,null,Stratus 2
+Wang,1,"",60,-nan,null,null,"2000-08-05","",null,null,Stratus 2
+Wang,1,"",60,-nan,null,null,"2000-08-06","",null,null,Stratus 2
+Wang,1,"",240,80000,null,null,"2000-08-07",Leteli smo kvadrat dolžine 80km okoli najvišjih hribov v nemčiji. Do predzanje obratne sem bil v prvi skupini. Super letenje višina dneva 3800m.,3800,7,Stratus 2
+Wang,1,"",60,-nan,null,null,"2000-08-08","",null,null,Stratus 2
+Sorca,1,"",270,1.16e+05,null,null,"2000-08-15",Napoved trikotnika 125km. Ker je veter na startu sele 15 cez ena nehal pihat dol sem bil zelo pozen tako da mi je zamnkovalo časa. Iz italije sem odletel proti triglavu in na koncu trente komej pobral tako da sem se odpeljal do triglava in nato do Sorce. Zmankalo mi je 3km.,3000,5,Stratus 2
+Sorca,1,"",300,1.448e+05,null,null,"2000-08-17",Napoved povratka sorca Cuarnan in nazaj. Ponovitev drzavnega rekorda. Ponovil sem tudi rekord z obratno točko. Grega, Pavlič in jest smo se dobili ob 10ih v vasi. Jest sem potegnil prvi ob 11:30. Ob 12:00 sem bil na Tolminskem migovcu. Ob 12:30 sem bil na polovniku. Ob 14:00 sem slikal cuarnan. Ob 16:18 sem se vrnil na Lajnarja.,2200,5,Stratus 2
+Sorca,1,"",120,-nan,null,null,"2000-08-18",Z gregatom na sorci a sem se obrnil pred krnom in šel pristat na Sorco. Kasneje smo se kopal v bohinju spotoma pa sem odpeljal se en tandem.,2000,null,Stratus 2
+Sorca,1,"",120,44500,null,null,"2000-08-27",Močan vzhodnik. Zelo raztunban. Nizka inverzija 1500m Max višina 1900m. Prskok na vodli vrh ker se odzadej ni dal, pa potem na planico prmočen vzhodnik za krn pa potem čez joške v kobariški stol kjer me je z majhne višine pobral do antene kjer pa sem zgubil živce in šel pristat.,1900,null,Stratus 2
+Sorca,1,"",240,1.1e+05,null,null,"2000-08-30",Močan zahodnik. Startal sem ob 11:00.Bil sem sam. Okoli črne prsti ni bilo težav. Imel pa sem težave na rodici in kasneje na prehodu na krn kjer sem se pobiral izpod sedlav rotorju saj je pihal zahodnik. Ob 13:19 sem obrnil mali verh. Vrnil pa sem se ob 12:47. Povprečna brzina 27,5km/h.,2300,7.2,Stratus 2
+Zavrh,1,"",60,-nan,null,null,"2000-09-01","",null,null,Stratus 2
+Planina,1,"",72,-nan,null,null,"2007-10-8",planina jadranje trening wingoverji sat,null,null,AvaxSR7
+Planina,1,"",15,-nan,null,null,"2007-11-3",peš na planino in spust,null,null,AvaxSR7
+Lisca,5,"",900,-nan,null,null,"2007-4-1",DpOpen metuljmanija,null,null,AvaxSR7
+Sorca,1,"",371,-nan,null,null,"2007-4-11",Sorca gemona julici ratitovec julici bohinj,null,null,AvaxSR7
+Sorca,1,"",330,-nan,null,null,"2007-4-6",Sorca 100km trikotnik stara vrhnika,null,null,AvaxSR7
+Slivnica,1,"",96,-nan,null,null,"2007-4-9",Slivnica  čez ribnico ...,null,null,AvaxSR7
+lesce,1,"",10,-nan,null,null,"2007-5-10",šolanje,null,null,L23
+lesce,1,"",51,-nan,null,null,"2007-5-10",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-10",šolanje,null,null,L23
+lesce,1,"",59,-nan,null,null,"2007-5-11",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-11",šolanje,null,null,L23
+lesce,1,"",11,-nan,null,null,"2007-5-12",šolanje,null,null,L23
+lesce,1,"",11,-nan,null,null,"2007-5-12",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-12",šolanje,null,null,L23
+lesce,1,"",5,-nan,null,null,"2007-5-12",šolanje,null,null,L23
+lesce,1,"",4,-nan,null,null,"2007-5-12",šolanje,null,null,L23
+lesce,1,"",4,-nan,null,null,"2007-5-12",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-13",šolanje,null,null,L23
+lesce,1,"",6,-nan,null,null,"2007-5-13",šolanje,null,null,L23
+lesce,1,"",6,-nan,null,null,"2007-5-13",šolanje,null,null,L23
+lesce,1,"",14,-nan,null,null,"2007-5-13",šolanje,null,null,L23
+lesce,1,"",56,-nan,null,null,"2007-5-13",šolanje,null,null,L23
+lesce,1,"",105,-nan,null,null,"2007-5-14",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-17",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-17",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-17",šolanje,null,null,L23
+lesce,1,"",7,-nan,null,null,"2007-5-18",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-18",šolanje,null,null,L23
+lesce,1,"",8,-nan,null,null,"2007-5-18",šolanje,null,null,L23
+lesce,1,"",97,-nan,null,null,"2007-5-19",šolanje,null,null,L23
+lesce,1,"",11,-nan,null,null,"2007-5-19",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-19",šolanje,null,null,L23
+lesce,1,"",8,-nan,null,null,"2007-5-19",šolanje,null,null,L23
+lesce,1,"",133,-nan,null,null,"2007-5-20",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-20",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-20",šolanje,null,null,L23
+lesce,1,"",8,-nan,null,null,"2007-5-20",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-20",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-20",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-5",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-5",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-6",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-6",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-6",šolanje,null,null,L23
+lesce,1,"",11,-nan,null,null,"2007-5-6",šolanje,null,null,L23
+lesce,1,"",38,-nan,null,null,"2007-5-6",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-6",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-6",šolanje,null,null,L23
+lesce,1,"",19,-nan,null,null,"2007-5-7",šolanje,null,null,L23
+lesce,1,"",12,-nan,null,null,"2007-5-7",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-7",šolanje,null,null,L23
+lesce,1,"",9,-nan,null,null,"2007-5-7",šolanje,null,null,L23
+lesce,1,"",41,-nan,null,null,"2007-5-8",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-5-9",šolanje,null,null,L23
+lesce,1,"",5,-nan,null,null,"2007-5-9",šolanje,null,null,L23
+lesce,1,"",24,-nan,null,null,"2007-5-9",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-6-10",šolanje,null,null,L13
+lesce,1,"",8,-nan,null,null,"2007-6-10",šolanje,null,null,L13
+lesce,1,"",90,-nan,null,null,"2007-6-10",šolanje,null,null,L13
+lesce,1,"",20,-nan,null,null,"2007-6-10",šolanje,null,null,L13
+lesce,1,"",50,-nan,null,null,"2007-6-10",šolanje,null,null,L13
+lesce,1,"",10,-nan,null,null,"2007-6-20",šolanje,null,null,L13
+lesce,1,"",10,-nan,null,null,"2007-6-20",šolanje,null,null,L13
+lesce,1,"",8,-nan,null,null,"2007-6-20",šolanje,null,null,L13
+lesce,1,"",13,-nan,null,null,"2007-6-20",šolanje,null,null,L13
+lesce,1,"",3,-nan,null,null,"2007-6-20",šolanje,null,null,L13
+lesce,1,"",2,-nan,null,null,"2007-6-20",šolanje,null,null,L13
+lesce,1,"",9,-nan,null,null,"2007-6-20",šolanje,null,null,L13
+Ratitovec,1,"",136,-nan,null,null,"2007-6-21",RATITIOVEC OPEN,null,null,AvaxSR7
+Ratitovec,1,"",131,-nan,null,null,"2007-6-23",RATITIOVEC OPEN,null,null,AvaxSR7
+Ratitovec,1,"",148,-nan,null,null,"2007-6-24",RATITIOVEC OPEN,null,null,AvaxSR7
+Buzet,1,"",211,-nan,null,null,"2007-7-1",ISTRA OPEN,null,null,AvaxSR7
+lesce,1,"",9,-nan,null,null,"2007-7-14",šolanje,null,null,L13
+lesce,1,"",8,-nan,null,null,"2007-7-14",šolanje,null,null,L13
+lesce,1,"",16,-nan,null,null,"2007-7-14",šolanje,null,null,L13
+lesce,1,"",16,-nan,null,null,"2007-7-14",šolanje,null,null,L13
+lesce,1,"",10,-nan,null,null,"2007-7-14",šolanje,null,null,L13
+lesce,1,"",12,-nan,null,null,"2007-7-14",šolanje,null,null,L13
+Učka,1,"",172,-nan,null,null,"2007-7-21",Učka Stara vrhnika,null,null,AvaxSR7
+Buzet,1,"",241,-nan,null,null,"2007-7-3",ISTRA OPEN,null,null,AvaxSR7
+Buzet,1,"",190,-nan,null,null,"2007-7-5",ISTRA OPEN,null,null,AvaxSR7
+lesce,1,"",38,-nan,null,null,"2007-7-8",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-7-8",šolanje,null,null,L23
+lesce,1,"",10,-nan,null,null,"2007-7-8",šolanje,null,null,L13
+Sorca,1,"",199,-nan,null,null,"2007-8-15",Na bohincih 1400baza triglav 2900,null,null,AvaxSR7
+lesce,1,"",178,-nan,null,null,"2007-8-19",šolanje,null,null,L13
+lesce,1,"",86,-nan,null,null,"2007-8-26",šolanje,null,null,L13
+lesce,1,"",121,-nan,null,null,"2007-8-26",šolanje,null,null,L13
+lesce,1,"",170,-nan,null,null,"2007-8-27",šolanje,null,null,L23
+lesce,1,"",234,-nan,null,null,"2007-9-13",šolanje,null,null,L13
+lesce,1,"",180,-nan,null,null,"2007-9-14",šolanje,null,null,L13
+Zavrh,1,"",25,-nan,null,null,"2007-9-19",Zavrh nevihta na vrhniki pristanek škorpion,null,null,AvaxSR7
+Zavrh,1,"",85,-nan,null,null,"2007-9-20",Zavrh 1600 planina domov,null,null,AvaxSR7
+Zavrh,1,"",90,-nan,null,null,"2007-9-21",Zavrh levo desno pristanek pri avtu,null,null,AvaxSR7
+Planina,1,"",14,-nan,null,null,"2007-9-22",skok iz planine,null,null,AvaxSR7
+Slivnica,1,"",92,-nan,null,null,"2007-9-30",slivnica močan zahodnik,null,null,AvaxSR7
+lesce,1,"",148,-nan,null,null,"2007-9-9",šolanje,null,null,L13
+Slivnica,1,"",10,-nan,null,null,"2008-1-20",SLIVNICA  peš gor skok dol,null,null,AvaxSR7
+Lijak,1,"",60,-nan,null,null,"2008-1-26",zimska liga jadranje,null,null,AvaxSR7
+Strmca,1,"",3,-nan,null,null,"2008-1-27",akro padalo,null,null,AKRO
+Ulavka,1,"",10,-nan,null,null,"2008-1-29",skok do doma,null,null,Magus
+Brazilija Castelo,1,"",180,-nan,null,null,"2008-10-1",ful zafukan letenje po tleh,null,null,Magus
+Brazilija Valadares,1,"",330,-nan,null,null,"2008-10-16",Z prevkotom sva odletelea 170km skor je ze zgledal da bo 200,null,null,Magus
+Brazilija Valadares,1,"",30,-nan,null,null,"2008-10-17",Mal jadranje pa skok v dolino,null,null,Magus
+Brazilija Castelo,1,"",180,-nan,null,null,"2008-10-2",isto sploh zadosti ljudi ni preletelo razdlaje za vlejavnost,null,null,Magus
+Brazilija Rio,1,"",90,-nan,null,null,"2008-10-21",Jadranje okol štarta poizkušamo na razne načine ampak ne gre do jezusa,null,null,Magus
+Ulavka,1,"",5,-nan,null,null,"2008-10-24",Predno gre erzo v bazil se je treba vržt iz ulavke,null,null,Magus
+Brazilija Castelo,1,"",180,-nan,null,null,"2008-10-3",dobra tekmovalna tekma. Borim se za zmago z simčem se zapeljeva v stene na štartu a potem scuriva pred ciljem,null,null,Magus
+Brazilija Castelo,1,"",180,-nan,null,null,"2008-10-4",ponovno jebena tekma. Scurim z podobnikom na prvi večjih skalah. Prevko se je čudežno pobral. Enako tudi brauner...,null,null,Magus
+Brazilija Castelo,1,"",150,-nan,null,null,"2008-10-5",4.mesto ponovno,null,null,Magus
+Brazilija Na vrhu Espirito Santa Peščine,1,"",10,-nan,null,null,"2008-10-8",jadranje na plaži,null,null,Magus
+Lijak,1,"",60,-nan,null,null,"2008-11-17",Najprej peš gor potem pa super leteneje. Brez varija nad vse do škabrijela, rampe in pristanek.,null,null,Magus
+Kovk,1,"",60,-nan,null,null,"2008-11-19",Jadranje z marlijem skoraj do predmeje. Drugače pa sem probaval sedež xcmaster za crosscountry...,null,null,Magus
+Kovk,1,"",15,-nan,null,null,"2008-11-19",Drugi let popravek nastavitve sedeža..,null,null,Magus
+Kovk,1,"",30,-nan,null,null,"2008-12-31",Na pol kreš na štartu,null,null,Magus
+Lijak,1,"",15,-nan,null,null,"2008-12-7",Skok in curaža na pisto,null,null,AvaxSR7
+Lijak,1,"",15,-nan,null,null,"2008-12-7",Peš nazaj z simeonom pa še en panoramc,null,null,AvaxSR7
+Gozd,1,"",90,-nan,null,null,"2008-2-10",na krvavec in nazaj,null,null,Magus
+Ulavka,1,"",15,-nan,null,null,"2008-2-11",skok do doma,null,null,Magus
+Ulavka,1,"",10,-nan,null,null,"2008-2-14",skok do doma,null,null,Magus
+Zavrh,1,"",45,-nan,null,null,"2008-2-16",zavrh – do doma razmeroma močan vetre potrebno je bilo počakat na štart,null,null,Magus
+Lijak,1,"",60,-nan,null,null,"2008-2-17",veter. nizka baza 1400. domov nisem mogu zato pristanek na colu,null,null,Magus
+Gozd,1,"",15,-nan,null,null,"2008-2-23",peljal sem matjaža,null,null,Tandem
+Lijak,1,"",118,-nan,null,null,"2008-2-24",zimska liga jadranje,null,null,Magus
+Lijak,1,"",5,-nan,null,null,"2008-2-26",zimska liga jadranje,null,null,Magus
+Slivnica,1,"",15,-nan,null,null,"2008-3-15","",null,null,AvaxSR7
+Bassano,1,"",132,-nan,null,null,"2008-3-18",Jadranje in nastavitve speeda,null,null,Magus
+Bassano,1,"",240,-nan,null,null,"2008-3-19",Prva tekma velik zajeb z inštrumentom in markerjem,null,null,Magus
+Vremščica,1,"",79,-nan,null,null,"2008-3-2",Jadranje in nastavitve speeda,null,null,Magus
+Bassano,1,"",20,-nan,null,null,"2008-3-20",Tekma je odpovedana mal jadramo,null,null,Magus
+Bassano,1,"",80,-nan,null,null,"2008-3-21",Tekma je skenslana nevihte pokrivanje letenje med oblaki in pristanek v močnem vetru,null,null,Magus
+Prebold – Krvavec,1,"",30,-nan,null,null,"2008-3-30",Šolski teren Prebold potem pa odlično jadranje na Krvavcu,null,null,Domino in DHV 2 Gradient
+šentviška planota,13,"",2,-nan,null,null,"2008-3-31",šolanje,null,null,Atlas
+Zavrh,1,"",11,-nan,null,null,"2008-4-1",skok,null,null,Magus
+Čedad,1,"",260,-nan,null,null,"2008-4-19",Čedad do razdrtega 90km,null,null,Magus
+Zabočevo,1,"",90,-nan,null,null,"2008-4-24",Zabočevo jadranje trening pobiranja pristanek rakitna,null,null,Magus
+Zavrh,1,"",15,-nan,null,null,"2008-4-26",Skok močan severo vshodnik,null,null,Magus
+Ulavka,1,"",15,-nan,null,null,"2008-4-26",Skok močan severo vshodnik,null,null,Magus
+Smuk,1,"",14,-nan,null,null,"2008-4-27",Liga cura,null,null,Magus
+Smuk,1,"",143,-nan,null,null,"2008-4-27",Liga oblet discipline. Verjetno najhitrejši speed run.,null,null,Magus
+Ulavka,1,"",18,-nan,null,null,"2008-4-3",Skok iz ulavke jadranje na stolpu,null,null,Magus
+Pian kavalo,1,"",317,-nan,null,null,"2008-4-5",Let do sorice tako mraz da nisem mogel več,null,null,Magus
+Lijak,1,"",99,-nan,null,null,"2008-4-6",Zimska liga 38km,null,null,Magus
+Zavrh,1,"",3,-nan,null,null,"2008-5-11",Curaža po peti uri,null,null,Magus
+Zabočevo,1,"",65,-nan,null,null,"2008-5-14",Jadranje po dolini pristanek na rakitni,null,null,AvaxSR7
+Grindevald,1,"",120,-nan,null,null,"2008-5-25",PWC ukurcu tekma 40km,null,null,Magus
+Grindevald,1,"",120,-nan,null,null,"2008-5-28",PWC ukurcu tekma 40km zglanje levo desno po enem grebuenu.. Cel teden v kurcu vreme rez. Urban 40 jaz 80,null,null,Magus
+Poggio Bustone,1,"",114,-nan,null,null,"2008-5-3",PWC tening dan,null,null,Magus
+Poggio Bustone,1,"",240,-nan,null,null,"2008-5-4",PWC prva tekma 8.v cilju. Nastavljen sem bil za zmago. Skupina meujame juri je bil po tem še vedno nastavljen za zmago vendar mu nuspe. Scuri,null,null,Magus
+Poggio Bustone,1,"",0,-nan,null,null,"2008-5-5",Tekma je odpovedana,null,null,Magus
+Poggio Bustone,1,"",143,-nan,null,null,"2008-5-6",PWC druga tekma prvi porinem proti cilju. Nekoliko nizko vendar so vsi ki so bili nižje naredili. Jaz začnem cincat in  izgubim pozicijo. Na koncu 18. v cilju takoj za urbanom,null,null,Magus
+Poggio Bustone,1,"",93,-nan,null,null,"2008-5-7",PWC tekma je v zraku odpovedana,null,null,Magus
+Poggio Bustone,1,"",244,-nan,null,null,"2008-5-8",PWC tekma v ne morem zadržat in letet skupaj z prvo skupino. Problemi povsod. V cilj pridem okoli 70. Mesta,null,null,Magus
+Poggio Bustone,1,"",270,-nan,null,null,"2008-5-9",PWC tekma, super disciplina litimo špuro 113km, super vreme čez hribe z fenomenalnimi višinami. Zataknem se na enem kurčevem hribu v leesideu. Na kuncu pride 5 pilotov v cilj. Vsi ostali smo v rangu nekaj kilometrov od cilja. Po tem tekmovanju sem na 9.mestu skupno. Urban 1. Podobnik 2. Slovenia team 1.mesto.,null,null,Magus
+Slivnica,1,"",35,-nan,null,null,"2008-6-1",Letenje proti zabpčevem curaža, erzo je lepo pokazal kako se leti na nizkem in položnem terenu,null,null,AvaxSR7
+Strmica,1,"",30,-nan,null,null,"2008-6-11",Test novega sedeža,null,null,Magus
+Stolp,1,"",5,-nan,null,null,"2008-6-13",Acro padalo test,null,null,Sonic
+Stolp,1,"",5,-nan,null,null,"2008-6-13",Acro padalo test,null,null,Sonic
+Castehon de sos,1,"",93,-nan,null,null,"2008-6-14",PWC trening dan,null,null,Magus
+Castehon de sos,1,"",25,-nan,null,null,"2008-6-15",Cancel bežanje v dolino,null,null,Magus
+Castehon de sos,1,"",99,-nan,null,null,"2008-6-17",Hitra tekma okili doline v cilju okoli 40 vendar 900 točk,null,null,Magus
+Castehon de sos,1,"",315,-nan,null,null,"2008-6-18",Dolga disciplina 140 v špuro,null,null,Magus
+Castehon de sos,1,"",316,-nan,null,null,"2008-6-19",Najbolj zajebana disciplina ki sem jo letel kvadrat 90km zadnji v cilju. Zaveterne točke totalna jeba,null,null,Magus
+Castehon de sos,1,"",85,-nan,null,null,"2008-6-20",Prekinjena disciplina. Task komite je debiln. Gremo domov ker se je prejšnji dan ubil Dimiter,null,null,Magus
+Zabočevo,1,"",10,-nan,null,null,"2008-6-21",Skok pa peš po avto,null,null,Sonic
+Krvavec,1,"",270,-nan,null,null,"2008-6-25",2. mesto drugače sem imel 30min za zmago,null,null,Magus
+Ratitovec,1,"",75,-nan,null,null,"2008-6-26",7.mesto,null,null,Magus
+Stolp,1,"",10,-nan,null,null,"2008-6-26",skok,null,null,Sonic
+Ratitovec,1,"",158,-nan,null,null,"2008-6-27",1.mesto,null,null,Magus
+Ratitovec,1,"",127,-nan,null,null,"2008-6-28",2.mesto in skupno drugo mesto,null,null,Magus
+Stolp,1,"",10,-nan,null,null,"2008-6-3",Skok dol in en full stall,null,null,Stream
+Kuk-kobarid,1,"",15,-nan,null,null,"2008-6-7",Skok kobartid adrenalin POP TV,null,null,Stream
+Stolp,1,"",10,-nan,null,null,"2008-6-8",Skok  iz hriba po nevihti katero sem pravilno predvideval da gre mimo,null,null,Stream
+Zavrh,1,"",65,-nan,null,null,"2008-6-9",jadranje in akro,null,null,Stream
+Zabočevo,1,"",101,-nan,null,null,"2008-7-10",letenje okoli doline pristanek na rakitni.. Z erzotom on leti v Notranje gorice,null,null,Magus
+Stolp,1,"",5,-nan,null,null,"2008-7-10",Peš gor skok dol,null,null,Sonic
+Strmca,1,"",30,-nan,null,null,"2008-7-11",Jadranje v precej močnem vetru,null,null,Sonic
+Kovk,1,"",90,-nan,null,null,"2008-7-12",Jadranje prvič helikopter,null,null,Sonic
+kobala,1,"",15,-nan,null,null,"2008-7-15",šolanje,null,null,Tandem zmaj
+kobala,1,"",15,-nan,null,null,"2008-7-15",šolanje,null,null,Atlas
+Stolp,1,"",5,-nan,null,null,"2008-7-2",Peš gor skok dol,null,null,Sonic
+Stolp,1,"",5,-nan,null,null,"2008-7-8",Peš gor skok dol,null,null,Sonic
+Stolp,1,"",5,-nan,null,null,"2008-7-9",Peš gor skok dol,null,null,Sonic
+Zavrh,1,"",47,-nan,null,null,"2008-8-21",Z erzotom mal jadrava in pristaneva za tarasovo bajto,null,null,Magus
+Kobariški Stol,1,"",202,-nan,null,null,"2008-8-24",Prva tekma zajebem in delam kazenski krog okoli drežnice in jošk,null,null,Magus
+Kobariški Stol,1,"",49,-nan,null,null,"2008-8-25",Dirka skenslana dule je dol ubrisal,null,null,Magus
+Kobariški Stol,1,"",135,-nan,null,null,"2008-8-26",Letim odlično skoz v prvi grupi, pred ciljem malo zaglibim v grebenu. V cilj priletim 6,null,null,Magus
+Kobariški Stol,1,"",148,-nan,null,null,"2008-8-27","",null,null,Magus
+Kobariški Stol,1,"",183,-nan,null,null,"2008-8-28",Kuk odlična disciplina čez italijio Mija matajur,null,null,Magus
+Kobariški Stol,1,"",161,-nan,null,null,"2008-8-29",Zafuk na žagi drugače odlično letenje,null,null,Magus
+Bolgaria-Shambala-Sopot-Karlovo,1,"",187,-nan,null,null,"2008-8-3",PWC TEKMA 71km task ravnina,null,null,Magus
+Kobariški Stol,1,"",106,-nan,null,null,"2008-8-30",Zmaga jest aljaz urabn,null,null,Magus
+Ulavka,1,"",5,-nan,null,null,"2008-8-31",Pristanek v Razorski dolini,null,null,Sonic
+Bolgaria-Shambala-Sopot-Karlovo,1,"",217,-nan,null,null,"2008-8-4",PWC TEKMA 80km task stopped,null,null,Magus
+Bolgaria-Shambala-Sopot-Karlovo,1,"",223,-nan,null,null,"2008-8-5",PWC TEKMA 77km,null,null,Magus
+Bolgaria-Shambala-Sopot-Karlovo,1,"",240,-nan,null,null,"2008-8-7",PWC TEKMA,null,null,Magus
+Bolgaria-Shambala-Sopot-Karlovo,1,"",244,-nan,null,null,"2008-8-8",PWC TEKMA,null,null,Magus
+Bolgaria-Shambala-Sopot-Karlovo,1,"",138,-nan,null,null,"2008-8-9",PWC TEKMA,null,null,Magus
+Ulavka,1,"",5,-nan,null,null,"2008-9-15",Pristanek na vhodu v Razorsko dolino,null,null,Sonic
+Ulavka,1,"",5,-nan,null,null,"2008-9-16",Pristanek na vhodu v Razorsko dolino,null,null,Sonic
+Ulavka,1,"",5,-nan,null,null,"2008-9-16",Pristanek na vhodu v Razorsko dolino,null,null,Sonic
+Zabočevo,1,"",20,-nan,null,null,"2008-9-17",Jadranje in curaža potem peš na štart,null,null,Sonic
+Ulavka,1,"",5,-nan,null,null,"2008-9-18",Skok z hriba,null,null,Sonic
+Ulavka,1,"",5,-nan,null,null,"2008-9-18",Skok z hriba,null,null,Sonic
+Ulavka,1,"",5,-nan,null,null,"2008-9-18",Skok z hriba,null,null,Sonic
+Zavrh,1,"",45,-nan,null,null,"2008-9-19",Jadranje pristanek na vrhniki, naredil sem en helikopter in en sat,null,null,Sonic
+Zavrh,1,"",75,-nan,null,null,"2008-9-20",Jadranje ful veter pa sem komaj ostal gor. Potem en helikopter asimetrija in curaža do škorpiona.,null,null,Sonic
+Zavrh,1,"",15,-nan,null,null,"2008-9-21",Svoh jadranje en slab helikopterček in pristanek,null,null,Sonic
+Brazilija Castelo,1,"",65,-nan,null,null,"2008-9-28",Trening dan letkanje,null,null,Magus
+Brazilija Castelo,1,"",150,-nan,null,null,"2008-9-29",Tekma sem na 5 mestu samo me zjebe inštrument imam minimum distance,null,null,Magus
+Brazilija Castelo,1,"",180,-nan,null,null,"2008-9-30",4.mesto,null,null,Magus
+Krvavec,1,"",30,-nan,null,null,"2009-1-17",Piha sever gremo z zvoha dol in štartamo pri hotelu,null,null,Magus
+Ulavka,1,"",15,-nan,null,null,"2009-1-26",Skok z hriba pol pa tek peš po avto. Letiva z erzotom,null,null,Magus
+Zavrh,1,"",30,-nan,null,null,"2009-1-31",letkanje okoli po grebenu precej je pihalo mrzlo je bilo ko svinja,null,null,Sonic
+Stol,1,"",20,-nan,null,null,"2009-10-11",pes z marlijem,null,null,Sonic
+Kovk,1,"",120,-nan,null,null,"2009-10-16",z aljazem sva letkala na okoli potem do rampe in nazaj do njegove bajte,null,null,Magus
+Grintavec,1,"",10,-nan,null,null,"2009-10-29","",null,null,Sonic
+Storzic,1,"",15,-nan,null,null,"2009-10-4",pes z ciglo,null,null,Sonic
+Kamniško sedlo,1,"",10,-nan,null,null,"2009-11-1","",null,null,Sonic
+Kepa,1,"",10,-nan,null,null,"2009-11-19","",null,null,Sonic
+Ulavka,1,"",10,-nan,null,null,"2009-12-20","",null,null,Sonic
+Ulavka,1,"",10,-nan,null,null,"2009-12-20","",null,null,Sonic
+Lovrenc polhovgradec,1,"",10,-nan,null,null,"2009-12-20","",null,null,Sonic
+Zavrh,1,"",10,-nan,null,null,"2009-12-26","",null,null,Magus novi proto
+Kovk,1,"",30,-nan,null,null,"2009-12-27","",null,null,Magus novi proto
+Begunščica,1,"",10,-nan,null,null,"2009-12-3","",null,null,Sonic
+Lijak,1,"",90,-nan,null,null,"2009-2-14",Zimska liga 45km zmagal pred hafnerjem in Urabnom.. Kasneje prileti še marli aljaž...,null,null,Magus
+Zavrh,1,"",30,-nan,null,null,"2009-2-19",Let na staro vrhniko z erzotom,null,null,Magus
+Lijak,1,"",90,-nan,null,null,"2009-2-20",Nanosa nisem mogu pobrat ker je bilo vse v temi,null,null,Magus
+Lijak,1,"",200,-nan,null,null,"2009-2-25",Lijak, Kobilja, Anhovo crknu je dan,null,null,Magus
+Vremščica,1,"",52,-nan,null,null,"2009-2-27",Jadranje in letkanje okol vremscice na štartu je pihalo dol,null,null,Magus
+Lijak,1,"",91,-nan,null,null,"2009-2-28",Zimska liga letel sem odlično do ciljnega doleta kjer sem porinil prenizko,null,null,Magus
+Ibituruna,1,"",60,-nan,null,null,"2009-3-18",Letkanje okoli hriba in potem pobeg v valadares na pristanek zaradi ploh.,null,null,Magus
+Ibituruna,1,"",120,-nan,null,null,"2009-3-19",letenje tekme valadares open. Startal sem zelo pozno tako da sem se vlačil po podnu do zadnje obratne točke kjer sem scuril,null,null,Magus
+Ibituruna,1,"",165,-nan,null,null,"2009-3-21",letenje trening jutri je prva tekma. Letel sem z raulom in mikijem naredil smo 57km. Raul je scuril blo je res kriza vmes.. potem pa super letenje domov.,null,null,Magus
+Ibituruna,1,"",65,-nan,null,null,"2009-3-22",prva tekma praktično vsi smo se ulegli po prvem glajdu od pilona. Ha ha,null,null,Magus
+Ibituruna,1,"",150,-nan,null,null,"2009-3-23",druga tekma totalna tema naredil smo 25km jaz sem za to potreboval dve uri in pol s tem da sem pristal z prvo skupino. Je pa nekdo odletel 40km,null,null,Magus
+Ibituruna,1,"",45,-nan,null,null,"2009-3-24",Tekma je odpovedana,null,null,Magus
+Ibituruna,1,"",61,-nan,null,null,"2009-3-25",Tekma je odpovedana,null,null,Magus
+Ibituruna,1,"",90,-nan,null,null,"2009-3-26",Tekma 37km miki zmaga jaz scurim na 27km ostali se zajebejo ker čakajo,null,null,Magus
+Ibituruna,1,"",205,-nan,null,null,"2009-3-27",Disciplina 51km gre mi zelo dobro dokler ne pridemo do roba teme tukaj se pra skupina zagoni v temo na tla jaz pa na sonce skoraj scurim. Tolk nizko se še nisem pobral. Do pred cilja se pripeljem pod prvo skupino vendar se ne da nič več naredit. Tukaj se zataknemo in čakamo da bi kaj pobrali hrib ne da pobočnika tako da scurimo pod hribom..,null,null,Magus
+Gozd,1,"",91,-nan,null,null,"2009-3-8",Od gozda na krvavc pa notr in nazaj z hafijem sva odletela odlično nedeljsko popoldne,null,null,Magus
+Kobala,1,"",38,-nan,null,null,"2009-4-11",jadranje ful je pihal,null,null,Magus
+Kobala,1,"",11,-nan,null,null,"2009-4-12",peš na kobalo in skok z akrotom,null,null,Sonic
+Kobala,1,"",155,-nan,null,null,"2009-4-12",jadranje na zadnjih hribih do osmih zvečer... noro dobr,null,null,Magus
+Lisca,1,"",90,-nan,null,null,"2009-4-25",tekma jebal me je inštrument na kocu sem štrikal do konca in zato nisem vlekel linije kar me je koštalo par kilometrov,null,null,Magus
+Lisca,1,"",178,-nan,null,null,"2009-4-26",tekma vodil sem jo do konca, potem pa naredil napako in šel pobirat na področje od koder se ni dalo rešiti. Zmaga je bila ze v rokah. Problem je iil da nisem verjel da na drugi način pridem v cilj in zato ponovno nisem vlekel spure.,null,null,Magus
+Kobala,1,"",90,-nan,null,null,"2009-4-5",letkanje z urbanom,null,null,Magus
+Mrzli Vrh nad Zirmi,1,"",7,-nan,null,null,"2009-4-5",skok v ziri,null,null,Magus
+Levico Terme,1,"",217,-nan,null,null,"2009-5-10",češki open.. na prvi tekmi sem bil 5. vendar bi lahko zmagal glede na to da smo tolk cincal na kocu.,null,null,Magus
+Levico Terme,1,"",207,-nan,null,null,"2009-5-11",druga dirka je bila prekinjena bil sem v precej slabem položaju če ne bi bila preknjena bi bil dober ker je folk pocuril,null,null,Magus
+Levico Terme,1,"",17,-nan,null,null,"2009-5-12",skenslal so tekmo morlani maček,null,null,Magus
+Levico Terme,1,"",120,-nan,null,null,"2009-5-13",tekma v čisti temi kot v braziliji. Na koncu glajdamo po dolini.. meni odleti do kurca... vsi so boljš odglajdal kot jest,null,null,Magus
+Levico Terme,1,"",197,-nan,null,null,"2009-5-14",tekma zandjna, zmagal sem z leeding pointi.. in pristal iz 10.mesta na drugo mesto..,null,null,Magus
+Kobala,1,"",207,-nan,null,null,"2009-5-17",Z Urbnom letiva v rezijo in nazaj v kobarid,null,null,Magus
+Mrzli Vrh na Matajurju,1,"",81,-nan,null,null,"2009-5-20",Liga tekma sem tretji prvi drugi in edina v cilju valiča,null,null,Magus
+Kobariški Stol,1,"",234,-nan,null,null,"2009-5-21",3.mesto,null,null,Magus
+Kobariški Stol,1,"",89,-nan,null,null,"2009-5-22",4.mesto,null,null,Magus
+Kobariški Stol,1,"",63,-nan,null,null,"2009-5-23",14. hafi me je prehitil za 3 točke,null,null,Magus
+Pamukle – Turčija,1,"",140,-nan,null,null,"2009-5-28",turčija pred tekmo mal treninga,null,null,Magus
+Pamukle – Turčija,1,"",80,-nan,null,null,"2009-5-29",trening dan letkanje,null,null,Magus
+Pamukle – Turčija,1,"",179,-nan,null,null,"2009-5-30",prva tekma z jurijem in aljazem se ujamemo na ravnini tako da zaklučimo disciplino precej odzadi,null,null,Magus
+Kobala,1,"",137,-nan,null,null,"2009-5-8",z urbanom sva letela proti mangartu in nazaj,null,null,Magus
+Pamukle – Turčija,1,"",126,-nan,null,null,"2009-6-1",druga tekma zajebem in odletim le 44km od 89km,null,null,Magus
+Gozd senično,1,"",18,-nan,null,null,"2009-6-11",izpit za inšturktorje,null,null,Solski
+Gozd senično,1,"",102,-nan,null,null,"2009-6-11",letkanje na godzu najprej sva z gašperjem naredila izpit za inštruktorja potem pa še odletela 2urci,null,null,Magus
+Annecy,1,"",70,-nan,null,null,"2009-6-13",fotkanje z Rwanom, in Banotom,null,null,Artic niviuk
+Annecy,1,"",90,-nan,null,null,"2009-6-13",fotkanje z Rwanom, in Banotom,null,null,Magus
+Annecy,1,"",90,-nan,null,null,"2009-6-14",tekma pwc 58km zajebal sem in scuril v cilj,null,null,Magus
+Annecy,1,"",182,-nan,null,null,"2009-6-16",tekma 58km bil sem 12 letel sem dobro na koncu sem scuril na prelazu,null,null,Magus
+Annecy,1,"",123,-nan,null,null,"2009-6-17",tekma kaze kot da sem tretji,null,null,Magus
+Annecy,1,"",190,-nan,null,null,"2009-6-18",Tekma 58km masaker na grebenu nisem mogu pobrat šele tretja skupina se odpeljem in lovim glavnino. Priletim za našimi 12min.,null,null,Magus
+Pamukle – Turčija,1,"",266,-nan,null,null,"2009-6-2",tretja tekma letim v prvi skupini celo tekmo potem pa zajebem tik pred ciljem in izcurim 2km pred ciljem. Nisem mogu pobrat ker je bilo prešibko in preveč iz strani na greben,null,null,Magus
+Dražgose spodaj,1,"",20,-nan,null,null,"2009-6-27",Jutri se začne drzavno, blo je razjeban in ful je kuhal,null,null,Magus
+Stari vrh,1,"",7,-nan,null,null,"2009-6-29",Pometala smo se dol in scurili...,null,null,Magus
+Ratitovec,1,"",62,-nan,null,null,"2009-6-30",tekma na knap med nevihtami izpeljemo tekmo urban zmaga aljaz drugi jaz pa tretiji za las.,null,null,Magus
+Pamukle – Turčija,1,"",192,-nan,null,null,"2009-6-5",četrta tekma jebal me je inštrument, imel sem prazne baterijev cilj sem prišel okoli 15 mesta,null,null,Magus
+ratitovec,1,"",96,-nan,null,null,"2009-7-1",tekma 30km zajeb tako večina scuri po prvi točki drugi se zapeljemo v drugo dolino kjer jadramo še pol ure nato naredimo kilometerček več...,null,null,Magus
+Krvavec,1,"",45,-nan,null,null,"2009-7-11",fotkanje,null,null,Magus
+Gozd,1,"",35,-nan,null,null,"2009-7-12",Test novega sedeža,null,null,Magus
+ratitovec,1,"",19,-nan,null,null,"2009-7-2",tekma je bila odpovedana. Skok v dolino,null,null,Magus
+ratitovec,1,"",19,-nan,null,null,"2009-7-3",prekinjeno,null,null,Magus
+Stari vrh,1,"",10,-nan,null,null,"2009-7-4",prekinjeno,null,null,Magus
+Zavrh,1,"",43,-nan,null,null,"2009-7-5",prvo jadranje z xalps padalom,null,null,Magus
+Zavrh,1,"",85,-nan,null,null,"2009-7-9",jadranje v precej šibkem čudnem vremenu,null,null,Magus
+Poggio Bustone,1,"",60,-nan,null,null,"2009-9-1",trening dan letkanje,null,null,Magus
+Poggio Bustone,1,"",300,-nan,null,null,"2009-9-2",Tekma 13,null,null,Magus
+Poggio Bustone,1,"",210,-nan,null,null,"2009-9-3",tekma prekinjena,null,null,Magus
+norma,1,"",180,-nan,null,null,"2009-9-4",Tekm 7,null,null,Magus
+Poggio Bustone,1,"",120,-nan,null,null,"2009-9-5",scurili na ravnini,null,null,Magus
+Poggio Bustone,1,"",30,-nan,null,null,"2009-9-6",prekinjena nimbus,null,null,Magus
+Lijak,1,"",99,-nan,null,null,"2010-1-19","",null,null,Magus
+Lijak,1,"",80,-nan,null,null,"2010-1-20","",null,null,Magus
+Ulavka,1,"",10,-nan,null,null,"2010-1-22","",null,null,Sonic
+Zavrh,1,"",41,-nan,null,null,"2010-1-23","",null,null,Magus
+Lijak,1,"",90,-nan,null,null,"2010-1-3","",null,null,Magus novi proto
+pamukale,1,"",174,-nan,null,null,"2010-10-1","",null,null,bommerang
+Lijak,1,"",40,-nan,null,null,"2010-10-11",peš na štart,null,null,yeti
+Zavrh,1,"",12,-nan,null,null,"2010-10-12","",null,null,yeti
+grintovc,1,"",30,-nan,null,null,"2010-10-13","",null,null,yeti
+pamukale,1,"",84,-nan,null,null,"2010-10-2","",null,null,bommerang
+ulavka,1,"",7,-nan,null,null,"2010-10-20","",null,null,yeti
+ulavka,1,"",7,-nan,null,null,"2010-10-21","",null,null,yeti
+ambrož zgornja poseka,1,"",30,-nan,null,null,"2010-10-29","",null,null,Tandem
+Lijak,1,"",68,-nan,null,null,"2010-10-30",zimska liga zmaga,null,null,bommerang
+potoška gora,1,"",17,-nan,null,null,"2010-10-9",peš na štart,null,null,nupce
+ulavka,1,"",6,-nan,null,null,"2010-11-20","",null,null,nupce
+Lijak,1,"",120,-nan,null,null,"2010-11-27",zimska liga zmaga,null,null,bommerang
+Lijak,1,"",105,-nan,null,null,"2010-2-1","",null,null,Magus
+Lijak,1,"",88,-nan,null,null,"2010-2-2","",null,null,Magus
+Lijak,1,"",118,-nan,null,null,"2010-2-27","",null,null,Magus
+Lijak,1,"",97,-nan,null,null,"2010-2-8","",null,null,Magus
+erzo projekt,1,"",8,-nan,null,null,"2010-3-12","",null,null,sonic
+erzo projekt,1,"",5,-nan,null,null,"2010-3-12","",null,null,sonic
+pian kavalo,1,"",134,-nan,null,null,"2010-3-13",italjanska liga med 10,null,null,magus
+pian kavalo,1,"",139,-nan,null,null,"2010-3-14",drugi, urbanj je zmagal oba dneva,null,null,magus
+krvavec,1,"",30,-nan,null,null,"2010-3-17",miha kavčič,null,null,Tandem
+Gozd,1,"",20,-nan,null,null,"2010-3-18",miha kavčič,null,null,Tandem
+Gozd,1,"",45,-nan,null,null,"2010-3-18",Od Mareta šef ki gre v penzijo,null,null,Tandem
+Zavrh,1,"",58,-nan,null,null,"2010-3-2","",null,null,Magus
+Gozd,1,"",140,-nan,null,null,"2010-3-24",Gozd pa tja do potoške pol pa v Kranjsko goro stop nazaj z tomijem pa pol naju je pobral jurij franko,null,null,Bommerang
+Pocos de Caldas Brazil,1,"",20,-nan,null,null,"2010-3-27",jadranje,null,null,Bommerang
+Pocos de Caldas Brazil,1,"",120,-nan,null,null,"2010-3-28",jadranje,null,null,bommerang
+Zavrh,1,"",45,-nan,null,null,"2010-3-5","",null,null,Magus
+Lijak,1,"",119,-nan,null,null,"2010-3-6","",null,null,Magus
+Pocos de Caldas Brazil,1,"",192,-nan,null,null,"2010-4-10",12 skupno 9 na PWCju slovenija team1. Gin team 3. najboljsi od gina,null,null,bommerang
+Kobala,1,"",45,-nan,null,null,"2010-4-16","",null,null,Tandem
+Ambrozar,1,"",39,-nan,null,null,"2010-4-19",curjenje z ambrozarja vzhodnik in sever,null,null,bommerang
+Lijak,1,"",360,-nan,null,null,"2010-4-20",lijak, hrvaška,null,null,bommerang
+Lijak,1,"",78,-nan,null,null,"2010-4-23",lijak liga 1.,null,null,bommerang
+Lijak,1,"",112,-nan,null,null,"2010-4-24",lijak liga scuril v cilnem iz čavna zmagal urban drugi aljaž ostali eno uro odzadi,null,null,bommerang
+Ivanščica,1,"",321,-nan,null,null,"2010-4-28",ivanšcica z mariljem sva letela nazaj proti ljubljani pristanek v ljubljani marli je scuril v mirni,null,null,bommerang
+emberger alm,1,"",350,-nan,null,null,"2010-4-29",poizkus 200trk v bistvu bi šlo samo sem zajebal z priklopom v lienc,null,null,bommerang
+Pocos de Caldas Brazil,1,"",88,-nan,null,null,"2010-4-7",jadranje,null,null,bommerang
+Pocos de Caldas Brazil,1,"",88,-nan,null,null,"2010-4-9",11. gliding tekm,null,null,bommerang
+ambroz,1,"",60,-nan,null,null,"2010-5-19","",null,null,Tandem
+Kuk-kobarid,1,"",39,-nan,null,null,"2010-5-20","",null,null,bommerang
+Kuk-kobarid,1,"",37,-nan,null,null,"2010-5-20","",null,null,bommerang
+Kuk-kobarid,1,"",23,-nan,null,null,"2010-5-21","",null,null,bommerang
+Bishcling,1,"",90,-nan,null,null,"2010-5-24",ep trening,null,null,bommerang
+Bishcling,1,"",180,-nan,null,null,"2010-5-25",ep prva in skenslana tekma,null,null,bommerang
+Nad Abtenavom,1,"",15,-nan,null,null,"2010-5-29",ep skenslana tekma,null,null,bommerang
+Gozd,1,"",20,-nan,null,null,"2010-6-11","",null,null,Tandem
+Niška banja,1,"",120,-nan,null,null,"2010-6-15","",null,null,bommerang
+Kruševo,1,"",180,-nan,null,null,"2010-6-16",na poti v grčijo,null,null,bommerang
+Kruševo,1,"",50,-nan,null,null,"2010-6-17","",null,null,bommerang
+Drama,1,"",105,-nan,null,null,"2010-6-19",pwc trening dan,null,null,bommerang
+Nad Abtenavom,1,"",120,-nan,null,null,"2010-6-2",ep scuru v cilnem doletu,null,null,bommerang
+Drama,1,"",93,-nan,null,null,"2010-6-21","",null,null,bommerang
+Drama,1,"",195,-nan,null,null,"2010-6-23","",null,null,bommerang
+Drama,1,"",121,-nan,null,null,"2010-6-24","",null,null,bommerang
+Drama,1,"",75,-nan,null,null,"2010-6-25","",null,null,bommerang
+Drama,1,"",197,-nan,null,null,"2010-6-26","",null,null,bommerang
+Bishcling,1,"",164,-nan,null,null,"2010-6-4",14. se boril za zmago 90 stopin drugače kot drugi v cilj,null,null,bommerang
+Bishcling,1,"",270,-nan,null,null,"2010-6-5",140km disciplina trikotnik 4.v cilju skupno smo 3. na stopničkah premagali francoze za 1točko,null,null,bommerang
+Dobrča,1,"",20,-nan,null,null,"2010-6-6","",null,null,Tandem
+Dobrča,1,"",20,-nan,null,null,"2010-6-7","",null,null,Tandem
+ambroz,1,"",105,-nan,null,null,"2010-7-12","",null,null,bommerang
+dobrča,1,"",18,-nan,null,null,"2010-7-15",plačan,null,null,Tandem
+dobrča,1,"",33,-nan,null,null,"2010-7-15","",null,null,bommerang
+ambroz,1,"",21,-nan,null,null,"2010-7-15",tomi,null,null,Tandem
+vogar,1,"",12,-nan,null,null,"2010-7-16",plačan,null,null,Tandem
+dobrča,1,"",19,-nan,null,null,"2010-7-17",plačan,null,null,Tandem
+dobrča,1,"",16,-nan,null,null,"2010-7-17",plačan,null,null,Tandem
+dobrča,1,"",24,-nan,null,null,"2010-7-17",plačan,null,null,Tandem
+vogu,1,"",67,-nan,null,null,"2010-7-19","",null,null,eden
+Gozd,1,"",44,-nan,null,null,"2010-7-19","",null,null,eden
+kobala,1,"",24,-nan,null,null,"2010-7-20","",null,null,eden
+kobala,1,"",50,-nan,null,null,"2010-7-20","",null,null,eden
+Kobariški Stol,1,"",141,-nan,null,null,"2010-7-21","",null,null,eden
+kobala,1,"",78,-nan,null,null,"2010-7-21","",null,null,eden
+Lijak,1,"",23,-nan,null,null,"2010-7-22","",null,null,eden
+Lijak,1,"",80,-nan,null,null,"2010-7-22","",null,null,eden
+kovk,1,"",61,-nan,null,null,"2010-7-23","",null,null,eden
+vogu,1,"",25,-nan,null,null,"2010-7-26",ni plačan manjka mi še en od prevkota,null,null,Tandem
+zabočevo,1,"",69,-nan,null,null,"2010-7-27",super letenje pred nevihtami pristanek na rakitni,null,null,bommerang
+san potito,1,"",99,-nan,null,null,"2010-7-3","",null,null,bommerang
+san potito,1,"",49,-nan,null,null,"2010-7-6","",null,null,bommerang
+san potito,1,"",5,-nan,null,null,"2010-7-8","",null,null,bommerang
+san potito,1,"",25,-nan,null,null,"2010-7-8","",null,null,bommerang
+san potito,1,"",10,-nan,null,null,"2010-7-8","",null,null,bommerang
+san potito,1,"",27,-nan,null,null,"2010-7-8","",null,null,bommerang
+san potito,1,"",13,-nan,null,null,"2010-7-8","",null,null,bommerang
+san potito,1,"",15,-nan,null,null,"2010-7-8","",null,null,bommerang
+san potito,1,"",204,-nan,null,null,"2010-7-9","",null,null,bommerang
+dobrča,1,"",23,-nan,null,null,"2010-8-1","",null,null,Tandem
+dobrča,1,"",19,-nan,null,null,"2010-8-1","",null,null,Tandem
+dobrča,1,"",18,-nan,null,null,"2010-8-1","",null,null,Tandem
+dobrča,1,"",26,-nan,null,null,"2010-8-1","",null,null,Tandem
+dobrča,1,"",31,-nan,null,null,"2010-8-1","",null,null,Tandem
+zavrh,1,"",50,-nan,null,null,"2010-8-10","",null,null,Bommerang
+zabočevo,1,"",103,-nan,null,null,"2010-8-11","",null,null,bommerang
+ambroz spodnja poseka,1,"",20,-nan,null,null,"2010-8-12","",null,null,Tandem
+ambroz spodnja poseka,1,"",20,-nan,null,null,"2010-8-12","",null,null,Tandem
+dobrča,1,"",21,-nan,null,null,"2010-8-2","",null,null,Tandem
+dobrča,1,"",28,-nan,null,null,"2010-8-2","",null,null,Tandem
+dobrča,1,"",15,-nan,null,null,"2010-8-2","",null,null,Tandem
+dobrča,1,"",20,-nan,null,null,"2010-8-2","",null,null,Tandem
+ambroz,1,"",30,-nan,null,null,"2010-8-21","",null,null,bommerang
+kobala,1,"",180,-nan,null,null,"2010-8-22","",null,null,bommerang
+kobala,1,"",138,-nan,null,null,"2010-8-23","",null,null,bommerang
+kobala,1,"",40,-nan,null,null,"2010-8-24","",null,null,bommerang
+kobala,1,"",153,-nan,null,null,"2010-8-26","",null,null,bommerang
+kobala,1,"",30,-nan,null,null,"2010-8-27","",null,null,bommerang
+zavrh,1,"",66,-nan,null,null,"2010-8-4","",null,null,bommerang
+dobrča,1,"",8,-nan,null,null,"2010-8-7","",null,null,Tandem
+dobrča,1,"",15,-nan,null,null,"2010-8-7","",null,null,Tandem
+dobrča,1,"",22,-nan,null,null,"2010-8-8","",null,null,Tandem
+dobrča,1,"",18,-nan,null,null,"2010-8-8","",null,null,Tandem
+dobrča,1,"",15,-nan,null,null,"2010-8-8","",null,null,Tandem
+dobrča,1,"",20,-nan,null,null,"2010-8-8","",null,null,Tandem
+Lijak,1,"",135,-nan,null,null,"2010-9-1","",null,null,bommerang
+pamukale,1,"",179,-nan,null,null,"2010-9-22","",null,null,bommerang
+pamukale,1,"",128,-nan,null,null,"2010-9-23","",null,null,bommerang
+pamukale,1,"",150,-nan,null,null,"2010-9-24","",null,null,bommerang
+pamukale,1,"",150,-nan,null,null,"2010-9-25","",null,null,bommerang
+pamukale,1,"",150,-nan,null,null,"2010-9-26","",null,null,bommerang
+pamukale,1,"",7,-nan,null,null,"2010-9-27","",null,null,bommerang
+pamukale,1,"",10,-nan,null,null,"2010-9-27","",null,null,bommerang
+pamukale,1,"",10,-nan,null,null,"2010-9-27","",null,null,bommerang
+pamukale,1,"",150,-nan,null,null,"2010-9-28","",null,null,bommerang
+pamukale,1,"",150,-nan,null,null,"2010-9-29","",null,null,bommerang
+koreno,1,"",15,-nan,null,null,"2010-9-3","",null,null,nupce
+colombia,1,"",197,-nan,null,null,"2011-1-18","",null,null,bommerang
+colombia,1,"",133,-nan,null,null,"2011-1-19","",null,null,bommerang
+colombia,1,"",212,-nan,null,null,"2011-1-20","",null,null,bommerang
+Merida,1,"",140,-nan,null,null,"2011-1-6",venezuela,null,null,bommerang
+Merida,1,"",96,-nan,null,null,"2011-1-7",venezuela,null,null,bommerang
+Lijak,1,"",60,-nan,null,null,"2011-2-19","",null,null,stream
+buzet,1,"",90,-nan,null,null,"2011-2-5","",null,null,bommerang
+buzet,1,"",80,-nan,null,null,"2011-2-6","",null,null,bommerang
+buzet,1,"",120,-nan,null,null,"2011-2-7","",null,null,bommerang
+buzet,1,"",100,-nan,null,null,"2011-2-8","",null,null,bommerang
+korea,1,"",142,-nan,null,null,"2011-3-14","",null,null,bommerang
+korea,1,"",27,-nan,null,null,"2011-3-15","",null,null,bommerang
+korea,1,"",80,-nan,null,null,"2011-3-15","",null,null,bommerang
+korea,1,"",23,-nan,null,null,"2011-3-16","",null,null,bommerang
+korea,1,"",66,-nan,null,null,"2011-3-17","",null,null,bommerang
+korea,1,"",138,-nan,null,null,"2011-3-17","",null,null,bommerang
+korea,1,"",27,-nan,null,null,"2011-3-17","",null,null,bommerang
+korea,1,"",22,-nan,null,null,"2011-3-18","",null,null,bommerang
+korea,1,"",30,-nan,null,null,"2011-3-18","",null,null,bommerang
+korea,1,"",73,-nan,null,null,"2011-3-18","",null,null,bommerang
+korea,1,"",62,-nan,null,null,"2011-3-19","",null,null,bommerang
+korea,1,"",67,-nan,null,null,"2011-3-19","",null,null,bommerang
+korea,1,"",8,-nan,null,null,"2011-3-19","",null,null,bommerang
+korea,1,"",57,-nan,null,null,"2011-3-19","",null,null,bommerang
+korea,1,"",34,-nan,null,null,"2011-3-21","",null,null,bommerang
+Lijak,1,"",120,-nan,null,null,"2011-3-5","",null,null,bommerang
+Ambroz,1,"",65,-nan,null,null,"2011-3-8","",null,null,bommerang
+ambroz,1,"",87,-nan,null,null,"2011-3-9","",null,null,bommerang
+kovk,1,"",89,-nan,null,null,"2012-12-30","",null,null,Tandem
+kovk,1,"",82,-nan,null,null,"2013-01-06","",null,null,Tandem
+lijak,2,"",165,-nan,null,null,"2013-03-01","",null,null,Tandem
+lijak,1,"",92,-nan,null,null,"2013-03-16","",null,null,Tandem
+lijak,3,"",195,-nan,null,null,"2013-03-22","",null,null,Tandem
+dobrča,2,"",60,-nan,null,null,"2014-08-19","",null,null,Tandem
+dobrča,6,"",180,-nan,null,null,"2014-08-23","",null,null,Tandem
+dobrča,4,"",120,-nan,null,null,"2014-08-24","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-03-04","",null,null,Tandem
+lijak,1,"",30,-nan,null,null,"2015-04-03","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-04-12","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-05-08","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-05-14","",null,null,Tandem
+lijak,1,"",30,-nan,null,null,"2015-05-19","",null,null,Tandem
+dobrča,2,"",60,-nan,null,null,"2015-06-01","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-06-01","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-06-02","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-06-02","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-06-07","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-06-07","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-06-08","",null,null,Tandem
+dobrča,2,"",60,-nan,null,null,"2015-06-08","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-06-09","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-06-10","",null,null,Tandem
+dobrča,3,"",90,-nan,null,null,"2015-06-11","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-06-12","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-06-18","",null,null,Tandem
+vogel,1,"",30,-nan,null,null,"2015-06-21","",null,null,Tandem
+dobrča,4,"",120,-nan,null,null,"2015-06-22","",null,null,Tandem
+dobrča,2,"",60,-nan,null,null,"2015-06-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-06-28","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2015-06-30","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2015-07-04","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-05","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-05","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-07-07","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-07-07","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-10","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-11","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2015-07-11","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-19","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-19","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-19","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-20","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-20","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-21","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-21","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-21","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-21","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-21","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-22","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-22","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-22","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-23","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-23","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-23","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-07-23","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-24","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-24","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-07-24","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-03","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-08-03","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-04","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-04","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-05","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-06","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-06","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-06","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-07","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-07","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-07","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-08","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-11","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-13","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-13","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-13","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-13","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-14","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-14","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-14","",null,null,Tandem
+vogel,1,"",30,-nan,null,null,"2015-08-21","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-08-21","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-22","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-22","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-23","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-26","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2015-08-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-28","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-28","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-28","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-28","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-28","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-29","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-30","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-08-30","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-08","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-08","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-08","",null,null,Tandem
+matajur,1,"",30,-nan,null,null,"2015-09-09","",null,null,Tandem
+matajur,1,"",30,-nan,null,null,"2015-09-09","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-09-11","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2015-09-12","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-21","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-21","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-21","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-21","",null,null,Tandem
+dobrča,1,"",30,-nan,null,null,"2015-09-21","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-09-22","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-09-22","",null,null,Tandem
+vogel,1,"",30,-nan,null,null,"2015-11-06","",null,null,Tandem
+vogel,1,"",30,-nan,null,null,"2015-11-06","",null,null,Tandem
+lijak,1,"",30,-nan,null,null,"2015-11-06","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-11-06","",null,null,Tandem
+lijak,1,"",30,-nan,null,null,"2015-11-07","",null,null,Tandem
+mangart,1,"",30,-nan,null,null,"2015-11-07","",null,null,Tandem
+mangart,1,"",30,-nan,null,null,"2015-11-07","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2015-11-08","",null,null,Tandem
+ambrož,2,"",60,-nan,null,null,"2015-11-08","",null,null,Tandem
+lijak,7,"",140,-nan,null,null,"2016-01-07","",null,null,Tandem
+ambrož,2,"",60,-nan,null,null,"2016-02-06","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2016-02-07","",null,null,Tandem
+dobrča,4,"",120,-nan,null,null,"2016-02-08","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2016-07-02","",null,null,Tandem
+dobrča,4,"",120,-nan,null,null,"2016-07-03","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2016-07-07","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2016-07-08","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2016-07-08","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2016-07-09","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2016-07-09","",null,null,Tandem
+kobala,3,"",90,-nan,null,null,"2016-07-10","",null,null,Tandem
+kobala,3,"",90,-nan,null,null,"2016-07-10","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2016-07-23","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2016-07-27","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2016-07-27","",null,null,Tandem
+kobala,5,"",150,-nan,null,null,"2016-07-29","",null,null,Tandem
+kobala,5,"",150,-nan,null,null,"2016-07-29","",null,null,Tandem
+kobala,3,"",90,-nan,null,null,"2016-07-30","",null,null,Tandem
+kobala,3,"",90,-nan,null,null,"2016-07-30","",null,null,Tandem
+ambrož,1,"",30,-nan,null,null,"2016-08-03","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2016-08-28","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2016-08-28","",null,null,Tandem
+kobala,1,"",30,-nan,null,null,"2016-08-28","",null,null,Tandem
+kobala,3,"",90,-nan,null,null,"2016-08-28","",null,null,Tandem
+lijak,1,"",30,-nan,null,null,"2016-09-02","",null,null,Tandem
+lijak,1,"",30,-nan,null,null,"2016-09-02","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2016-09-03","",null,null,Tandem
+kobala,2,"",60,-nan,null,null,"2016-09-03","",null,null,Tandem
+lijak,6,"",180,-nan,null,null,"2017-01-06","",null,null,Tandem
+ambrož,2,"",60,-nan,null,null,"2017-03-28","",null,null,Tandem
+lijak,1,"",30,-nan,null,null,"2017-03-31","",null,null,Tandem

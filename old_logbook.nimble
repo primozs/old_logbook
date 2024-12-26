@@ -13,3 +13,5 @@ bin           = @["old_logbook"]
 requires "nim >= 2.2.0"
 
 requires "tabby >= 0.6.0"
+requires "datamancer >= 0.5.0"
+requires "ggplotnim >= 0.7.2"

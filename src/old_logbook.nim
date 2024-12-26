@@ -2,7 +2,7 @@ import ./stats
 import ./merge
 
 proc main() =
-  # mergeOldCsvFiles()
+  mergeOldCsvFiles()
   processStatsTotals()
 
 when isMainModule:

@@ -1,0 +1,18 @@
+    totals.records_count=1247
+    totals.flights_count=1366
+
+    Duration:
+    totals.total_duration=1493.62
+    totals.mean_duration=1.18
+    totals.max_duration=15.0
+
+    Distance:
+    totals.total_distance=5309.95
+    totals.mean_distance=4.26
+    totals.max_distance=144.8
+
+    totals.max_alt=4005
+    totals.max_lift=8.199999999999999
+
+    totals.gliders=@["wind", "rox", "p6c", "airea tension", "neon sector", "divine", "neon/divine", "tamoj", "nimbus", "sektor", "cult", "ventus2", "cirrus", "soul", "stratus", "xxx", "stratus 2", "avaxsr7", "l23", "l13", "akro", "magus", "tandem", "domino in dhv 2 gradient", "atlas", "sonic", "stream", "tandem zmaj", "magus novi proto", "solski", "artic niviuk", "bommerang", "yeti", "nupce", "eden"]
+  
